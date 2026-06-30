@@ -1,35 +1,52 @@
-# Carta de Intenções — Fornecimento de Material para P&D
+# Carta de Intenção — Proposta de Parceria com Imperveg
 
-**De:** Imperveg — Polímeros Vegetais (Donizete)
-**Para:** Grupo Fábrica Modelo
-**Data:** Julho de 2026
-**Finalidade:** Manifestação de interesse como parceiro fornecedor de material para projeto FINEP Mais Inovação
+> **Documento do Grupo Executor Fábrica Modelo**
+> **Finalidade:** Proposta de parceria para fornecimento de PU Vegetal — projeto FINEP Mais Inovação
+> **Data:** Julho/2026
+> **De:** Fabio Takwara (Tecnologia Takwara) — em nome do Grupo Executor Fábrica Modelo
+> **Para:** Donizete Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais
 
 ---
 
-Prezados,
+Prezado Donizete,
 
-A Imperveg, fabricante brasileira de **polímeros vegetais à base de óleo de mamona**, manifesta seu interesse em participar como **parceiro fornecedor de material** para o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido à FINEP.
+Espero que esteja bem. Como conversamos, estou estruturando o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"** para submissão ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo em **31 de agosto de 2026**.
 
-## 1. Produtos disponíveis para o projeto
+O projeto tem como núcleo um sistema de painéis arquitetônicos estruturais (patenteado, acreditado CDHU/Caixa) e abre linhas de P&D para incorporação de materiais renováveis — onde o **PU Vegetal da Imperveg** é peça-chave.
 
-| Produto | Aplicação | TRL |
-|---------|-----------|-----|
-| **UG 132 A** — Impermeabilizante vegetal bicomponente | Impermeabilização de baldrames, lajes, painéis, piscinas | TRL 7+ (certificado NBR 12170 para água potável) |
-| **MAMONEX RD70** — Espuma expansiva de PU vegetal | Isolamento térmico, reforço estrutural, preenchimento | TRL 4-5 |
-| **AGT 1315** — Adesivo estrutural/aglomerante | Compósitos, painéis, laminação | TRL 4-5 |
+## O Projeto em Resumo
 
-## 2. Compromissos
+| Característica | Detalhe |
+|----------------|---------|
+| **Valor** | R$ 5.000.000,00 |
+| **Proponente** | Michel / Texos (tecnologia painéis) |
+| **ICT parceiro** | Em prospecção (UFSCar, UNICAMP/NIPE, IPT) |
+| **Equipe** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação), Fabio Takwara (curadoria/redação) |
 
-- **Fornecimento de material** para testes, prototipagem e validação dentro do escopo do projeto
+## Aplicações da Imperveg no Projeto
+
+| Produto | Aplicação | Benefício |
+|---------|-----------|-----------|
+| **UG 132 A** (impermeabilizante) | Impermeabilização de baldrames, lajes, painéis estruturais | Substitui mantas asfálticas — atóxico, certificado para água potável |
+| **MAMONEX RD70** (espuma expansiva) | Isolamento térmico, revestimentos, reforço estrutural | 50x mais leve que concreto, 200 MPa resistência |
+| **AGT 1315** (adesivo estrutural) | Compósitos, painéis, laminação | Aglomerante renovável para biocompósitos |
+
+## Forma de Participação
+
+Considerando as regras do FINEP (**proponente não pode ser fornecedor contratado pelo projeto**), a Imperveg atuaria como **parceiro fornecedor de material**, não como empresa proponente.
+
+Solicito sua apreciação para formalizar a parceria nos seguintes moldes:
+
+- **Fornecimento de material** para testes, prototipagem e validação — integralmente ou com desconto, **da forma que achar melhor**
 - **Suporte técnico** da engenharia da Imperveg para aplicação dos produtos
-- **Compartilhamento de dados técnicos** e fichas de segurança para fundamentação científica
+- **Compartilhamento de dados técnicos** e fichas de segurança para fundamentação científica da proposta
 
-## 3. Condições
+Sei da sua mudança para Portugal e da nova fábrica aí, mas sua parceria e o portfólio da Imperveg continuam sendo fundamentais para o que estamos construindo aqui. O PU Vegetal de mamona é a espinha dorsal da nossa proposta de substituição de materiais petroquímicos na construção.
 
-Por se tratar de fornecimento de material, a Imperveg atua como **parceiro fornecedor**, não como empresa proponente, conforme regras do edital FINEP que impedem o proponente de ser contratado pelo projeto.
+Fico à disposição para conversarmos em mais detalhes. Assim que tiver sua manifestação, incorporo na proposta final.
 
-Atenciosamente,
+Um abraço,
 
-Donizete
-Imperveg — Polímeros Vegetais
+**Fabio Takwara**
+Tecnologia Takwara
+[contato]
