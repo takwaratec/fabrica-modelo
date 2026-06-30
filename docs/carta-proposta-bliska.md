@@ -11,7 +11,7 @@
 
 Prezado Professor Bliska,
 
-Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, diretor da **TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda.** Estou escrevendo a pedido de um parceiro, o **Fabio Takwara**, que esteve na **Hortitec** em Holambra-SP e no estande da **revista Plasticultura** viu uma **maquete de estufa geodésica** que chamou sua atenção. Foi ele quem me pediu para fazer este contato.
+Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, professor do **IFSP** (Instituto Federal de São Paulo). Estou escrevendo a pedido de um parceiro, o **Fabio Takwara**, que esteve na **Hortitec** em Holambra-SP e no estande da **revista Plasticultura** viu uma **maquete de estufa geodésica** que chamou sua atenção. Foi ele quem me pediu para fazer este contato.
 
 É com grande satisfação que o convidamos a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo de submissão em **31 de agosto de 2026**.
 
