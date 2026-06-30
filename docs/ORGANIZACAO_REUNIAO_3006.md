@@ -419,7 +419,6 @@ Cada empresa precisa comprovar:
 | **Sérgio Prado** | PUC-SP — Patente Eco Fabri | Container de reciclagem plástico+PU→tijolos |
 | **Prof. Bliska Jr.** | UNICAMP — NIPE/CEP | Estufas geodésicas, plasticultura, estufas |
 | **Joaquim Sando** | MST | Manejo de bambuzais invasores, viveiro educador |
-| **Prof. Ximena** | Universidad Tecnológica de Pereira (Colômbia) | Técnica bahareque, diploma em bambu |
 | **CEFET-MG** | Incubadora Nascente (contato passado) | Resíduo de quartzito + PU — compósito de altíssima resistência |
 
 ### 8.4 Forma de participação
