@@ -60,6 +60,7 @@ O embasamento científico do projeto está no Acervo Científico:
 
 A produção técnica e científica dos membros está catalogada no **Acervo Científico**:
 - [Perfil André Blanco](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) — Lattes, CV, portfólio
+- [Perfil Fabio Takwara](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) — pesquisador cidadão, ORCID, acervo
 - [Ficha Texos/Michel](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-texos-michel.md) — referência do parceiro tecnológico
 
 ---

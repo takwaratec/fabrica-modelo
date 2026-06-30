@@ -55,7 +55,8 @@ Cada membro do grupo tem seu perfil técnico-científico catalogado no Acervo:
 | Membro | Ficha no Acervo | Conteúdo |
 |--------|-----------------|----------|
 | André Blanco | [`docs/analises/ecosala/perfil-andre-blanco.md`](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) | Lattes, CV, portfólio, produção intelectual |
-| Demais membros | *(em produção)* | —
+| Fabio Takwara | [`docs/analises/ecosala/perfil-fabio-takwara.md`](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) | Pesquisador cidadão, acervo científico, ORCID |
+| Demais membros | *(em produção)* | — |
 
 ## Documentos de Apoio já Produzidos
 
