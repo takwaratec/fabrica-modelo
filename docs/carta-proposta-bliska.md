@@ -68,14 +68,14 @@ O **PU Vegetal de mamona** (Imperveg) oferece soluções à base de óleo de mam
 
 Estamos organizando materiais técnicos para subsidiar sua avaliação:
 
-1. **Ficha técnica do PU Vegetal (Imperveg)** — especificações, certificações, dados de desempenho
-2. **Proposta técnica de estufas geodésicas (Fabio Takwara)** — memorial descritivo e parâmetros estruturais
-3. **PDF Holambra Conectada** — documento de rastreabilidade e certificação
-4. **Proposal Teaser completo do projeto** — visão geral, orçamento, cronograma
-5. **Formulário Espelho FINEP** — requisitos detalhados do edital
+1. **Ficha técnica do PU Vegetal (Imperveg)** — [UG132A (impermeabilizante)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) · [MAMONEX RD70 (espuma expansiva)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) · [Ficha geral Imperveg](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md)
+2. **Proposta técnica de estufas geodésicas (Fabio Takwara)** — memorial descritivo e parâmetros estruturais: [Ficha Holambra Conectada](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md) · [Conexões Semiflexíveis com Cabo de Aço](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md)
+3. **PDF Holambra Conectada** — documento de rastreabilidade e certificação: [Ficha do projeto no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
+4. **Proposal Teaser** — [visão geral, orçamento, cronograma](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/proposal-teaser.md)
+5. **Formulário Espelho FINEP** — [requisitos detalhados do edital](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/formulario-espelho-finep.md)
 6. **Vídeo demonstrativo da geodésica:** [https://youtu.be/OGeVIEGZfb0](https://youtu.be/OGeVIEGZfb0)
 
-*(Os materiais 1-3 e 6 podem ser enviados em anexo se preferir; os itens 4-5 já estão disponíveis no repositório público do projeto.)*
+*(Todos os links acima já estão disponíveis nos repositórios públicos do projeto.)*
 
 ---
 
