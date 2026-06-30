@@ -115,3 +115,30 @@ Os materiais compartilhados por André Blanco fornecem:
 
 > *ATA produzida por Hermes Agent · Tecnologia Takwara · 30/06/2026*
 > *Arquivo: fabrica-modelo/docs/ATA_REUNIAO_3006.md*
+
+---
+
+## 5. DOCUMENTOS PRODUZIDOS — 30/06/2026
+
+| # | Documento | Localização | Finalidade |
+|---|-----------|-------------|------------|
+| D01 | **ATA Reunião 30/06** | `fabrica-modelo/docs/ATA_REUNIAO_3006.md` | Registro oficial da reunião |
+| D02 | **Carta de Intenção — Michel** | `fabrica-modelo/docs/carta-intencao-michel.md` | Manifestação como proponente — patente painéis, contrapartida |
+| D03 | **Carta de Intenção — Imperveg** | `fabrica-modelo/docs/carta-intencao-imperveg.md` | Fornecimento de PU Vegetal para P&D |
+| D04 | **Proposal Teaser** | `fabrica-modelo/docs/proposal-teaser.md` | Apresentação do projeto para ICTs e investidores |
+| D05 | **Formulário Espelho FINEP** | `fabrica-modelo/docs/formulario-espelho-finep.md` | Checklist completo de requisitos e prazos |
+| D06 | **Organização da Reunião** | `fabrica-modelo/docs/ORGANIZACAO_REUNIAO_3006.md` | Mapa mental, tarefas, diretrizes, perfil Bliska |
+| D07 | **Perfil André Blanco** | `Acervo/docs/analises/ecosala/perfil-andre-blanco.md` | Ficha científica 8 seções com materiais do Drive |
+| D08 | **Extração de Dados — 17 fichas** | `Acervo/docs/extracao-dados-fichas-cientificas.md` | Evidências contra concreto / a favor bambu+PU |
+| D09 | **Ficha Protocolo Cancún** | `Acervo/docs/analises/07_governanca-projetos/ficha-protocolo-governanca-cancun.md` | Governança para intervenções em comunidades |
+| D10-D15 | **Materiais André (6 .md)** | `fabrica-modelo/docs/materiais-andre/` | Lattes, CV, TECHSUS, Ambientes Criativos, Patrono IAT, Escritório Modelo |
+
+## 6. PRÓXIMOS PASSOS IMEDIATOS
+
+| Data | Marco |
+|------|-------|
+| **04/07 (sex)** | Maurilio conversa com Michel sobre contrapartida |
+| **07/07 (seg)** | Versão do projeto para parceiros institucionais |
+| **14/07** | Carta de Intenções ICT assinada |
+| **31/07** | Primeira versão completa da proposta |
+| **31/08** | **SUBMISSÃO FINEP** |
