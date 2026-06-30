@@ -38,7 +38,7 @@ Sua pesquisa com **estufas geodésicas e ambientes protegidos** na UNICAMP é re
 
 O Fabio Takwara desenvolve uma **proposta de estufas geodésicas em bambu** alinhada com sua pesquisa em estufas e ambientes protegidos. Segue link de vídeo demonstrativo da estrutura geodésica:
 
-🎥 **Vídeo demonstrativo:** https://youtu.be/OGeVIEGZfb0
+🎥 **Vídeo demonstrativo:** [https://youtu.be/OGeVIEGZfb0](https://youtu.be/OGeVIEGZfb0)
 
 A integração possível:
 
@@ -75,7 +75,7 @@ Estamos organizando materiais técnicos para subsidiar sua avaliação:
 3. **PDF Holambra Conectada** — documento de rastreabilidade e certificação
 4. **Proposal Teaser completo do projeto** — visão geral, orçamento, cronograma
 5. **Formulário Espelho FINEP** — requisitos detalhados do edital
-6. **Vídeo demonstrativo da geodésica:** https://youtu.be/OGeVIEGZfb0
+6. **Vídeo demonstrativo da geodésica:** [https://youtu.be/OGeVIEGZfb0](https://youtu.be/OGeVIEGZfb0)
 
 *(Os materiais 1-3 e 6 podem ser enviados em anexo se preferir; os itens 4-5 já estão disponíveis no repositório público do projeto.)*
 
