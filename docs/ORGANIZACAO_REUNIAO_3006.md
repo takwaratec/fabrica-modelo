@@ -210,22 +210,26 @@ FASE 3 — FECHAMENTO (01/08 a 31/08)
 | Item | Valor | Observação |
 |------|-------|------------|
 | Teto mínimo FINEP | R$ 5.000.000,00 | Abaixo disso não submete |
-| Contrapartida 5% (microempresa) | R$ 250.000,00 | Já é 56% maior que os R$ 160k do Michel |
-| Contrapartida 10% (empresa média) | R$ 500.000,00 | |
+| Contrapartida 5% (microempresa até R$4,8M) | R$ 250.000,00 | Já é 56% maior que os R$ 160k do Michel |
+| Contrapartida 10% (empresa R$4,8M-10M) | R$ 500.000,00 | |
 | Contrapartida 20-50% (grande) | R$ 1.000.000-2.500.000,00 | |
 | Prototipagem Michel (estimado) | ~R$ 160.000,00 | **Insuficiente isoladamente** |
 
-**Possíveis soluções discutidas no grupo:**
+**Pontuação de Maurilio que inviabilizam certos arranjos:**
+- ❌ **Proponente não pode ser fornecedor** — a empresa proponente não pode ser contratada pelo projeto. Imperveg como proponente está descartada (seria fornecedora de material PU Vegetal).
+- ❌ **Contrapartida exclusivamente financeira** — não pode ser imaterial ou em serviços.
+- ❌ **Capacidade financeira limitante** — não basta ter faturamento, tem que sobrar recurso (faturamento - custos = capacidade máxima).
+- ⚠️ **Microempresa de Maurilio não alcança R$5M** — empresas precisam ter saúde financeira compatível.
+
+**Possíveis soluções:**
 
 | Alternativa | Viabilidade | Riscos |
 |-------------|-------------|--------|
-| **A — Uma empresa maior como proponente âncora** (ex: Imperveg, construtora, indústria) | Média — Imperveg pode entrar com contrapartida em material (mas FINEP exige financeira) | Perder autonomia técnica |
-| **B — Consórcio de microempresas** (cada uma com sua contrapartida 5%) | Requer 3-5 empresas com R$ 4,8M faturamento cada | Complexidade de gestão |
-| **C — Michel + outra(s) empresa(s) como co-proponentes** | A ver — Maurilio vai levantar na sexta | Depende da saúde financeira |
-| **D — ICT como âncora** (universidade pública pode reduzir exigência de contrapartida?) | A verificar no edital | ICT sozinho não substitui empresa |
-| **E — Investidor externo / patrono** (empresa de grande porte interessada no resultado) | Ideal — resolveria a contrapartida e o capital | Encontrar esse investidor é o desafio |
-
-**Decisão:** A definir após Maurilio levantar a real capacidade do Michel (sex 04/07) e do grupo mapear potenciais investidores na rede de contatos.
+| **A — Michel como proponente principal** (com sua empresa) | A ver — Maurilio levanta na sex | Depende da saúde financeira |
+| **B — Consórcio de microempresas** (cada uma com contrapartida 5%) | Requer 3-5 empresas com até R$4,8M faturamento cada | Complexidade de gestão |
+| **C — Investidor externo/patrono** (construtora, indústria, agro) | Ideal — resolveria contrapartida e capital | Encontrar esse investidor |
+| **D — ICT como âncora** (verificar se reduz exigência) | A confirmar no edital | ICT sozinho não substitui |
+| **E — Michel + outra(s) empresas co-proponentes** (ex: Texos + outra) | A verificar na conversa de sexta | Depende das empresas
 
 ---
 
@@ -288,6 +292,215 @@ FASE 3 — FECHAMENTO (01/08 a 31/08)
 | **Universidad Tecnológica de Pereira (Colômbia)** — diploma em bambu | Referência acadêmica | Contato com Prof. Ximena |
 | **Belgo Mineira** — pesquisa concreto verde (pozolana, escória) | Referência setorial | Por que a indústria do aço está investindo |
 | **Série Técnica Takwara** (Zenodo DOI: 10.5281/zenodo.18827106) | Publicação | Embasa credibilidade científica |
+
+---
+
+## 6. 🧠 PONDERAÇÕES DE MAURILIO — Regras de Ouro do FINEP
+
+> Maurilio estudou o edital a fundo e trouxe as regras que **condicionam todo o arranjo**. Nenhuma decisão pode ignorá-las.
+
+### Regras vinculantes
+
+| # | Ponderação | Implicação direta | Transcrição |
+|---|------------|-------------------|-------------|
+| R1 | **Proponente não pode ser fornecedor** | Imperveg **não pode ser proponente** — entraria como parceiro tecnológico/fornecedor de material PU Vegetal | "a empresa que está sendo proponente ela não pode ser contratada pelo projeto" |
+| R2 | **Contrapartida exclusivamente financeira** | Não adianta oferecer serviços, material, horas técnicas como contrapartida | "contrapartida... é financeira, ela não pode ser imaterial em serviços" |
+| R3 | **Microempresa (faturamento ≤ R$4,8M/ano) → contrapartida 5%** | Melhor enquadramento possível para o grupo. Acima disso sobe para 10%+ | |
+| R4 | **Capacidade financeira limitante** | Não basta ter faturamento — tem que ter sobra. Capacidade = faturamento - custos | "determina um valor máximo que a empresa pode pegar" |
+| R5 | **ICT obrigatório** | Sem ICT o projeto é automaticamente desclassificado | "obrigatório ter uma parceria com algum ICT" |
+| R6 | **Resíduos Sólidos (PNRS) = pontuação extra** | Projetos alinhados à Política Nacional de Resíduos Sólidos ganham ponto na avaliação | "ganha um pontinho lá" |
+
+### Preocupações estratégicas
+
+| # | Ponderação | Contexto |
+|---|------------|----------|
+| S1 | **"Qual o tamanho da nossa perna?"** | Decisão central: projeto focado no Michel (menor, factível) vs. fábrica escola (maior, mais atores, mais complexo) |
+| S2 | **"Não perder a oportunidade concreta"** | Risco de ter o Michel (com contrapartida real) e não usar, tentar algo maior e ficar sem nada |
+| S3 | **Urgência de fechar ICT** | "O tempo deles não é tão agilizado como o nosso" — precisa iniciar conversa já |
+| S4 | **Arranjo em Rede é inviável agora** | Exige 3 estados, ICT em cada um, contrapartida mínima de R$16M — complexidade muito alta |
+| S5 | **Sua própria empresa não alcança R$5M** | "minha por exemplo... nunca chegaria num valor de 5 milhões" — sinal que o grupo precisa de empresa(s) com mais capacidade |
+
+### Condições para o arranjo de contrapartida
+
+```
+Para um projeto de R$ 5.000.000:
+  ┌ Se 1 microempresa proponente → precisa de R$ 250.000 contrapartida
+  ├ Se 2 microempresas → R$ 125.000 cada
+  ├ Se 3 microempresas → R$ 83.333 cada
+  └ Se empresa média (até R$10M) → R$ 500.000 contrapartida
+
+Cada empresa precisa comprovar:
+  ✅ Faturamento compatível
+  ✅ Saúde financeira (faturamento - custos ≥ contrapartida)
+  ✅ Capacidade de desembolso
+```
+
+---
+
+## 7. 🔗 INDICAÇÕES E APONTAMENTOS DO ANDRÉ
+
+> André trouxe a visão sistêmica, a articulação institucional e o lastro normativo. Cada item abaixo é um ativo concreto do grupo.
+
+### 7.1 Ativos institucionais
+
+| Ativo | Detalhe | Como usar no projeto |
+|-------|---------|---------------------|
+| **ABNT Comissão 6263** | André é membro. Nova norma de indicadores de sustentabilidade, plano diretor, infraestrutura verde e impacto de vizinhança | Lastro normativo para o projeto. A proposta pode citar que está alinhada às normas que estão sendo publicadas. |
+| **Tecnologia Texos (Michel)** | Patente de painéis arquitetônicos. Acreditação CDHU + Caixa. Processo com IPT. | Carro-chefe do projeto. Ativo mais maduro. |
+
+### 7.2 Rede de contatos universitários
+
+| ICT Potencial | Contato | Expertise |
+|---------------|---------|-----------|
+| **São José dos Campos** — Polo de Inovação + IPT + UNESP | André conhece o diretor de inovação (Marcelo Guedes) | Concreto + inovação + incubadora |
+| **UNICAMP / Inova** (Campinas) | André tem canal | Inovação tecnológica |
+| **FUMEP** (Piracicaba) | Contato | Engenharia |
+| **UFSCar** (São Carlos) | Filha do Ximbu — materiais naturais + concreto | **Ideal**: tem concreto **e** bambu/terra/materiais renováveis |
+| **Instituto Federal de São Carlos** | André já conversou | Querem montar fábrica escola |
+| **Universidade de Sevilha, Barcelona, Porto** | Contatos de André | Assistência técnica internacional, sistemas construtivos naturais |
+
+### 7.3 Visão de Convergência
+
+| Tema | O que André propôs |
+|------|-------------------|
+| **Assistência Técnica Integrada (ATI)** | Conectar este projeto ao ECOSALA/Vaga Lúmen — "assistência técnica em habitação, alimentação, saúde integral" + escritórios itinerantes |
+| **Fábrica paralela de renováveis** | "Na fábrica da gente pode ter uma fábrica paralela só para trabalhar com materiais renováveis" |
+| **Estratégia "subliminar" com Michel** | Não destacar os materiais alternativos como bandeira. Colocar como "melhoria do sistema, novos agregados, busca de patentes". O projeto é de inovação em industrialização, não de guerra ao concreto. |
+| **Concreto verde da Belgo Mineira** | Indústria do aço já está investindo em pozolana sem queima e escória de mineração — sinal de que o mercado está mudando |
+| **Pó de rocha (Gisele/Embrapa)** | Resíduo de mineração como fertilizante + possível insumo para construção civil |
+| **Equipe ambientalista** | "nós somos todos meio ambientalista" — alinhamento de valores fundamental |
+
+### 7.4 Pendente de recebimento
+
+| Item | O quê | Status |
+|------|-------|--------|
+| Links de projetos | André vai enviar via WhatsApp | ⏳ Aguardando |
+| Documentos Texos | Patente, acreditações CDHU/Caixa, relação IPT | ⏳ Aguardando |
+
+---
+
+## 8. 💡 PROPOSIÇÕES DE FABIO
+
+> Fabio colocou na mesa o que pode oferecer — não como vendedor, mas como assessor técnico-científico.
+
+### 8.1 O que Fabio entrega ao grupo
+
+| Proposição | Descrição | Status |
+|------------|-----------|--------|
+| **P01** | Acervo científico catalogado (17 fichas de certificações + PU Vegetal + Bambu) — base de evidências para a proposta | ✅ Pronto |
+| **P02** | Fichas técnicas individuais dos membros do grupo (André já tem a sua) | ✅ André pronto / Maurilio a fazer |
+| **P03** | Organização documental e roteirização da proposta via IA | 🔄 Em andamento |
+| **P04** | Mapeamento de linhas de pesquisa que conectam a tecnologia do Michel ao bambu+PU+resíduos | 🔄 Em andamento |
+| **P05** | Carta-convite / proposal teaser para parceiros institucionais e investidores | ⏳ A produzir (até 07/07) |
+| **P06** | Minuta de Acordo de Parceria entre proponentes | ⏳ A produzir (até 31/07) |
+
+### 8.2 Tecnologias que Fabio coloca na mesa
+
+| Tecnologia | Maturidade | Aplicação no projeto |
+|------------|-----------|---------------------|
+| **PU Vegetal (Imperveg)** — UG 132 A (impermeabilizante), MAMONEX RD70 (espuma expansiva) | TRL 4-5 / 7+ | Impermeabilização de baldrames, lajes, painéis. Espuma para reforço estrutural e isolamento |
+| **Tratamento Sem Veneno do Bambu** | TRL 4-5 | Preservação de bambu por vapor saturado — substituto de CCA/CCB para uso estrutural |
+| **Protocolo de impermeabilização do bambu** (resinagem pós-tratamento) | TRL 4-5 | Estoques de varas de bambu prontas para construção |
+| **Painéis sanduíche bambu+PU** | TRL 4 | Fechamentos, divisórias, lajes leves — 100% livre de formaldeído |
+| **Reforço interno bambu+PU** (injeção de espuma no colmo oco) | TRL 3-4 | Amplia capacidade de carga do bambu para uso estrutural |
+| **Estufas geodésicas de bambu** | TRL 4-5 (bloqueado na matriz alumínio) | Substituir alumínio por bambu + PU — parceria com Prof. Bliska Jr. (UNICAMP) |
+| **SMGA — Sistema de Monitoramento Geoespacial** | TRL 3-4 | MRV para crédito de carbono, inventário de biomassa |
+
+### 8.3 Contatos e parcerias que Fabio aciona
+
+| Contato | Instituição | Função no projeto |
+|---------|-------------|-------------------|
+| **Donizete (Imperveg)** | PU Vegetal — Aguaí/SP + Portugal | Fornecedor de material PU para prototipagem |
+| **Profa. Tânia** | UnB — LaPCiS (8 anos de parceria) | Modelo de carta de intenções, formalização de pesquisador colaborador |
+| **Gisele Vilela** | Embrapa | Pó de rocha, fertilizantes naturais, insumos para construção |
+| **Daniela Maciel** | Embrapa Territorial | Ferramentas de monitoramento, georreferenciamento |
+| **Ludmila** | Call/DF | Arranjos institucionais, normalização, interface CREA |
+| **Sérgio Prado** | PUC-SP — Patente Eco Fabri | Container de reciclagem plástico+PU→tijolos |
+| **Prof. Bliska Jr.** | UNICAMP — NIPE/CEP | Estufas geodésicas, plasticultura, estufas |
+| **Joaquim Sando** | MST | Manejo de bambuzais invasores, viveiro educador |
+| **Prof. Ximena** | Universidad Tecnológica de Pereira (Colômbia) | Técnica bahareque, diploma em bambu |
+| **CEFET-MG** | Incubadora Nascente (contato passado) | Resíduo de quartzito + PU — compósito de altíssima resistência |
+
+### 8.4 Forma de participação
+
+| Aspecto | Proposta de Fabio |
+|---------|-------------------|
+| **Papel** | Assessoria técnico-científica — curadoria, fundamentação, redação |
+| **Vínculo** | Executor, não fornecedor |
+| **Remuneração** | Percentual mínimo, **somente se projeto aprovado** |
+| **Reconhecimento** | Carta de Intenções genérica (modelo UnB em tramitação) |
+
+### 8.5 Regras de trabalho propostas por Fabio
+
+> "Manda um áudio pelo WhatsApp. 'Ó isso aqui eu achei que seja claro...' — diz quem é que tá falando, relacionado a tal documento, tal item."
+
+Protocolo de comunicação aprovado pelo grupo:
+- ✅ Áudios identificados (nome + documento/item)
+- ✅ Um assunto por mensagem
+- ✅ Fabio processa e integra via agentes
+
+---
+
+## 9. 👤 PERFIL — PROF. ANTONIO BLISKA JR. (UNICAMP)
+
+> **Indicação de Fabio** — mencionado como "Prof. Basta" na reunião. Pesquisado para confirmar dados.
+
+### Identificação
+
+| Campo | Dado |
+|-------|------|
+| **Nome** | Antônio Bliska Júnior |
+| **Email** | bliskajr@unicamp.br |
+| **Vínculo** | UNICAMP — NIPE (Núcleo Interdisciplinar de Planejamento Energético) |
+| **Cargo** | Coordenador de Transferência de Tecnologia do **Centro de Engenharia de Plasticultura (CEP)** — parceria UNICAMP/FAPESP/Braskem |
+| **Lattes** | Currículo disponível no site do NIPE |
+| **LinkedIn** | Antonio Bliska - Curso de Agronomia - UNIFAJ |
+| **Instagram** | @bliskajr / @ce.plasticultura |
+| **Página NIPE** | https://www.nipe.unicamp.br/profissional/antonio-bliska/ |
+
+### Formação
+
+| Nível | Instituição | Ano |
+|-------|-------------|-----|
+| Graduação — Eng. Agronômica | ESALQ / USP | 1983 |
+| Mestrado — Eng. Agrícola | UNICAMP | 1997 |
+| Doutorado — Eng. Agrícola | UNICAMP | 2010 |
+| Especializações | Israel, Espanha, Holanda | — |
+
+### Áreas de atuação
+
+- Estufas e casas de vegetação
+- Plasticultura (uso de plásticos na agricultura)
+- Cultivo protegido
+- Hidroponia
+- Pós-colheita de produtos perecíveis
+- Gestão de propriedades rurais
+
+### Professor na UNIFAJ (Holambra)
+
+Faculdade de Agronegócios de Holambra — **a 20 km de Jaguariúna**. Isso explica o projeto de estufas geodésicas em Jaguariúna.
+
+### Projeto de estufas geodésicas
+
+> **Mencionado por Fabio na reunião:** projeto de estufas geodésicas em Jaguariúna, **não publicado**, em andamento. O objetivo declarado de Fabio é **substituir a matriz de alumínio** (altamente impactante) por **bambu + PU Vegetal**.
+
+### Relevância para o projeto Fábrica Modelo
+
+| Ponto | Por que é relevante |
+|-------|---------------------|
+| **ICT potencial** | UNICAMP via NIPE ou CEP pode ser a ICT obrigatória do projeto |
+| **Área de estufas** | Especialista em estruturas de cultivo protegido — compatível com geodésicas |
+| **Proximidade geográfica** | Holambra/Jaguariúna fica a 30 min de Campinas, 1h de Limeira (Fabio) |
+| **Potencial financiador** | Agronegócio de Holambra (cooperativas, produtores de flores) tem interesse em estufas sustentáveis |
+| **PU Vegetal em estufas** | O mesmo PU da construção civil serve para impermeabilização e componentes de estufas |
+| **Relação FAPESP/Braskem** | O CEP tem parceria FAPESP-Braskem — pode abrir portas para outros financiamentos |
+
+### Ação recomendada
+
+1. Fabio ou André faz contato inicial por email (bliskajr@unicamp.br)
+2. Apresentar o projeto de estufas geodésicas de bambu + PU Vegetal
+3. Verificar interesse como ICT parceira ou co-executora
+4. Jaguariúna pode ser um dos primeiros protótipos de aplicação
 
 ---
 
