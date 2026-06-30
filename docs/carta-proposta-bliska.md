@@ -13,7 +13,7 @@ Prezado Professor Bliska,
 
 É com grande satisfação que o convidamos a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo de submissão em **31 de agosto de 2026**.
 
-Sua trajetória de pesquisa com **estufas geodésicas e plasticultura** na UNICAMP é referência direta para as linhas de inovação que estamos propondo. Identificamos convergências concretas entre seu trabalho e três frentes do projeto que gostaríamos de apresentar para sua apreciação.
+Sua trajetória de pesquisa com **estufas geodésicas e ambientes protegidos** na UNICAMP é referência direta para as linhas de inovação que estamos propondo. Identificamos convergências concretas entre seu trabalho e três frentes do projeto que gostaríamos de apresentar para sua apreciação.
 
 ---
 
@@ -32,19 +32,19 @@ Sua trajetória de pesquisa com **estufas geodésicas e plasticultura** na UNICA
 
 ### 1. Geodésicas de Bambu para Agricultura Protegida
 
-O Fabio Takwara desenvolve uma **proposta de estufas geodésicas em bambu** que se alinha diretamente com sua pesquisa em estufas e ambientes protegidos. A integração possível:
+O Fabio Takwara desenvolve uma **proposta de estufas geodésicas em bambu** alinhada com sua pesquisa em estufas e ambientes protegidos. A integração possível:
 
 - **Estruturas geodésicas de bambu tratado** como alternativa às estruturas metálicas convencionais — menor custo, menor impacto ambiental, maior resiliência
 - **Conexões geodésicas** projetadas para facilitar montagem e desmontagem, viáveis para agricultura familiar e comunidades rurais
 - **Potencial de P&D conjunto** para validação estrutural, durabilidade e desempenho agronômico
 
-### 2. Lambra Conectada — Certificação de Processo
+### 2. Holambra Conectada — Certificação e Rastreabilidade
 
-O **projeto Lambra Conectada**, compartilhado com nossa equipe, propõe um sistema de rastreabilidade e certificação de processos construtivos sustentáveis. Sua expertise em materiais e ambientes protegidos pode contribuir para:
+O projeto **Holambra Conectada**, compartilhado com nossa equipe, propõe um sistema de rastreabilidade e certificação de processos construtivos com foco no polo agroindustrial de Holambra-SP. Sua expertise em estufas e ambientes protegidos pode contribuir para:
 
 - **Certificação de estufas geodésicas** como tecnologia social — protocolos de qualidade, desempenho e replicabilidade
-- **Integração com sistemas de certificação** de construção sustentável (compatibilidade com normas ABNT, UTF-8)
 - **Rastreabilidade de materiais** (bambu, PU Vegetal, biocompósitos) ao longo da cadeia produtiva
+- **Integração com sistemas de certificação** de construção sustentável — abrindo caminho para que estufas geodésicas certificadas possam ser incorporadas a programas de habitação e produção de alimentos
 
 ### 3. Impermeabilização com PU Vegetal
 
@@ -58,11 +58,11 @@ O **PU Vegetal de mamona** (Imperveg) oferece soluções de impermeabilização 
 
 ## Materiais Complementares
 
-O André Blanco está organizando materiais técnicos e documentação complementar para subsidiar a avaliação do Prof. Bliska:
+O André Blanco está organizando materiais técnicos e documentação complementar para subsidiar sua avaliação:
 
 1. **Ficha técnica do PU Vegetal (Imperveg)** — especificações, certificações, dados de desempenho
-2. **Proposta técnica de estufas geodésicas (Fabio Takwara)** — desenhos conceituais, parâmetros estruturais
-3. **Documentação do Lambra Conectada** — arquitetura do sistema de certificação
+2. **Proposta técnica de estufas geodésicas (Fabio Takwara)** — memorial descritivo e parâmetros estruturais
+3. **PDF Holambra Conectada** — documento de rastreabilidade e certificação já compartilhado com a equipe
 4. **Proposal Teaser completo do projeto** — visão geral, orçamento, cronograma
 5. **Formulário Espelho FINEP** — requisitos detalhados do edital
 
