@@ -92,17 +92,18 @@ graph TD
 
 | # | Tarefa | Responsável | Prazo | Status |
 |---|--------|-------------|-------|--------|
-| T01 | **Produzir rascunho da proposta** — esboço do projeto, organograma, frentes de trabalho | Fabio Takwara | 30/06 (hoje) | 🔄 Em andamento |
+| T01 | **Produzir rascunho da proposta/teaser** — documento de apresentação para parceiros institucionais | Fabio Takwara | 30/06 (hoje) | 🔄 Em andamento |
 | T02 | **Enviar materiais complementares** — links, projetos, documentos de referência via WhatsApp | André Blanco | 30/06 | ⏳ A fazer |
-| T03 | **Verificar situação financeira/contábil do Michel** — capacidade de contrapartida, enquadramento FINEP | Maurilio Chiaretti | Até 04/07 (sex) | ⏳ Agendado |
-| T04 | **Mapear todos os contatos universitários** — UFSCar, IPT, UNESP, São José dos Campos — perfil, capacidade, interesse | André Blanco | Até 07/07 | ⏳ A fazer |
-| T05 | **Fechar carta de intenções com ICT** — obter modelo da universidade, adaptar, assinar | André + Fabio | Até 14/07 | ⏳ A fazer |
-| T06 | **Enviar materiais de pesquisa/experiência** — Maurilio enviar projetos técnicos que tem (sem necessidade de publicação formal) | Maurilio Chiaretti | Esta semana | ⏳ A fazer |
-| T07 | **Elaborar documento de parceria** — Termo de Cooperação entre as empresas proponentes | Fabio (minuta) + Grupo (revisão) | Até 21/07 | ⏳ A fazer |
-| T08 | **Levantar documentação financeira** — balanços, faturamento das empresas para contrapartida | Cada um (sua empresa) | Até 21/07 | ⏳ A fazer |
-| T09 | **Definir valor do projeto** — com base na capacidade de contrapartida real do grupo | Grupo (decisão conjunta) | Até 21/07 | ⏳ A fazer |
-| T10 | **Escrever proposta completa FINEP** — integrando todos os insumos | Fabio (coord. redação) | Até 15/08 | ⏳ A fazer |
-| T11 | **Revisão final e ajustes** — grupo + parceiros | Grupo | 15-31/08 | ⏳ A fazer |
+| T03 | **Verificar situação financeira/contábil do Michel** — capacidade de contrapartida real, enquadramento FINEP | Maurilio Chiaretti | 04/07 (sex) | ⏳ Agendado |
+| T04 | **Preparar versão do projeto para parceiros institucionais** — proposal teaser + carta-convite para ICTs e investidores | Fabio | 07/07 | ⏳ A fazer |
+| T05 | **Mapear contatos universitários e potenciais investidores** — UFSCar, IPT, UNESP, São José dos Campos, Imperveg | André + Grupo | 07/07 | ⏳ A fazer |
+| T06 | **Fechar carta de intenções com ICT** — obter modelo da universidade, adaptar, assinar | André + Fabio + ICT | 14/07 | ⏳ A fazer |
+| T07 | **Enviar materiais de pesquisa/experiência** — Maurilio enviar projetos técnicos que tem | Maurilio Chiaretti | 07/07 | ⏳ A fazer |
+| T08 | **Elaborar minuta de Acordo de Parceria** — entre empresas proponentes | Fabio (minuta) + Grupo (revisão) | 31/07 | ⏳ A fazer |
+| T09 | **Levantar documentação financeira** — balanços, faturamento para comprovar contrapartida | Cada um (sua empresa) | 21/07 | ⏳ A fazer |
+| T10 | **Definir arranjo de contrapartida** — quem entra com quanto, com base nas capacidades reais | Grupo + Investidores | 21/07 | ⏳ A fazer |
+| T11 | **Escrever proposta completa FINEP** — integrando todos os insumos | Fabio (coord. redação) | 15/08 | ⏳ A fazer |
+| T12 | **Revisão final e ajustes** — grupo, ICT, parceiros | Grupo | 15-31/08 | ⏳ A fazer |
 
 ### Telecomunicação
 - **WhatsApp** para comunicação rápida e envio de materiais
@@ -154,36 +155,77 @@ graph TD
 - ❌ **Não forçar tecnologias que não se encaixam** — bambu+PU entra onde faz sentido
 - ❌ **Não usar codinomes internos** em documentos públicos do projeto
 
-### 4.5 Próximos passos imediatos
+### 4.5 Próximos passos imediatos — CRONOGRAMA REVISADO
+
+> ⚠️ **Nota do Fabio:** Prazo realista para envio aos parceiros institucionais é de **5 a 7 dias**.
+> R$ 160k de contrapartida (Michel) é insuficiente para o teto mínimo de R$ 5M.
+> **Precisamos de um grande investidor/âncora com capacidade de contrapartida real.**
 
 ```
-HOJE (30/06)
-├── Fabio: produz rascunho da proposta ← ESTAMOS AQUI
-├── André: envia materiais complementares via WhatsApp
-└── Grupo: revisa e comenta
+FASE 1 — PREPARAÇÃO (30/06 a 07/07) ← 5-7 DIAS
+├── HOJE (30/06)
+│   ├── Fabio: produz rascunho da proposta ← ESTAMOS AQUI
+│   ├── André: envia materiais complementares via WhatsApp
+│   └── Grupo: revisa e comenta
+│
+├── ATÉ 04/07 (sex)
+│   ├── Maurilio: conversa com Michel — levantar capacidade real
+│   ├── Fabio: integra feedback, refina proposta
+│   └── Grupo: alinha estratégia de contrapartida
+│
+└── ATÉ 07/07 (seg)
+    ├── VERSÃO PARA PARCEIROS INSTITUCIONAIS ENVIADA
+    ├── Documento de apresentação do projeto (proposal teaser)
+    ├── Carta-convite para ICTs e potenciais investidores
+    └── Definição de qual(is) ICT(s) abordar
 
-NESTA SEMANA (até 04/07)
-├── Maurilio: conversa com Michel sobre contrapartida
-├── André: contatos universidades (UFSCar, IPT, SJC)
-└── Fabio: integra feedback e refina proposta
+FASE 2 — FECHAMENTO DE PARCERIAS (08/07 a 31/07)
+├── ATÉ 14/07
+│   ├── Carta de Intenções com ICT assinada
+│   └── Manifestação de interesse de investidores
+│
+├── ATÉ 21/07
+│   ├── Definição do arranjo de contrapartida
+│   ├── Documentação financeira de todas as empresas
+│   └── Minuta de Acordo de Parceria entre proponentes
+│
+└── ATÉ 31/07
+    ├── Primeira versão completa da proposta
+    └── Validação pelo grupo + ICT
 
-ATÉ 14/07
-├── Definição do ICT parceiro
-├── Carta de Intenções assinada
-└── Esboço do projeto validado pelo grupo
-
-ATÉ 31/07
-├── Documentação financeira de todas as empresas
-├── Minuta de parceria / acordo entre proponentes
-└── Primeira versão completa da proposta
-
-ATÉ 15/08
-├── Revisão final
-├── Ajustes com ICT
-└── Preparação para submissão
-
-31/08 — SUBMISSÃO FINEP
+FASE 3 — FECHAMENTO (01/08 a 31/08)
+├── ATÉ 15/08
+│   ├── Revisão técnica e jurídica
+│   └── Ajustes finais com ICT e parceiros
+│
+├── 15-25/08
+│   ├── Documentação completa (fiscal, técnica, anexos)
+│   └── Pré-submissão (revisão de últimos detalhes)
+│
+└── 31/08 — SUBMISSÃO FINEP
 ```
+
+### 4.6 ⚠️ O Problema da Contrapartida — Ponto Crítico
+
+| Item | Valor | Observação |
+|------|-------|------------|
+| Teto mínimo FINEP | R$ 5.000.000,00 | Abaixo disso não submete |
+| Contrapartida 5% (microempresa) | R$ 250.000,00 | Já é 56% maior que os R$ 160k do Michel |
+| Contrapartida 10% (empresa média) | R$ 500.000,00 | |
+| Contrapartida 20-50% (grande) | R$ 1.000.000-2.500.000,00 | |
+| Prototipagem Michel (estimado) | ~R$ 160.000,00 | **Insuficiente isoladamente** |
+
+**Possíveis soluções discutidas no grupo:**
+
+| Alternativa | Viabilidade | Riscos |
+|-------------|-------------|--------|
+| **A — Uma empresa maior como proponente âncora** (ex: Imperveg, construtora, indústria) | Média — Imperveg pode entrar com contrapartida em material (mas FINEP exige financeira) | Perder autonomia técnica |
+| **B — Consórcio de microempresas** (cada uma com sua contrapartida 5%) | Requer 3-5 empresas com R$ 4,8M faturamento cada | Complexidade de gestão |
+| **C — Michel + outra(s) empresa(s) como co-proponentes** | A ver — Maurilio vai levantar na sexta | Depende da saúde financeira |
+| **D — ICT como âncora** (universidade pública pode reduzir exigência de contrapartida?) | A verificar no edital | ICT sozinho não substitui empresa |
+| **E — Investidor externo / patrono** (empresa de grande porte interessada no resultado) | Ideal — resolveria a contrapartida e o capital | Encontrar esse investidor é o desafio |
+
+**Decisão:** A definir após Maurilio levantar a real capacidade do Michel (sex 04/07) e do grupo mapear potenciais investidores na rede de contatos.
 
 ---
 
