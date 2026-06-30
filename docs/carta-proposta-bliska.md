@@ -56,12 +56,12 @@ O projeto **Holambra Conectada**, desenvolvido por nossa equipe, propõe um sist
 - **Integração com sistemas de certificação** de construção sustentável — abrindo caminho para que estufas geodésicas certificadas sejam incorporadas a programas de habitação e produção de alimentos
 - Ficha do projeto no Acervo Científico: [Holambra Conectada](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
 
-### 3. Impermeabilização com PU Vegetal
+### 3. Impermeabilização das Conexões Geodésicas com PU Vegetal
 
-O **PU Vegetal de mamona** (Imperveg) oferece soluções de impermeabilização atóxicas e renováveis com aplicação direta em:
+O **PU Vegetal de mamona** (Imperveg) oferece soluções à base de óleo de mamona para proteção das conexões estruturais:
 
-- **Impermeabilização de conexões geodésicas** — substituindo mantas asfálticas e selantes petroquímicos
-- **Vedação de estufas** com espuma expansiva vegetal (MAMONEX RD70) para isolamento térmico e estanqueidade
+- **Preenchimento interno dos colmos de bambu** com espuma expansiva (MAMONEX RD70) para fixar os cabos de aço e preencher vazios na extremidade do bambu, travando a conexão
+- **Impermeabilização externa das conexões** com UG132A, formando revestimento protetor sobre o conjunto cabo-arruela-bambu, substituindo mantas asfálticas e selantes petroquímicos
 - **Compatibilidade comprovada** com bambu e outros substratos naturais (certificado para água potável, atóxico)
 
 ---
