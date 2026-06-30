@@ -1,9 +1,10 @@
+
 # Organização da Reunião — Fábrica Modelo
 
 > **Reunião:** 30/06/2026 | 10:01-11:15 (74 min)
 > **Participantes:** André Blanco, Maurilio Chiaretti, Fabio Takwara
 > **Ausente:** Michel (mencionado — parceiro industrial, tecnologia de painéis de concreto)
-> **Transcrição:** `Fabrica Modelo - Labiapa-Andre-meet.txt`
+> **Transcrição:** `docs/transcricoes/TRANSCRICAO_REUNIAO_3006.md`
 > **Preparado por:** Hermes Agent · Tecnologia Takwara
 
 ---
@@ -506,5 +507,5 @@ Faculdade de Agronegócios de Holambra — **a 20 km de Jaguariúna**. Isso expl
 
 > **Preparado por:** Hermes Agent · Tecnologia Takwara
 > **Data:** 30/06/2026
-> **Baseado na transcrição:** `Fabrica Modelo - Labiapa-Andre-meet.txt`
+> **Baseado na transcrição:** `docs/transcricoes/TRANSCRICAO_REUNIAO_3006.md`
 > **Arquivo:** `fabrica-modelo/docs/ORGANIZACAO_REUNIAO_3006.md`
