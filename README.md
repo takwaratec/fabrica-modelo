@@ -39,6 +39,7 @@ Industrialização da construção civil com redução de impacto ambiental — 
     ├── formulario-espelho-finep.md  ← checklist FINEP
     ├── carta-intencao-michel.md  ← proposta de parceria (grupo → Michel)
     ├── carta-intencao-imperveg.md  ← carta de fornecimento PU Vegetal
+    ├── carta-proposta-bliska.md  ← proposta de parceria Prof. Antônio Bliska Jr. (UNICAMP)
     ├── carta-modelo-apresentacao-parceiros.md  ← carta genérica para ICTs
     ├── carta-modelo-parceiro-generica.md
     ├── mensagem-divulgacao-grupo.md
