@@ -5,6 +5,7 @@
 > **Data:** Julho/2026
 > **De:** André Blanco (TEIA) — em nome do Grupo Executor Fábrica Modelo
 > **Para:** Prof. Antônio Bliska Jr. — UNICAMP / NIPE
+> **E-mail:** bliskajr@unicamp.br
 > **Entrega:** André Blanco (contato acadêmico direto)
 
 ---
@@ -37,6 +38,7 @@ O Fabio Takwara desenvolve uma **proposta de estufas geodésicas em bambu** alin
 - **Estruturas geodésicas de bambu tratado** como alternativa às estruturas metálicas convencionais — menor custo, menor impacto ambiental, maior resiliência
 - **Conexões geodésicas** projetadas para facilitar montagem e desmontagem, viáveis para agricultura familiar e comunidades rurais
 - **Potencial de P&D conjunto** para validação estrutural, durabilidade e desempenho agronômico
+- Ficha técnica da tecnologia no Acervo Científico: [Conexões Semiflexíveis com Cabo de Aço](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md)
 
 ### 2. Holambra Conectada — Certificação e Rastreabilidade
 
@@ -45,6 +47,8 @@ O projeto **Holambra Conectada**, compartilhado com nossa equipe, propõe um sis
 - **Certificação de estufas geodésicas** como tecnologia social — protocolos de qualidade, desempenho e replicabilidade
 - **Rastreabilidade de materiais** (bambu, PU Vegetal, biocompósitos) ao longo da cadeia produtiva
 - **Integração com sistemas de certificação** de construção sustentável — abrindo caminho para que estufas geodésicas certificadas possam ser incorporadas a programas de habitação e produção de alimentos
+- Ficha do projeto no Acervo Científico: [Holambra Conectada — Centro de Excelência em Geodésicas](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
+- Perfil do Prof. Bliska: [em construção no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-antonio-bliska.md)
 
 ### 3. Impermeabilização com PU Vegetal
 
