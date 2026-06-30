@@ -36,17 +36,16 @@ O Brasil enfrenta um déficit habitacional de **6 milhões de moradias**, enquan
 | **André Blanco / TEIA** | Coordenação técnica, ABNT 6263 | `github.com/takwaratec/ECOSALA` |
 | **Maurilio Chiaretti** | Articulação política, Fed. Nacional dos Arquitetos | — |
 | **Michel [empresa]** | Proponente principal — tecnologia painéis | `github.com/takwaratec/fabrica-modelo` |
-| **Fabio Takwara** | Assessoria técnico-científica, curadoria | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
+| **Fabio Takwara** | Assessoria técnico-científica, curadoria | Perfil no Acervo Científico |
 | **Imperveg** | Fornecedor de PU Vegetal para P&D | — |
 
-## Repositórios do Ecossistema
+## Repositórios do Ecossistema (públicos)
 
 Nosso ecossistema científico e documental está organizado nos seguintes repositórios públicos:
 
 | Repositório | Conteúdo | Acesso |
 |-------------|----------|--------|
-| **Mentoria_Tecnologia_Takwara** | Governança do ecossistema, manuais, frentes de trabalho | [Acessar](https://github.com/takwaratec/Mentoria_Tecnologia_Takwara) |
-| **Analises-e-escrita-cientifica** | **Acervo científico** — 330+ fichas técnicas, análises, referências | [Acessar](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+| **Analises-e-escrita-cientifica** | **Acervo científico** — 330+ fichas técnicas, análises, referências, perfis de pesquisadores | [Acessar](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
 | **fabrica-modelo** | Documentos do projeto: cartas, proposal, formulário espelho | [Acessar](https://github.com/takwaratec/fabrica-modelo) |
 | **ECOSALA** | Coletivo interinstitucional — atas, editais, projetos | [Acessar](https://github.com/takwaratec/ECOSALA) |
 | **Mulheres-Tecem-Amazonia** | Projeto de bioeconomia amazônica UnB/UFAC/UFRR | [Acessar](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) |

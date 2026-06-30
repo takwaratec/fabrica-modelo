@@ -1,34 +1,67 @@
 # 🏭 Fábrica Modelo
 
-Industrialização da construção civil com tecnologias sociais — projeto em articulação para edital FINEP Mais Inovação.
+Industrialização da construção civil com redução de impacto ambiental — projeto em articulação para edital **FINEP Mais Inovação** (Economia Circular — Linha 4: Moradia Sustentável).
+
+**Prazo de submissão:** 31/08/2026
+
+---
 
 ## Parceiros
 
-- **André Blanco / TEIA** — arquiteto, diretor TEIA, membro ABNT Comissão 6263
-- **Maurilio Chiaretti** — arquiteto, vice-presidente Federação Nacional dos Arquitetos, habitação social
-- **Michel** — indústria, tecnologia de painéis arquitetônicos (patente, acreditação CDHU/Caixa)
-- **Fabio Takwara** — assessoria técnico-científica (bambu + PU Vegetal + IA)
-- **ICT a definir** — UFSCar, UNICAMP/NIPE, IPT, São José dos Campos em prospecção
+| Parceiro | Papel |
+|----------|-------|
+| **André Blanco / TEIA** | Coordenação técnica, articulação ICT, membro ABNT Comissão 6263 |
+| **Maurilio Chiaretti** | Articulação política, Federação Nacional dos Arquitetos, habitação social |
+| **Michel / Texos** | Proponente principal — tecnologia de painéis arquitetônicos (patente, CDHU, Caixa) |
+| **Fabio Takwara** | Assessoria técnico-científica, curadoria, redação da proposta |
+| **ICT (em prospecção)** | UFSCar, UNICAMP/NIPE, IPT, São José dos Campos |
 
 ## Edital
 
-- **FINEP Mais Inovação** — Economia Circular (Linha 4: Moradia Sustentável)
-- Prazo: **31/08/2026**
-- Teto mínimo: R$ 5 milhões
-- ICT obrigatório · Contrapartida financeira
+- **Fonte:** FINEP Mais Inovação — Economia Circular
+- **Valor:** R$ 5.000.000,00 a R$ 10.000.000,00
+- **ICT obrigatório** · Contrapartida financeira (5% a 50% conforme porte)
+- **Alinhamento:** Moradia Sustentável + Resíduos Sólidos (PNRS)
 
 ## Estrutura do repositório
 
 ```
-📂 docs/
-├── AGENTS.md                          ← Escopo, fronteiras, tecnologias
-├── ORGANIZACAO_REUNIAO_3006.md        ← Organização pós-reunião (resumo, mermaid, tarefas)
-└── transcricoes/
-    └── TRANSCRICAO_REUNIAO_3006.md    ← Transcrição da reunião de 30/06
-📂 EDITAIS/
-└── 01_FINEP_MAIS_INOVACAO/            ← Documentos do edital
+📂 fabrica-modelo/
+├── README.md                    ← este arquivo
+├── AGENTS.md                    ← escopo, fronteiras, instruções para agentes
+├── EDITAIS/
+│   └── 01_FINEP_MAIS_INOVACAO/  ← documentos do edital
+└── docs/
+    ├── ATA_REUNIAO_3006.md      ← ata oficial da reunião
+    ├── ORGANIZACAO_REUNIAO_3006.md  ← resumo, mermaid, tarefas
+    ├── pauta-reuniao-fabrica-modelo.md
+    ├── proposal-teaser.md       ← apresentação para parceiros
+    ├── formulario-espelho-finep.md  ← checklist FINEP
+    ├── carta-intencao-michel.md  ← proposta de parceria (grupo → Michel)
+    ├── carta-intencao-imperveg.md  ← carta de fornecimento PU Vegetal
+    ├── carta-modelo-apresentacao-parceiros.md  ← carta genérica para ICTs
+    ├── carta-modelo-parceiro-generica.md
+    ├── mensagem-divulgacao-grupo.md
+    ├── materiais-andre/         ← Lattes, CV, portfólio extraídos do Drive
+    └── transcricoes/
+        └── TRANSCRICAO_REUNIAO_3006.md
 ```
+
+## Repositórios públicos do ecossistema
+
+| Repositório | Conteúdo |
+|-------------|----------|
+| [Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) | Acervo científico — 330+ fichas, análises, referências |
+| [ECOSALA](https://github.com/takwaratec/ECOSALA) | Coletivo interinstitucional |
+| [Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) | Bioeconomia amazônica UnB/UFAC/UFRR |
+| [fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) | Proposta irmã no mesmo edital |
+
+## Produção intelectual
+
+A produção técnica e científica dos membros está catalogada no **Acervo Científico**:
+- [Perfil André Blanco](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) — Lattes, CV, portfólio
+- [Ficha Texos/Michel](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-texos-michel.md) — referência do parceiro tecnológico
 
 ---
 
-*Criado: 29/06/2026 · Tecnologia Takwara · Atualizado: 30/06/2026*
+*Criado: 29/06/2026 · Atualizado: 30/06/2026 · Tecnologia Takwara*
