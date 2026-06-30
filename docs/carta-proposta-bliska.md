@@ -11,7 +11,9 @@
 
 Prezado Professor Bliska,
 
-Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, diretor da **TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda.** Atuo há décadas com gestão de APAs, normalização técnica (ABNT 6263) e projetos de habitação social e sustentabilidade. Quando tomamos conhecimento de sua trajetória no **Centro de Engenharia de Plasticultura (CEP)** da UNICAMP, reconhecemos de imediato a convergência com o projeto que estamos estruturando.
+Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, diretor da **TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda.** Atuo há décadas com gestão de APAs, normalização técnica (ABNT 6263) e projetos de habitação social e sustentabilidade. Estou escrevendo a pedido de um parceiro de equipe, o **Fabio Takwara**, que conhece seu trabalho de perto.
+
+Fabio esteve na **Hortitec** — a maior feira de horticultura da América Latina, em Holambra-SP — e no estande da **revista Plasticultura** viu uma **maquete de estufa geodésica** que chamou sua atenção. Ao identificar o senhor como o responsável pela pesquisa, reconheceu de imediato a convergência com as tecnologias que desenvolvemos. Foi ele quem sugeriu que eu fizesse este contato, por ser do meio acadêmico e poder apresentar o projeto da forma mais adequada.
 
 É com grande satisfação que o convidamos a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo de submissão em **31 de agosto de 2026**.
 
