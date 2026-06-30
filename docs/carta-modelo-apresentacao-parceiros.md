@@ -41,15 +41,12 @@ O Brasil enfrenta um déficit habitacional de **6 milhões de moradias**, enquan
 
 ## Repositórios do Ecossistema (públicos)
 
-Nosso ecossistema científico e documental está organizado nos seguintes repositórios públicos:
+O embasamento científico do projeto está disponível no Acervo Científico:
 
 | Repositório | Conteúdo | Acesso |
 |-------------|----------|--------|
 | **Analises-e-escrita-cientifica** | **Acervo científico** — 330+ fichas técnicas, análises, referências, perfis de pesquisadores | [Acessar](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
 | **fabrica-modelo** | Documentos do projeto: cartas, proposal, formulário espelho | [Acessar](https://github.com/takwaratec/fabrica-modelo) |
-| **ECOSALA** | Coletivo interinstitucional — atas, editais, projetos | [Acessar](https://github.com/takwaratec/ECOSALA) |
-| **Mulheres-Tecem-Amazonia** | Projeto de bioeconomia amazônica UnB/UFAC/UFRR | [Acessar](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) |
-| **fundo-vaga-lumen-2026** | Proposta FINEP Vaga Lúmen | [Acessar](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
 
 ## Fichas dos Membros no Acervo Científico
 

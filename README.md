@@ -47,14 +47,14 @@ Industrialização da construção civil com redução de impacto ambiental — 
         └── TRANSCRICAO_REUNIAO_3006.md
 ```
 
-## Repositórios públicos do ecossistema
+## Repositórios públicos
+
+O embasamento científico do projeto está no Acervo Científico:
 
 | Repositório | Conteúdo |
 |-------------|----------|
 | [Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) | Acervo científico — 330+ fichas, análises, referências |
-| [ECOSALA](https://github.com/takwaratec/ECOSALA) | Coletivo interinstitucional |
-| [Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) | Bioeconomia amazônica UnB/UFAC/UFRR |
-| [fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) | Proposta irmã no mesmo edital |
+| [fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) | Documentos do projeto |
 
 ## Produção intelectual
 
