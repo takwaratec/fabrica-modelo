@@ -26,24 +26,24 @@ A tabela abaixo reflete o estado real de cada prospecção. Atualizar no README.
 
 | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |-----------|-------------|--------|-------------|-----------------|
-| **Profa. Dra. Tânia C. S. Cruz** | UnB / FUP / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
-| **Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
-| **Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| **Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| **Dr. Marcondes L. Costa** | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| **Dr. Romildo Toledo Filho** | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| **Dr. Guilherme O. Silva** | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| **Dr. Humberto C. Furtado** | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| **Dr. Alan P. Oliveira** | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
-| **Dra. Ludmila A. Correia** | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| **Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
-| **Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
-| **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
-| **Murilo Miguel** | Terra Viva | Contato inicial | Marcos Paron | Pendente |
-| **Raphaela Palma** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Luci Okino** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Henrique Bueno** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Luis Felipe** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Profa. Dra. Tânia C. S. Cruz** | UnB / FUP / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| **Dra. Ludmila A. Correia** | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| **Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta |
+| **Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta |
+| **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
+| **Murilo Miguel** | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
+| **Raphaela Palma** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luci Okino** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Henrique Bueno** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luis Felipe** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 
 > **Nota de unificação:** Vicente Borges e Vicente Virgolino foram consolidados em um único perfil ativo (Prof. Dr. Vicente de Paula Virgolino — IFB), movido para a tabela de Membros Ativos.
 

@@ -107,32 +107,33 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |-----------|-------------|--------|-------------|-----------------|
-| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
-| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
-| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| **Prof. Dr. Marcondes L. Costa** | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| **Prof. Dr. Guilherme O. Silva** | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| **Prof. Dr. Humberto C. Furtado** | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| **Prof. Dr. Alan P. Oliveira** | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
-| **Dra. Ludmila A. Correia** | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| **Prof. Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
-| **Prof. Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
-| **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
-| **Murilo Miguel** | Terra Viva | Contato inicial | Marcos Paron | Pendente |
-| **Raphaela Palma** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Luci Okino** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Henrique Bueno** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
-| **Luis Felipe** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| **Dra. Ludmila A. Correia** | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Prof. Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | A definir (Tânia?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | A definir (Vicente?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
+| **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
+| **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
+| **Murilo Miguel** | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
+| **Raphaela Palma** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luci Okino** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Henrique Bueno** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luis Felipe** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 
 **Legenda de Status:**
 | Status | Significado |
 |--------|------------|
-| Em prospecção | Identificado como potencial parceiro, ainda não contactado |
-| Contato inicial | Primeira conversa ocorreu, sem convite formal ainda |
-| Convite enviado | Carta-convite formal enviada (com link para o documento) |
-| Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
+| ✅ Convite enviado | Carta-convite formal enviada e recebida pelo prospecto |
+| 📄 Carta pronta | Carta redigida — aguardando definição do emissário acadêmico para envio |
+| 🔍 Em prospecção | Identificado como potencial parceiro, ainda sem carta |
+| 🔄 Contato inicial | Primeira conversa ocorreu, sem convite formal ainda |
+| ⏳ Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
 
 **Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
 
