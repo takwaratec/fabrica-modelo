@@ -80,46 +80,54 @@ Cooperativas de catadores, associações de pequenos produtores, agricultores fa
 
 ---
 
-## 👥 ECOSALA — Membros Ativos e Convidados
+## 👥 ECOSALA — Quadro de Pessoas
 
-O **ECOSALA** reúne pesquisadores, educadores e técnicos com atuação em agroecologia, bambu, bioenergia, avaliação de impacto e educação do campo. A articulação com o projeto Fábrica Modelo ocorre por meio de parcerias institucionais (IFSP, Embrapa, IFB, UnB) e convites individuais.
+O **ECOSALA** reúne pesquisadores, educadores e técnicos com atuação em agroecologia, bambu, bioenergia, avaliação de impacto e educação do campo. Abaixo, o fluxo completo de engajamento de cada pessoa — da prospecção ao aceite ou recusa — com total transparência.
 
 ### ✅ Membros Ativos
 
-Relação de pesquisadores com vínculo confirmado:
+Pessoas com vínculo confirmado no projeto:
 
-| Membro | Instituição | Lattes | E-mail | Frente no Projeto |
-|--------|-------------|--------|--------|-------------------|
-| **Prof. Dr. Marcos Paron** | IFSP | [Lattes](http://lattes.cnpq.br/3067784348624135) | marcos.paron@ifsp.edu.br | Coord. ECOSALA, biochar, compostagem |
-| **Profa. Dra. Daniela Maciel** | Embrapa | [Lattes](http://lattes.cnpq.br/9196370833242212) | daniela.maciel@embrapa.br | Métricas de impacto social |
-| **Dra. Gisele Vilela** | Embrapa | [Lattes](http://lattes.cnpq.br/0761168128224536) | gisele.vilela@embrapa.br | Remineralizadores, biocompósitos |
-| **Prof. Dr. Vicente Virgolino** | IFB | [Lattes](http://lattes.cnpq.br/2485590209425263) | vicente.virgolino@ifb.edu.br | Forno ecológico, tratamento bambu |
-| **André Blanco** (Me.) | IFSP / TEIA | — | — | Coord. técnica, articulação ICT |
-| **Maurilio Chiaretti** | FNA / Sind. Arq. | — | — | Articulação política, HIS |
-| **Michel (Texos)** | Texos Indústria | — | — | Proponente candidato, painéis |
-| **Fabio Takwara** | Ecolaborativa | — | fabiotakwara@gmail.com | Assessoria técnico-científica |
+| Membro | Instituição | Enviado por | Resposta | Frente |
+|--------|-------------|-------------|----------|--------|
+| **Prof. Dr. Marcos Paron** | IFSP | André Blanco | Aceito | Coord. ECOSALA, biochar, compostagem |
+| **Profa. Dra. Daniela Maciel** | Embrapa | Gisele Vilela | Aceito | Métricas de impacto social |
+| **Dra. Gisele Vilela** | Embrapa | Marcos Paron | Aceito | Remineralizadores, biocompósitos |
+| **Prof. Dr. Vicente Virgolino** | IFB | Fabio Takwara | Aceito | Forno ecológico, tratamento bambu |
+| **André Blanco** (Me.) | IFSP / TEIA | — | [Fundador] | Coord. técnica, articulação ICT |
+| **Maurilio Chiaretti** | FNA / Sind. Arq. | André Blanco | Aceito | Articulação política, HIS |
+| **Michel (Texos)** | Texos Indústria | André Blanco | Aceito | Proponente candidato, painéis |
+| **Fabio Takwara** | Ecolaborativa | André Blanco | Aceito | Assessoria técnico-científica |
 
 📄 Perfis completos no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
 
-### ⏳ Convidados (Aguardando Confirmação)
+### 🔄 Prospecção em Andamento
 
-Pesquisadores e parceiros em prospecção — carta enviada ou contato pendente:
+Pessoas em processo de aproximação — pública e rastreável. Cada linha reflete o estágio real do engajamento:
 
-| Convidado | Instituição | Status | Contato |
-|-----------|-------------|--------|---------|
-| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP | 📬 Carta enviada | bliskajr@unicamp.br |
-| **Prof. Dr. Rocco Lahr** | USP EESC | 📬 Carta enviada | aguardando |
-| **Prof. Dr. A.J.F. Carvalho** | UFSCar | 📬 Carta enviada | aguardando |
-| **Prof. Dr. Lourival Mendes** | UFLA | 📨 A contactar | aguardando |
-| **Prof. Dr. Juliano Fiorelli** | USP FZEA | 📨 A contactar | aguardando |
-| **Joaquim Sando** | MST | 🔄 Contato inicial | dados pendentes |
-| **Murilo Miguel** | Terra Viva | 🔄 Contato inicial | dados pendentes |
-| **Raphaela Palma** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
-| **Luci Okino** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
-| **Henrique Bueno** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
-| **Luis Felipe** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
+| Prospecto | Instituição | Status | Enviado por | Resposta / Link |
+|-----------|-------------|--------|-------------|-----------------|
+| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Prof. Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
+| **Prof. Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
+| **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
+| **Murilo Miguel** | Terra Viva | Contato inicial | Marcos Paron | Pendente |
+| **Raphaela Palma** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luci Okino** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Henrique Bueno** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luis Felipe** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 
-**Legenda:** ✅ Confirmado · 📬 Carta enviada · 📨 A contactar · 🔄 Pendente
+**Legenda de Status:**
+| Status | Significado |
+|--------|------------|
+| Em prospecção | Identificado como potencial parceiro, ainda não contactado |
+| Contato inicial | Primeira conversa ocorreu, sem convite formal ainda |
+| Convite enviado | Carta-convite formal enviada (com link para o documento) |
+| Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
+
+**Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
 
 ---
 
