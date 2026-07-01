@@ -1,72 +1,93 @@
-# Carta — Parceria Imperveg para Projeto FINEP
+---
+tipo: Carta-Convite (Cooperação Técnica — Tipo A)
+destinatario: Donizeti Cúrcio Luciano
+instituicao: Imperveg Polímeros Vegetais
+remetente: Grupo Executor Fábrica Modelo
+data: 2026-07-01
+status: Rascunho — validar e enviar
+---
 
-> **Documento do Grupo Executor Fábrica Modelo**
-> **Finalidade:** Convite para parceria em prototipagem — fornecimento de PU Vegetal e assessoria técnica
-> **Data:** Julho/2026
-> **De:** Fabio Takwara (Tecnologia Takwara)
-> **Para:** Donizeti Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais
-> **E-mail:** donizeti@imperveg.com
+# Carta-Convite — Cooperação Técnica (Projeto Fábrica Modelo / FINEP)
+
+**Documento do Grupo Executor Fábrica Modelo**
+
+| Campo | Dado |
+|-------|------|
+| **De** | Grupo Executor Fábrica Modelo |
+| **Para** | Donizeti Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais |
+| **Empresa** | Imperveg Polímeros Indústria e Comércio LTDA (Aguaí, SP) |
+| **E-mail** | donizeti@imperveg.com |
+| **Cc** | Fabio Takwara — fabiotakwara@gmail.com (enviar cópia p/ atualização de status) |
+| **Data** | 01/07/2026 |
 
 ---
 
-Donizeti, quanto tempo!
+## Por que a Imperveg?
 
-Espero que você e a família estejam bem, e que a adaptação em Portugal esteja caminhando. Estou em Limeira agora, recompondo as bases depois de tudo que aconteceu em Minas, e deixei Brasília para trás.
+Donizeti, você conhece o histórico: a Imperveg é pioneira no PU vegetal de mamona no Brasil — UG132A, MAMONEX RD70, RQI 132. O que talvez você não saiba é que o Fabio passou o dia catalogando os **6 ensaios internacionais que vocês têm no ITecons (Coimbra, Portugal)** — permeabilidade a vapor, aderência pull-off, resistência química, compatibilidade térmica com sais descongelantes... Um acervo técnico que poucas empresas de PU vegetal no Brasil podem apresentar.
 
-O MQTF (Mulheres que Tecem a Floresta), com a UnB, infelizmente foi adiado — suspenso para o próximo ano. Mas está na pauta, não morreu. Enquanto isso, estou abrindo uma nova frente aqui em São Paulo, com um grupo de parceiros muito bom: o André Blanco, arquiteto super articulado, professor do IFSP e membro da comissão da ABNT; o Maurilio, vice-presidente da Federação Nacional dos Arquitetos, que conhece as regras da FINEP como ninguém; e o Michel, que tem uma tecnologia de painéis estruturais já patenteada e acreditada na CDHU e na Caixa.
+É esse nível de comprovação que queremos levar para o edital FINEP.
 
-Estamos montando uma proposta para o **FINEP Mais Inovação — Economia Circular, Linha 4: Moradia Sustentável**, prazo 31 de agosto. O valor é de R$ 5 a 10 milhões. O projeto é basicamente industrializar a construção civil com redução de impacto ambiental, e o **PU Vegetal da Imperveg é peça-chave** na nossa linha de P&D.
+Convidamos a Imperveg a formalizar sua participação no **Projeto Fábrica Modelo** como **Parceira de Cooperação Técnica**, nos mesmos moldes que estamos propondo para Kehl e Purcom — sem vínculo financeiro com a subvenção, mas com todo o reconhecimento do aporte técnico e material.
+
+## Sobre o Projeto
+
+O **Grupo Executor Fábrica Modelo** articula proposta ao edital **FINEP Mais Inovação** (Linha 4: Moradia Sustentável), prazo **31/08/2026**. O projeto prevê:
+
+1. **Painéis estruturais patenteados** (sistema construtivo da Texos)
+2. **P&D em bambu tratado, PU vegetal e biocompósitos** com resíduos
+3. **Assistência Técnica Integrada (ATI)** para HIS
+
+## Modelo de Participação — Cooperação Técnica
+
+A Imperveg entraria como **PARCEIRA TECNOLÓGICA E DOADORA DE INSUMOS**:
+
+- Doação de lotes experimentais de UG132A, MAMONEX RD70 e RQI 132 para prototipagem e ensaios
+- Acesso ao know-how de formulação para biocompósitos com resíduos
+- Cessão de dados técnicos dos ensaios ITecons (Portugal) como comprovação de desempenho
+- **Sem repasse financeiro:** os insumos entram como "Aporte de Parceiros" na planilha de custeio
+- **Sem vínculo de proponente:** Imperveg não figura como co-executora financeira do projeto FINEP
+
+> **Base legal:** Fornecedor de insumos não pode ser proponente no edital FINEP (inabilitação). O modelo de Cooperação Técnica sem repasse financeiro é o formato correto e está blindado contra esse risco. Minuta do Acordo em anexo.
+
+## Comprovação Técnica da Imperveg
+
+| Ensaio | Local | Norma | Data |
+|--------|-------|-------|------|
+| Permeabilidade ao vapor de água | ITecons, Coimbra, Portugal | ISO 7783:2018 | Mai/2025 |
+| Aderência Pull-off | ITecons, Coimbra, Portugal | — | Abr/2024 |
+| Pull-off a 70°C | ITecons, Coimbra, Portugal | — | Fev/2025 |
+| Permeabilidade a CO₂ | ITecons, Coimbra, Portugal | — | Mai/2025 |
+| Compatibilidade térmica c/ sais descongelantes | ITecons, Coimbra, Portugal | — | Set/2025 |
+| Resistência química | ITecons, Coimbra, Portugal | — | (verificar) |
+| UL-94 — Inflamabilidade V-2 | UFSCar/UNESP, Brasil | UL 94 | 2010 |
+| Tratamentos de bambu como reforço em concreto | PUC-Rio (Naccache, Ghavami) | — | ~2015 |
+
+🔗 Coletânea completa de evidências no Acervo: [TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md)
+
+## Políticas Nacionais Relacionadas
+
+| Política | Legislação |
+|----------|------------|
+| PNMCB — Política Nacional do Bambu | Lei 12.484/2011 |
+| PNRS — Política Nacional de Resíduos Sólidos | Lei 12.305/2010 |
+| Bioeconomia | Decreto 12.044/2024 |
+
+## Próximos passos
+
+1. Revisar a minuta do Acordo de Cooperação Técnica (anexo)
+2. Confirmar o volume de insumos que a Imperveg pode disponibilizar para P&D
+3. Agendar reunião com o Grupo Executor para alinhar
 
 ---
 
-## O Projeto em Resumo
-
-| Característica | Detalhe |
-|----------------|---------|
-| **Valor** | R$ 5.000.000,00 a R$ 10.000.000,00 |
-| **Proponente** | Michel / Texos (tecnologia painéis estruturais, patente CDHU/Caixa) |
-| **ICT parceira** | Em prospecção — USP EESC, UFSCar, UNICAMP, IPT |
-| **Equipe** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação), Fabio Takwara (curadoria) |
+**📋 Documentos de referência:**
+🔗 [Índice Imperveg no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/imperveg-index.md) (21 fichas)
+🔗 [Regras de Participação de Fornecedores](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/regras-participacao-fornecedores.md)
+🔗 [Modelo de Acordo de Cooperação Técnica](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/modelo-acordo-cooperacao-tecnica.md)
+🔗 [README do Projeto](https://github.com/takwaratec/fabrica-modelo)
 
 ---
 
-## Onde a Imperveg entra
-
-| Aplicação | Produto | O que substitui |
-|-----------|---------|-----------------|
-| **Impermeabilização de baldrames, lajes e painéis** | UG 132 A | Mantas asfálticas — atóxico, certificado para água potável |
-| **Reforço interno de conexões estruturais de bambu** | MAMONEX RD70 (espuma expansiva) | Fixação de cabos de aço dentro dos colmos — 50x mais leve que concreto |
-| **Compósitos e painéis com resíduos** | AGT 1315 (adesivo estrutural) | Resinas sintéticas petroquímicas — aglomerante renovável |
-| **Revestimento protetor das conexões** | UG 132 A | Impermeabilização externa sobre o conjunto cabo-arruela-bambu |
-
----
-
-## O que estou pedindo
-
-Uma parceria para prototipagem, com:
-
-1. **Fornecimento de produto** — UG 132 A, MAMONEX RD70 e AGT 1315 para os testes e protótipos, da forma que for melhor para vocês (integral, com desconto, amostras)
-2. **Assessoria técnica** — suporte da engenharia da Imperveg para orientar a aplicação correta nos compósitos e estruturas
-3. **Dados técnicos** — fichas de segurança, relatórios de ensaio, o que tiver para fundamentar a proposta
-
-Sei que você está longe, mas o portfólio da Imperveg é o coração da nossa substituição de materiais petroquímicos na construção. Sem o PU de mamona, a proposta perde muito da força.
-
----
-
-## Próximo passo
-
-Se você topar, eu já vou preparando os documentos formais para incluir a Imperveg como parceira fornecedora no projeto. O prazo é apertado, agosto chega logo.
-
-Depois te conto os detalhes do que andamos aprontando por aqui — tem estufa geodésica com bambu, painéis com resíduos, e um centro de excelência em Holambra que vou te apresentar quando vier ao Brasil.
-
-Um abraço,
-
-**Fabio Takwara**
-Tecnologia Takwara
-fabiotakwara@gmail.com
-
----
-
-**📋 Nota:** Preparamos fichas técnicas dos produtos Imperveg no Acervo do projeto. Reunimos tudo neste índice — se quiser revisar ou sugerir ajustes, o link está abaixo. Basta enviar para o Fabio (fabiotakwara@gmail.com).
-
-🔗 **Índice completo de fichas Imperveg:** [Acervo — fabrica-modelo/imperveg-index.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/imperveg-index.md)
+**Contato:** Fabio Takwara — fabiotakwara@gmail.com
+*Documento do Grupo Executor Fábrica Modelo · Julho 2026 · Tecnologia Takwara*

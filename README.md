@@ -117,6 +117,9 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
 | **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
 | **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Imperveg Polímeros Vegetais** | Aguaí, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-intencao-imperveg.md) |
+| **Kehlcoat (Kehl Polímeros)** | São Carlos, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-kehl.md) |
+| **Purcom Química** | Barueri, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-purcom.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
