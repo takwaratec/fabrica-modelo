@@ -1,86 +1,142 @@
-Para incorporar esses novos apontamentos e o mapeamento aprofundado de pesquisadores e ICTs (nacionais e multiplicadoras) de forma cirúrgica no repositório fabrica-modelo, precisamos respeitar rigorosamente as **Fronteiras** e as **Instruções para Agentes** descritas no arquivo AGENTS.md.  
-A regra de ouro do repositório é clara: Um documento, um repositório. NÃO colocar fichas científicas detalhadas ou dados de carreira pessoal aqui (eles vão para o *Acervo Científico*). O README.md do repositório do projeto deve funcionar como uma central de monitoramento de status, transparência de prospecção e impacto estratégico para os avaliadores da FINEP.  
-Abaixo está o plano de ação detalhado e os blocos de código prontos para atualizar o seu repositório.
+# Prompt — Organização do Repositório Fábrica Modelo (ICTs Multiplicadoras)
 
-## **1\. Onde cada informação deve constar (Governança do Repositório)**
+> **Instrução para o Hermes Agent.** Este prompt organiza a incorporação do mapeamento de ICTs e pesquisadores no repositório `fabrica-modelo`, respeitando as fronteiras e regras do AGENTS.md.
+>
+> **Regra de ouro:** Um documento, um repositório. Fichas científicas vão para o Acervo (Analises-e-escrita-cientifica). O README.md do projeto funciona como central de monitoramento de status e transparência de prospecção.
 
-Para manter o repositório limpo e funcional conforme as diretrizes do ecossistema:
+---
 
-1. **Dados de Status e Tabelas de Prospecção:** Entram diretamente no README.md do repositório fabrica-modelo, na seção correspondente (atualizando as tabelas existentes).  
-2. **Fichas e Biografias Acadêmicas Detalhadas:** **NÃO** entram aqui. Devem ser criados arquivos .md individuais dentro do repositório parceiro externo **Analises-e-escrita-cientifica**, especificamente na pasta docs/analises/08\_perfis-referencias/.  
-3. **Cartas de Proposta/Convite:** Devem ser geradas na pasta docs/cartas-convite/ do repositório local, gerando um link direto na tabela do README.md.
+## 1. Onde cada informação deve constar (Governança do Repositório)
 
-## **2\. Blocos de Atualização para o README.md**
+| Informação | Destino |
+|------------|---------|
+| Tabelas de status e prospecção | README.md (fabrica-modelo) |
+| Fichas acadêmicas detalhadas (8 seções) | Acervo — `08_perfis-referencias/` |
+| Cartas-convite | `docs/cartas-convite/` (fabrica-modelo) |
+| Prompts e pesquisas brutas | `docs/pesquisas/pesquisas-ict/` (fabrica-modelo) |
+| Índice do projeto no Acervo | Acervo — `fabrica-modelo/index.md` |
 
-Substitua e complemente as seções atuais do arquivo README.md com os seguintes blocos atualizados e revisados:
+---
 
-### **Modificar a Seção: \#\# 👥 ECOSALA — Quadro de Pessoas \-\> \#\#\# 🔄 Prospecção em Andamento**
+## 2. Blocos de Atualização para o README.md
 
-Atualize a tabela existente para incluir os novos nomes, links específicos de monitoramento e correções nominais feitas na triagem (como o nome completo validado da Profa. Tânia Cruz, unificação de Vicente Virgolino/Borges e inserção da equipe CAU/DF).
+### 2.1 Seção: 👥 ECOSALA — Quadro de Pessoas > Prospecção em Andamento
 
-Markdown  
-\#\#\# 🔄 Prospecção em Andamento
+A tabela abaixo reflete o estado real de cada prospecção. Atualizar no README.md:
 
-Pessoas em processo de aproximação — pública e rastreável. Cada linha reflete o estágio real do engajamento:
+| Prospecto | Instituição | Status | Enviado por | Resposta / Link |
+|-----------|-------------|--------|-------------|-----------------|
+| **Profa. Dra. Tânia C. S. Cruz** | UnB / FUP / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
+| **Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Dr. Marcondes L. Costa** | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Dr. Romildo Toledo Filho** | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Dr. Guilherme O. Silva** | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Dr. Humberto C. Furtado** | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Dr. Alan P. Oliveira** | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Dra. Ludmila A. Correia** | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| **Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
+| **Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
+| **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
+| **Murilo Miguel** | Terra Viva | Contato inicial | Marcos Paron | Pendente |
+| **Raphaela Palma** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luci Okino** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Henrique Bueno** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+| **Luis Felipe** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 
-| Prospecto | Instituição | Status | Enviado por | Resposta / Link |  
-|-----------|-------------|--------|-------------|-----------------|  
-| **\*\*Prof. Dr. Antonio Bliska Jr.\*\*** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | \[Aguardando retorno\](docs/cartas-convite/carta-proposta-bliska.md) |  
-| **\*\*Prof. Dr. Francisco Rocco Lahr\*\*** | USP EESC | Convite enviado | Fabio Takwara | \[Aguardando retorno\](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |  
-| **\*\*Prof. Dr. A. J. F. Carvalho\*\*** | UFSCar DEMA | Convite enviado | Fabio Takwara | \[Aguardando retorno\](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |  
-| **\*\*Profa. Dra. Tânia C. S. Cruz\*\*** | UnB / FUP | Contato inicial | Fabio Takwara | \[Pendente — Validação MQTF\](docs/cartas-convite/carta-proposta-tania-cruz.md) |  
-| **\*\*Dra. Ludmila de A. Correia\*\*** | CAU-DF / UnB | Contato inicial | André Blanco | \[Pendente — Alinhamento ATHIS\](docs/cartas-convite/carta-proposta-ludmila-cau.md) |  
-| **\*\*Prof. Dr. Lourival Marin Mendes\*\*** | UFLA | Em prospecção | — | — |  
-| **\*\*Prof. Dr. Juliano Fiorelli\*\*** | USP FZEA | Em prospecção | — | — |  
-| **\*\*Joaquim Sando\*\*** | MST | Contato inicial | Marcos Paron | Pendente |  
-| **\*\*Murilo Miguel\*\*** | Terra Viva | Contato inicial | Marcos Paron | Pendente |  
-| **\*\*Raphaela Palma\*\*** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |  
-| **\*\*Luci Okino\*\*** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |  
-| **\*\*Henrique Bueno\*\*** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |  
-| **\*\*Luis Felipe\*\*** | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
+> **Nota de unificação:** Vicente Borges e Vicente Virgolino foram consolidados em um único perfil ativo (Prof. Dr. Vicente de Paula Virgolino — IFB), movido para a tabela de Membros Ativos.
 
-*\*Nota de Unificação: Após auditoria interna, os registros de Vicente Borges e Vicente Virgolino foram consolidados em um único perfil ativo (Prof. Dr. Vicente de Paula Virgolino — IFB).\**
+**Legenda de Status:**
 
-### **Modificar e Expandir a Seção: \#\# 🔬 ICTs em Prospecção**
+| Status | Significado |
+|--------|------------|
+| Em prospecção | Identificado como potencial parceiro, ainda não contactado |
+| Contato inicial | Primeira conversa ocorreu, sem convite formal ainda |
+| Convite enviado | Carta-convite formal enviada (link para o documento) |
+| Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
 
-Substitua a tabela de prioridades atual por uma matriz expandida e dividida estrategicamente entre os polos de **P\&D Avançado** e as **ICTs Multiplicadoras Regionais**, evidenciando o bônus de Regionalização (Norte, Nordeste e Centro-Oeste) para os avaliadores da FINEP.
+**Registro de respostas:** Quando um prospecto aceitar ou recusar, a coluna "Resposta / Link" é atualizada com o registro da manifestação (issue, e-mail, formulário).
 
-Markdown  
-\#\# 🔬 ICTs em Prospecção
+---
 
-Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis completos e indexação bibliográfica estão salvos de forma descentralizada no Acervo Científico externo para manter o escopo deste repositório limpo.
+### 2.2 Seção: 🔬 ICTs em Prospecção
 
-\#\#\# Eixo Principal: P\&D Avançado e Certificação (SP / MG)
+#### Eixo Principal: P&D Avançado e Certificação (SP / MG)
 
-| ICT | Nota | Pesquisador-chave | Linha de Pesquisa Estratégica para o Painel | Contato |  
-|-----|------|-------------------|---------------------------------------------|---------|  
-| **\*\*USP EESC\*\*** (São Carlos) | ⭐5 | **\*\*Francisco Rocco Lahr\*\*** | Formulação de painéis biocompósitos com resina PU de mamona | ❌ A contatar |  
-| **\*\*USP FZEA\*\*** (Pirassununga) | ⭐5 | **\*\*Juliano Fiorelli\*\*** · **\*\*H. Savastano\*\*** | Industrialização de painéis OSB de bambu e bagaço | ❌ A contatar |  
-| **\*\*UFSCar\*\*** (São Carlos) | ⭐5 | **\*\*A. J. F. Carvalho\*\*** | Caracterização de biopolímeros e blendas poliméricas | ❌ A contatar |  
-| **\*\*UNICAMP\*\*** (Campinas) | ⭐5 | **\*\*Antonio Bliska Jr.\*\*** | Cadeia agroindustrial de biomateriais e plasticultura | ✅ Contato direto |  
-| **\*\*CEFET-MG\*\*** (B. Horizonte) | ⭐4 | Incubadora Nascente | Agregados de resíduos minerais (quartzito) \+ PU vegetal | ✅ Contato (Nascente) |  
-| **\*\*IPT\*\*** (São Paulo) | ⭐4 | Marcelo Guedes | Ensaios da Norma de Desempenho (NBR 15575\) e Certificação | ✅ Contato direto |  
-| **\*\*UFLA\*\*** (Lavras) | ⭐4 | **\*\*Lourival Marin Mendes\*\*** | Prensagem e física de painéis aglomerados de biomassa | ❌ A contatar |  
-| **\*\*UNESP\*\*** (Ilha Solteira) | ⭐3 | **\*\*Jorge Akasaki\*\*** | Incorporação de resíduos industriais em materiais | ❌ A contatar |
+| ICT | Nota | Pesquisador-chave | Linha de Pesquisa | Contato |
+|-----|------|-------------------|-------------------|---------|
+| **USP EESC** (São Carlos) | ⭐5 | **Francisco Rocco Lahr** | Formulação de painéis biocompósitos com resina PU de mamona | Carta enviada |
+| **USP FZEA** (Pirassununga) | ⭐5 | **Juliano Fiorelli** · **H. Savastano** | Industrialização de painéis OSB de bambu e bagaço | Em prospecção |
+| **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Caracterização de biopolímeros e blendas poliméricas | Carta enviada |
+| **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Cadeia agroindustrial de biomateriais e plasticultura | Carta enviada |
+| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Agregados de resíduos minerais (quartzito) + PU vegetal | Contato feito |
+| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Ensaios da Norma de Desempenho (NBR 15575) e Certificação | Contato feito |
+| **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Prensagem e física de painéis aglomerados de biomassa | Em prospecção |
+| **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Incorporação de resíduos industriais em materiais | Em prospecção |
 
-\#\#\# Eixo Multiplicador: Regionalização, Impacto Social e Difusão (N / NE / CO)  
-*\*O edital FINEP bonifica propostas com abrangência e parcerias ativas em ICTs destas regiões. A atuação destas frentes será focada na transferência de tecnologia através de cursos, capacitações e monitoramento de canteiros experimentais locais.\**
+#### Eixo Multiplicador: Regionalização, Impacto Social e Difusão (N / NE / CO)
 
-| Estado | ICT | Nota | Pesquisador-chave | Foco de Atuação / Vínculo Social | Contato |  
-|:---:|-----|:---:|-------------------|----------------------------------|:---:|  
-| **\*\*AC\*\*** | **\*\*UFAC\*\*** (Univ. Federal do Acre) | ⭐5 | **\*\*Marcondes L. Costa\*\*** | Bambu amazônico (*\*Guadua\**) e Extrativismo Comunitário (Articulação via projeto consorciado MQTF) | ✅ Direto (MQTF) |  
-| **\*\*GO\*\*** | **\*\*IF Goiano\*\*** | ⭐5 | **\*\*Alan P. de Oliveira\*\*** | Manejo de biomassa no Cerrado, Extensão Rural com Assentamentos e Comunidades Quilombolas (Kalunga) | 🌐 Indireto |  
-| **\*\*RJ\*\*** | **\*\*UFRJ (COPPE)\*\*** | ⭐5 | **\*\*Romildo Toledo Filho\*\*** | Análise de Ciclo de Vida (ACV), durabilidade estrutural de fibras e Tecnologias Sustentáveis de Habitação em Favelas | 🌐 Indireto |  
-| **\*\*BA\*\*** | **\*\*UFBA (Politécnica)\*\*** | ⭐4 | **\*\*Guilherme O. Silva\*\*** | Materiais cimentícios de baixo carbono e projetos de extensão focados em ATHIS urbano | 🌐 Indireto |  
-| **\*\*SC\*\*** | **\*\*UFSC (Civil)\*\*** | ⭐4 | **\*\*Humberto C. Furtado\*\*** | Modelagem experimental de conexões e engenharia de estruturas espaciais/geodésicas de bambu | ❌ A contatar |
+> O edital FINEP bonifica propostas com abrangência e parcerias ativas em ICTs destas regiões. A atuação destas frentes será focada na transferência de tecnologia através de cursos, capacitações e monitoramento de canteiros experimentais locais.
 
-📄 Pesquisa e matriz de downloads completa: \[\`docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md\`\](docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md)    
-📄 Perfis acadêmicos e indexação bibliográfica detalhada: \[Acervo Científico — 08\_perfis-referencias\](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/08\_perfis-referencias)
+| Estado | ICT | Nota | Pesquisador-chave | Foco de Atuação / Vínculo Social | Contato | Status |
+|:------:|-----|:----:|-------------------|----------------------------------|:-------:|--------|
+| **AC** | **UFAC** | ⭐5 | **Marcondes L. Costa** | Bambu amazônico (Guadua) e Extrativismo Comunitário (via MQTF) | Direto (MQTF) | Carta enviada |
+| **GO** | **IF Goiano** | ⭐5 | **Alan P. Oliveira** | Manejo de biomassa no Cerrado, Extensão Rural com Quilombolas (Kalunga) | Indireto | Carta enviada |
+| **RJ** | **UFRJ (COPPE)** | ⭐5 | **Romildo Toledo Filho** | ACV, durabilidade estrutural de fibras, Habitação em Favelas | Indireto | Carta enviada |
+| **BA** | **UFBA (Politécnica)** | ⭐4 | **Guilherme O. Silva** | Materiais cimentícios de baixo carbono, ATHIS urbano | Indireto | Carta enviada |
+| **SC** | **UFSC (Civil)** | ⭐4 | **Humberto C. Furtado** | Modelagem de conexões, estruturas geodésicas de bambu | A contactar | Carta enviada |
 
-## **3\. Próximo Passo do Agente (Automação de Tarefas)**
+📄 Pesquisa completa: [`docs/pesquisas/pesquisas-ict/Pesquisa prompt-icts-multiplicadoras.md`](docs/pesquisas/pesquisas-ict/Pesquisa%20prompt-icts-multiplicadoras.md)
+📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
 
-Seguindo estritamente as diretrizes contidas em AGENTS.md:
+---
 
-1. Atualize o README.md local com os blocos de código acima.  
-2. Crie os arquivos esqueleto de cartas-convite dentro de docs/cartas-convite/ para **Tânia Cruz** e **Ludmila Correia**.  
-3. Faça o commit e o push apontando as pendências de campo: coletar os links de LinkedIn/CPF do bloco complementar do ECOSALA (Raphaela, Luci, Henrique e Luis Felipe) junto ao coordenador Prof. Marcos Paron.
+## 3. Próximos Passos do Agente (Ordem de Execução)
+
+### Fase 1 — Verificação de estado (checkpoint obrigatório)
+
+- [ ] **Antes de criar qualquer carta**, verificar se o prospecto já tem carta criada em `docs/cartas-convite/`
+- [ ] **Antes de alterar status**, confirmar com o usuário se houve retorno do prospecto
+- [ ] Verificar se o Lattes está localizado; se não, marcar como pendente na ficha
+
+### Fase 2 — Cartas Personalizadas (Tipo A)
+
+Todas as cartas-convite devem ser **Tipo A (específicas)**, com sinergia clara e comprovada entre a pesquisa do destinatário e o projeto. Estrutura:
+
+1. **Por que você?** — Parágrafo personalizado explicando a convergência
+2. **Sobre o Projeto** — Contexto geral da Fábrica Modelo + esclarecimento de escopo (certificação, não operação remota)
+3. **Políticas Nacionais** — PNMCB, PNRS, Bioeconomia
+4. **Parceiros do Projeto** — André, Maurilio, Michel, Fabio
+5. **Frentes de Integração** — específica para a pesquisa do destinatário
+6. **Próximos passos**
+7. **Nota sobre a ficha** + link para o Acervo
+
+### Fase 3 — Cartas pendentes a criar
+
+| Prospecto | Contexto | Sinergia para a carta |
+|-----------|----------|----------------------|
+| **Tânia Cruz (UnB)** | Contato próximo de Fabio (8 anos de parceria via LaPCiS/LaPeCFaS). Mensagem já enviada. | Tecnologia social, incubação, governança comunitária — alinhamento direto com o APL social do projeto. UnB como ICT parceira no DF. |
+| **Ludmila Correia (CAU/DF)** | Identificada via pesquisa Gemini (perfil Tânia/Ludmila/Vicente). Tem conexão com Fabio via LaPeCFaS. Contato não formalizado. | ATHIS (coordena comissão CAU/DF), licenciamento de construções não convencionais, experiência com bambu (barreira acústica PIBIT). |
+
+> ⚠️ **Cuidado ao escrever a carta da Tânia:** Ela conhece Fabio há 8 anos — tom respeitoso mas pessoal ("Mestra"). A carta é do Grupo Executor, mas pode mencionar que Fabio a convidou pessoalmente. **NÃO** confundir MQTF (projeto dela) com Fábrica Modelo (projeto do André) — são frentes separadas. A sinergia é em tecnologia social e governança comunitária, não no objeto dos projetos.
+
+### Fase 4 — Finalização
+
+- [ ] Atualizar Acervo (index.md) com novas fichas e cartas
+- [ ] Atualizar README com status atualizados
+- [ ] Commit e push em ambos repositórios
+- [ ] Reportar pendências de campo (Lattes não localizados, CPF/LinkedIn do Paron)
+
+---
+
+## 4. Checklist de Qualidade
+
+- [ ] Nenhuma referência ao repo Takwara-Tech
+- [ ] Nenhuma mistura de frentes (Casa Floresta, COP30, MQTF, Vaga Lúmen)
+- [ ] Fichas com 8 seções completas (Protocolo de Curadoria Documental)
+- [ ] Links em formato clicável `[texto](url)`
+- [ ] Cartas com "Por que você?" personalizado
+- [ ] Cartas com link para a ficha no Acervo + link para README do projeto
+- [ ] Status de prospecção reflete o estágio real (não inventado)
+- [ ] Lattes não localizados marcados como pendentes na ficha

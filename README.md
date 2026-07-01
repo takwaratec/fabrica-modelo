@@ -107,7 +107,7 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |-----------|-------------|--------|-------------|-----------------|
-| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
+| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
 | **Prof. Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
 | **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
@@ -116,6 +116,7 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **Prof. Dr. Guilherme O. Silva** | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
 | **Prof. Dr. Humberto C. Furtado** | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
 | **Prof. Dr. Alan P. Oliveira** | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Dra. Ludmila A. Correia** | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
 | **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
