@@ -117,6 +117,7 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **Imperveg Polímeros Vegetais** | Aguaí, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-intencao-imperveg.md) |
 | **Kehlcoat (Kehl Polímeros)** | São Carlos, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | **Purcom Química** | Barueri, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-purcom.md) |
+| **IPT (Marcelo Guedes)** | São Paulo, SP | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-ipt.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
@@ -221,8 +222,8 @@ Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis co
 | **USP FZEA** (Pirassununga) | ⭐5 | **Juliano Fiorelli** · **Holmer Savastano** | Bambu+PU, painéis sustentáveis | Em prospecção |
 | **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Biopolímeros, PU, compósitos | Carta enviada |
 | **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Plasticultura, estufas | Carta enviada |
-| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal | ✅ Contato |
-| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | ✅ Contato |
+| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal | Contato feito |
+| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | **Carta pronta** |
 | **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Painéis aglomerados + resinas PU | Em prospecção |
 | **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Resíduos sólidos em materiais | Em prospecção |
 
