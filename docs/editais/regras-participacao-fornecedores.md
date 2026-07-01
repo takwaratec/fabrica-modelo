@@ -102,7 +102,7 @@ Para formalizar a participação de cada fornecedor como cooperação técnica:
 
 | Empresa | Produto | Tipo de Cooperação | Status |
 |---------|---------|-------------------|--------|
-| **Imperveg** (SP) | PU Vegetal UG132A (impermeabilizante), MAMONEX RD70 (espuma expansiva) | Doação de resinas para ensaios de biocompósitos | Carta de intenção existente (rever) |
+| **Imperveg** (SP) | PU Vegetal UG132A (impermeabilizante), MAMONEX RD70 (espuma expansiva), RQI 132 (revestimento) | 6 ensaios internacionais ITecons (Coimbra, Portugal) + ensaios PUC-Rio (Naccache, Ghavami) + UL-94 (UFSCar/UNESP) | Carta de intenção existente (rever) · maior acervo de comprovação técnica |
 | **Kehl** | Resinas e aditivos para PU vegetal | Doação de insumos para formulação de biocompósitos | A contactar |
 | **Purcom** | Compostos poliméricos e aditivos | Cessão de laboratório e know-how em compósitos | A contactar |
 
