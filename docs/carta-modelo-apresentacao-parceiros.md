@@ -50,12 +50,10 @@ Tecnologias de baixo custo, replicáveis e de fácil assimilação por comunidad
 
 ---
 
-## Materiais Complementares
+## Para Conhecer o Projeto
 
-1. **Proposal Teaser** — [visão geral, orçamento, cronograma](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/proposal-teaser.md)
-2. **Formulário Espelho FINEP** — [requisitos detalhados](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/formulario-espelho-finep.md)
-3. **Critérios de avaliação do edital** — [tabela completa no README](https://github.com/takwaratec/fabrica-modelo/blob/main/README.md)
-4. **Acervo Científico do projeto** — [fichas, perfis, referências](https://github.com/takwaratec/Analises-e-escrita-cientifica)
+- **Repositório completo:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) — README com visão geral, parceiros, critérios do edital e políticas nacionais relacionadas (PNMCB, PNRS, Bioeconomia)
+- **Acervo Científico do projeto:** [Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) — fichas técnicas, perfis de pesquisadores e referências
 
 ---
 
