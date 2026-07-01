@@ -145,59 +145,48 @@ Para maximizar a nota:
 ## 📁 Estrutura do Repositório
 
 ```mermaid
-graph TB
-    ROOT["📂 fabrica-modelo/"] --> README["📄 README.md"]
-    ROOT --> AGENTS["📄 AGENTS.md"]
+graph LR
+    ROOT["📂 fabrica-modelo"] --> README["README.md"]
+    ROOT --> AGENTS["AGENTS.md"]
     ROOT --> EDITAIS["📁 EDITAIS/"]
     ROOT --> DOCS["📁 docs/"]
-    
-    EDITAIS --> FINEP["📁 01_FINEP_MAIS_INOVACAO/"]
-    FINEP --> REG["📁 01_REGULAMENTO/"]
-    FINEP --> ANEXOS["📁 02_ANEXOS/"]
-    FINEP --> FAQ["📁 04_FAQ/"]
-    FINEP --> RESULT["📁 05_RESULTADOS/"]
-    
+
     DOCS --> ATAS["📁 atas-e-pautas/"]
     DOCS --> CARTAS["📁 cartas-convite/"]
     DOCS --> EDITAL["📁 editais/"]
     DOCS --> PESQ["📁 pesquisas/"]
-    DOCS --> MATANDRE["📁 materiais-andre/"]
-    
-    ATAS --> ATA1["📄 ATA_REUNIAO_3006"]
-    ATAS --> ATA2["📄 ORGANIZACAO_REUNIAO_3006"]
-    ATAS --> PAUTA["📄 pauta-reuniao"]
-    ATAS --> TRANS["📁 transcricoes/"]
-    
-    CARTAS --> C1["📄 carta-intencao-michel"]
-    CARTAS --> C2["📄 carta-intencao-imperveg"]
-    CARTAS --> C3["📄 carta-modelo-ICT"]
-    CARTAS --> C4["📄 carta-proposta-bliska"]
-    CARTAS --> C5["📄 carta-proposta-rocco-lahr"]
-    CARTAS --> C6["📄 carta-proposta-carvalho"]
-    
-    EDITAL --> EF["📄 formulario-espelho-finep"]
-    EDITAL --> PT["📄 proposal-teaser"]
-    
-    PESQ --> ICT["📁 pesquisas-ict/"]
+    DOCS --> ANDRE["📁 materiais-andre/"]
+
+    ATAS --> ATA1["ATA_REUNIAO_3006"]
+    CARTAS --> C1["carta-intencao-michel"]
+    CARTAS --> C2["carta-intencao-imperveg"]
+    CARTAS --> C3["carta-modelo-ICT"]
+    CARTAS --> C4["carta-proposta-bliska"]
+    CARTAS --> C5["carta-proposta-rocco-lahr"]
+    CARTAS --> C6["carta-proposta-carvalho"]
+    EDITAL --> EF["formulario-espelho-finep"]
+    EDITAL --> PT["proposal-teaser"]
 
     click README "https://github.com/takwaratec/fabrica-modelo/blob/main/README.md"
-    click C1 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-michel.md"
-    click C2 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-imperveg.md"
+    click ATA1 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/atas-e-pautas/ATA_REUNIAO_3006.md"
     click C4 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-bliska.md"
     click C5 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-rocco-lahr-usp.md"
     click C6 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-carvalho-ufscar.md"
-    click ATA1 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/atas-e-pautas/ATA_REUNIAO_3006.md"
     click EF "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/formulario-espelho-finep.md"
     click PT "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/proposal-teaser.md"
 ```
 
-### Legenda
+**Documentos principais com acesso direto (clique no diagrama):**
 
-| Ícone | Significado |
-|-------|-------------|
-| 📄 | Documento (.md) — clique para acessar |
-| 📁 | Pasta com mais arquivos |
-| 🔗 Links | Documentos principais com acesso direto via clique |
+| Documento | Link |
+|-----------|------|
+| 📄 README | [README.md](https://github.com/takwaratec/fabrica-modelo) |
+| 📄 ATA da Reunião | [atas-e-pautas/ATA_REUNIAO_3006.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/atas-e-pautas/ATA_REUNIAO_3006.md) |
+| 📄 Carta Bliska (UNICAMP) | [cartas-convite/carta-proposta-bliska.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-bliska.md) |
+| 📄 Carta Rocco Lahr (USP) | [cartas-convite/carta-proposta-rocco-lahr-usp.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| 📄 Carta Carvalho (UFSCar) | [cartas-convite/carta-proposta-carvalho-ufscar.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| 📄 Formulário Espelho FINEP | [editais/formulario-espelho-finep.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/formulario-espelho-finep.md) |
+| 📄 Proposal Teaser | [editais/proposal-teaser.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/proposal-teaser.md) |
 
 ---
 
