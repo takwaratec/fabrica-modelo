@@ -1,10 +1,8 @@
-TRIAGEM BRUTA
-TRIAGEM_BRUTA
-.git
-.gitignore
-*.opus
+TRIAGEM*
 *.mp4
+*.opus
 *.wav
 *.pdf
 docs/atas-e-pautas/transcricoes
 docs/editais/proposta-tecnica-techsus-faleiros-cdhu-2024.md
+notebooklm/imagens
