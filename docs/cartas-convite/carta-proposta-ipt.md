@@ -15,7 +15,7 @@ status: Rascunho — validar e-mail e enviar
 |-------|------|
 | **De** | Grupo Executor Fábrica Modelo |
 | **Para** | Marcelo Guedes — Diretor de Inovação, IPT |
-| **E-mail** | (consultar — marcelo.guedes@ipt.br) |
+| **E-mail** | ⚠️ Pendente — solicitar ao André Blanco (emissário) |
 | **Cc** | Fabio Takwara — fabiotakwara@gmail.com (enviar cópia p/ atualização de status) |
 | **Data** | 01/07/2026 |
 

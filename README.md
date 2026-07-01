@@ -117,7 +117,7 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **Imperveg Polímeros Vegetais** | Aguaí, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-intencao-imperveg.md) |
 | **Kehlcoat (Kehl Polímeros)** | São Carlos, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | **Purcom Química** | Barueri, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-purcom.md) |
-| **IPT (Marcelo Guedes)** | São Paulo, SP | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-ipt.md) |
+| **IPT (Marcelo Guedes)** | São Paulo, SP | 📄 Carta pronta | **André Blanco** | [⚠️ E-mail pendente — André tem o contato](docs/cartas-convite/carta-proposta-ipt.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
