@@ -198,13 +198,17 @@ O Grupo Executor também aceita sugestões de **novos estados/regiões** ou **no
 
 ---
 
-### 🧑‍🤝‍🧑 Aplicação em Comunidades e Consentimento (CLPI)
+### 🧑‍🤝‍🧑 Prova Social — Impacto em Comunidades e Consentimento (CLPI)
 
-As tecnologias do projeto — painéis estruturais, bambu tratado, biocompósitos — serão difundidas em **comunidades tradicionais, assentamentos e territórios de interesse social** nos estados parceiros. Cada ICT parceira indicará os territórios onde sua atuação prévia garante capilaridade e confiança com a comunidade local.
+O edital FINEP pontua projetos que demonstram **impacto social direto** em comunidades. A estratégia do projeto é clara: **cada ICT parceira indica os territórios, comunidades ou perfis sociais** com os quais já tem relação de confiança e atuação prévia — sejam assentamentos, comunidades tradicionais, favelas, quilombos, aldeias indígenas ou HIS urbana.
 
-Antes de qualquer intervenção, aplicamos o **Protocolo de Consentimento Livre, Prévio e Informado (CLPI)**, em conformidade com as Salvaguardas de Cancún (REDD+) e a Convenção 169 da OIT.
+Esta é a **prova social** do projeto: a capilaridade e a legitimidade de cada ICT junto ao seu público.
 
-📄 Modelo completo: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
+A formalização se dá pelo **Protocolo de Consentimento Livre, Prévio e Informado (CLPI)**, assinado pelo responsável da comunidade/instituição beneficiada, em conformidade com as Salvaguardas de Cancún (REDD+) e a Convenção 169 da OIT.
+
+> 💡 **Fluxo:** ICT parceira indica a comunidade → Grupo Executor prepara o CLPI → Comunidade delibera e assina → CLPI integra a proposta FINEP como evidência de Parceria Social.
+
+📄 Modelo de CLPI: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
 
 ---
 
@@ -237,6 +241,10 @@ Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis co
 
 📄 Pesquisa completa: [`docs/pesquisas/pesquisas-ict/Pesquisa prompt-icts-multiplicadoras.md`](docs/pesquisas/pesquisas-ict/Pesquisa%20prompt-icts-multiplicadoras.md)
 📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
+
+### 🧑‍🤝‍🧑 Prova Social — Indicação de Comunidades por ICT
+
+Cada ICT desta tabela **indicará os territórios e comunidades** com os quais já tem relação de confiança — a prova social do projeto. O consentimento será formalizado via CLPI assinado pela comunidade beneficiada (vide seção acima).
 
 ---
 
