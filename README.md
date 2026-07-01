@@ -26,6 +26,16 @@ O projeto está alinhado a três marcos legais que fundamentam sua relevância e
 | **PNRS** — Política Nacional de Resíduos Sólidos | Lei 12.305/2010 · Decreto 11.413/2023 | Incorporação de resíduos agrícolas, plásticos e minerais como insumo — Parcerias Sociais com cooperativas de catadores (Anexo 6 edital FINEP) |
 | **Estratégia Nacional de Bioeconomia** | Decreto 12.044/2024 | Tecnologias sociais para comunidades tradicionais, agricultores familiares, povos indígenas e quilombolas |
 
+### Impacto Social e Consentimento
+
+O projeto prevê a **inclusão de comunidades, assentamentos e territórios** como beneficiários das ações de difusão. Instituições como **ESECAE**, **APAs (Labiapa)**, **Mário Lago** e outros candidatos que demonstrarem interesse entram no escopo de atendimento do projeto mediante **CLPI (Consentimento Livre, Prévio e Informado)** ou outra forma de consentimento e inclusão formal.
+
+A **avaliação de impacto social** será estruturada com o suporte das ferramentas da **Dra. Daniela Maciel (Embrapa Territorial)**, membro do **ECOSALA** — iniciativa de pesquisadores e educadores cuja atuação abrange o Mário Lago, demais assentamentos já identificados e o próprio edital da FINEP:
+
+- 🔗 [Perfil Daniela Maciel](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/daniela-maciel.md) — Doutora em Política Científica e Tecnológica (Unicamp), especialista em avaliação de impacto e inovação agrícola
+- 🔗 [TerImpact Ex-Ante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) — Ferramenta de avaliação ex-ante de projetos de pesquisa (código aberto)
+- 🔗 [AgroRadarEval](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) — Gestão de P&D orientada a impacto societal (RRI/RRA)
+
 Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + contrapartida das empresas proponentes.
 
 ---
