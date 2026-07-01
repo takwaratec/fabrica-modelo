@@ -11,8 +11,10 @@
 graph LR
     FINEP["FINEP<br/>R$5-10M"] --> EXEC["Grupo Executor<br/>André · Maurilio · Fabio"]
     EXEC --> ICTS["🔬 ICTs Parceiras<br/>USP · UFSCar · UNICAMP · UFAC · UFRJ<br/>UFBA · UFSC · IF Goiano · UnB · IFB · CAU/DF"]
+    EXEC --> CERT["🏛️ Certificação<br/>IPT · CEFET-MG"]
     EXEC --> COOP["🤝 Coop. Técnica<br/>Imperveg · Kehl · Purcom"]
     ICTS --> SOCIAL["🧑‍🤝‍🧑 Prova Social<br/>ICT indica comunidade → CLPI assinado"]
+    CERT --> SOCIAL
 ```
 
 ---
@@ -61,6 +63,7 @@ graph LR
 | 12 | Imperveg (Donizeti) | Fabio Takwara | 03/07 |
 | 13 | Kehlcoat (Kehl Polímeros) | Fabio Takwara | 03/07 |
 | 14 | Purcom Química | Fabio Takwara | 03/07 |
+| 15 🆕 | IPT (Marcelo Guedes) | André Blanco | ⏳ sem email |
 
 ---
 
