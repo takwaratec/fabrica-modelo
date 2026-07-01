@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fábrica Modelo — Projeto FINEP Mais Inovação</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0a0a0f;
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+        /* Hero */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 60px 24px;
+            background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%);
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 30% 50%, rgba(46, 125, 50, 0.08) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 50%, rgba(33, 150, 243, 0.06) 0%, transparent 50%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 1; }
+        }
+        .hero-content { position: relative; z-index: 1; }
+        .hero-badge {
+            display: inline-block;
+            background: rgba(46, 125, 50, 0.2);
+            border: 1px solid rgba(46, 125, 50, 0.4);
+            color: #81c784;
+            padding: 8px 20px;
+            border-radius: 100px;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 24px;
+        }
+        .hero h1 {
+            font-size: clamp(2rem, 6vw, 4rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, #fff 0%, #81c784 50%, #4fc3f7 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 16px;
+            line-height: 1.2;
+        }
+        .hero p {
+            font-size: clamp(1rem, 2vw, 1.3rem);
+            color: #a0a0b0;
+            max-width: 700px;
+            margin: 0 auto 40px;
+        }
+        .hero-logos {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px;
+            flex-wrap: wrap;
+            margin-top: 40px;
+        }
+        .hero-logos img { height: 60px; filter: brightness(0.9); opacity: 0.8; }
+        .hero-logos .placeholder-logo {
+            height: 50px;
+            padding: 0 24px;
+            border: 1px dashed rgba(255,255,255,0.2);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            font-size: 20px;
+            font-weight: 700;
+            color: #666;
+            letter-spacing: 2px;
+        }
+
+        /* Sections */
+        section { padding: 80px 0; }
+        .section-dark { background: #0d0d14; }
+        .section-darker { background: #08080e; }
+        .section-title {
+            font-size: clamp(1.5rem, 3vw, 2.2rem);
+            font-weight: 700;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+        .section-subtitle {
+            color: #888;
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto 48px;
+            font-size: 1.05rem;
+        }
+
+        /* Cards Grid */
+        .grid { display: grid; gap: 24px; }
+        .grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+        .grid-3 { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+        .grid-4 { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+        .card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 16px;
+            padding: 28px;
+            transition: transform 0.3s, border-color 0.3s;
+        }
+        .card:hover { transform: translateY(-4px); border-color: rgba(46,125,50,0.3); }
+        .card-icon { font-size: 2.5rem; margin-bottom: 16px; }
+        .card h3 { font-size: 1.15rem; font-weight: 600; margin-bottom: 8px; }
+        .card p { color: #999; font-size: 0.92rem; }
+
+        /* Stats */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 32px;
+            text-align: center;
+        }
+        .stat-number { font-size: 2.8rem; font-weight: 800; color: #81c784; }
+        .stat-label { color: #888; font-size: 0.9rem; margin-top: 4px; }
+
+        /* ODS Grid */
+        .ods-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 16px; }
+        .ods-item {
+            text-align: center;
+            padding: 16px 8px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .ods-item .ods-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 8px;
+            font-size: 1.3rem;
+            font-weight: 800;
+            color: #fff;
+        }
+        .ods-item .ods-label { font-size: 0.78rem; color: #999; }
+
+        /* Timeline */
+        .timeline { position: relative; padding-left: 40px; }
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 15px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(to bottom, #2e7d32, #1a1a2e);
+        }
+        .timeline-item { position: relative; margin-bottom: 32px; }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -28px;
+            top: 6px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #2e7d32;
+            border: 2px solid #0a0a0f;
+        }
+        .timeline-item h4 { font-weight: 600; margin-bottom: 4px; }
+        .timeline-item p { color: #888; font-size: 0.9rem; }
+
+        /* Benefits highlight */
+        .benefit-highlight {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 20px;
+            background: rgba(46, 125, 50, 0.06);
+            border: 1px solid rgba(46, 125, 50, 0.15);
+            border-radius: 12px;
+            margin-bottom: 16px;
+        }
+        .benefit-highlight .icon { font-size: 2rem; flex-shrink: 0; }
+        .benefit-highlight .text h4 { font-size: 1rem; }
+        .benefit-highlight .text p { color: #888; font-size: 0.88rem; }
+
+        /* CTA */
+        .cta-section {
+            background: linear-gradient(135deg, #1a1a2e 0%, #0d0d14 100%);
+            border: 1px solid rgba(46,125,50,0.2);
+            border-radius: 24px;
+            padding: 60px 40px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        .cta-section h2 { font-size: 1.8rem; margin-bottom: 16px; }
+        .cta-section p { color: #999; max-width: 600px; margin: 0 auto 32px; }
+
+        /* Footer */
+        footer {
+            padding: 40px 0;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            text-align: center;
+            color: #555;
+            font-size: 0.85rem;
+        }
+
+        /* Tags */
+        .tag {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 100px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            background: rgba(46,125,50,0.15);
+            color: #81c784;
+            margin: 2px;
+        }
+        .tag-blue { background: rgba(33,150,243,0.15); color: #64b5f6; }
+        .tag-orange { background: rgba(255,152,0,0.15); color: #ffb74d; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            section { padding: 48px 0; }
+            .hero { min-height: auto; padding: 80px 24px; }
+            .hero-logos { gap: 24px; }
+            .hero-logos img { height: 40px; }
+            .cta-section { padding: 32px 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════ HERO ════════════════════════════════════════ -->
+<section class="hero">
+    <div class="hero-content container">
+        <div class="hero-badge">📋 Edital FINEP Mais Inovação — Linha 4</div>
+        <h1>Industrialização da Construção Civil<br>com Redução de Impacto Ambiental</h1>
+        <p>Um projeto de P&amp;D que integra painéis estruturais patenteados, materiais renováveis carbono negativo e certificação IPT para transformar a moradia sustentável no Brasil.</p>
+        <div class="hero-logos">
+            <img src="https://www.faleiros.com.br/wp-content/uploads/2024/01/logo-faleiros.png" alt="Faleiros Construtora" style="height:50px">
+            <img src="https://techsus.ind.br/wp-content/uploads/2020/02/logo-techsus-header-300x91.png" alt="Techsus" style="height:50px">
+            <div style="display:flex;align-items:center;gap:8px;font-size:14px;color:#666;font-weight:600;letter-spacing:1px">+</div>
+            <div style="font-size:22px;font-weight:700;color:#aaa;letter-spacing:2px">FÁBRICA MODELO</div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ DESAFIO ════════════════════════════════════════ -->
+<section class="section-dark">
+    <div class="container">
+        <h2 class="section-title">🏗️ O Desafio</h2>
+        <p class="section-subtitle">A construção civil brasileira enfrenta uma tripla crise que exige inovação estrutural.</p>
+        <div class="stats-grid">
+            <div>
+                <div class="stat-number">6M+</div>
+                <div class="stat-label">déficit habitacional<br>(Fundação João Pinheiro)</div>
+            </div>
+            <div>
+                <div class="stat-number">8%</div>
+                <div class="stat-label">das emissões globais<br>de CO₂ da construção</div>
+            </div>
+            <div>
+                <div class="stat-number">40M</div>
+                <div class="stat-label">em situação de<br>precariedade habitacional</div>
+            </div>
+            <div>
+                <div class="stat-number">59</div>
+                <div class="stat-label">idade média da<br>mão de obra na construção</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ SOLUÇÃO ════════════════════════════════════════ -->
+<section>
+    <div class="container">
+        <h2 class="section-title">🎯 A Solução</h2>
+        <p class="section-subtitle">Um projeto de P&amp;D com duas camadas: base industrial consolidada + materiais renováveis inovadores.</p>
+        <div class="grid grid-2">
+            <div class="card">
+                <div class="card-icon">🏭</div>
+                <h3>Sistema Techsus — Painéis Estruturais</h3>
+                <p>Patente depositada. Paredes de 4cm com nervuras grauteadas + estrutura metálica. Mínimo de concreto e aço. Em creditação na Caixa e CDHU. TRL 7-8.</p>
+                <div style="margin-top:12px">
+                    <span class="tag">Patente depositada</span>
+                    <span class="tag tag-blue">CDHU</span>
+                    <span class="tag tag-blue">Caixa</span>
+                    <span class="tag tag-orange">TRL 7-8</span>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">🌱</div>
+                <h3>Linhas de P&amp;D em Materiais Renováveis</h3>
+                <p>Seis frentes de inovação que agregam valor ao sistema construtivo: concreto verde, bambu tratado, PU vegetal, compósitos com resíduos, geodésicas e painéis híbridos.</p>
+                <div style="margin-top:12px">
+                    <span class="tag">Carbono negativo</span>
+                    <span class="tag tag-blue">6 linhas</span>
+                    <span class="tag tag-orange">Economia circular</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ INOVAÇÃO ════════════════════════════════════════ -->
+<section class="section-darker">
+    <div class="container">
+        <h2 class="section-title">🔬 Inovação em Materiais Sustentáveis</h2>
+        <p class="section-subtitle">Cada linha de P&amp;D gera patentes, artigos e diferencial competitivo para o grupo.</p>
+        <div class="grid grid-3">
+            <div class="card">
+                <div class="card-icon">🧱</div>
+                <h3>Concreto Verde</h3>
+                <p>Pozolana sem queima, escória de mineração, pó de rocha (Gisele/Embrapa). Novo agregado para os painéis Techsus com pegada reduzida de CO₂.</p>
+                <span class="tag">UFSCar</span>
+                <span class="tag tag-blue">Fumep</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">🎋</div>
+                <h3>Bambu Tratado Ecológico</h3>
+                <p>Protocolo alcalinização + pirolenhoso + PU Vegetal. Substitui CCA/CCB/arsênio. Carbono negativo em toda a cadeia.</p>
+                <span class="tag">Imperveg</span>
+                <span class="tag tag-blue">IFB</span>
+                <span class="tag tag-orange">Carbono -</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">🧪</div>
+                <h3>PU Vegetal (Mamona)</h3>
+                <p>UG 132A (impermeabilizante) + MAMONEX RD70 (espuma expansiva). Atóxico, certificado para água potável. 15+ anos de parceria com Imperveg.</p>
+                <span class="tag">Atóxico</span>
+                <span class="tag tag-blue">Certificado</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">♻️</div>
+                <h3>Compósitos com Resíduos</h3>
+                <p>Palha de cana/milho, plásticos pós-consumo, borracha. Integração com PNRS e economia circular.</p>
+                <span class="tag">Resíduos</span>
+                <span class="tag tag-blue">PNRS</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">⛺</div>
+                <h3>Geodésicas de Bambu</h3>
+                <p>Estufas para Holambra, abrigos para catástrofes, HIS. Estrutura de bambu + conexões flexíveis + PU Vegetal. TRL 4-5 com UNICAMP.</p>
+                <span class="tag">UNICAMP</span>
+                <span class="tag tag-blue">Holambra</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">🪟</div>
+                <h3>Painéis Híbridos Leves</h3>
+                <p>Linha paralela de painéis com materiais renováveis para fechamentos, divisórias e coberturas. Expande o portfólio da Fábrica.</p>
+                <span class="tag">Novos mercados</span>
+                <span class="tag tag-orange">Patenteável</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ PROTOCOLOS ════════════════════════════════════════ -->
+<section>
+    <div class="container">
+        <h2 class="section-title">🌿 Diferencial: Tratamento Ecológico + Cadeia</h2>
+        <p class="section-subtitle">O bambu brasileiro nunca conseguiu escala por falta de suprimento regular. Resolvemos isso.</p>
+        <div class="grid grid-2">
+            <div class="benefit-highlight">
+                <div class="icon">🧪</div>
+                <div class="text">
+                    <h4>1. Alcalinização → Pirolenhoso → PU Vegetal</h4>
+                    <p>Protocolo integrado que substitui todo arsenal químico tóxico (CCA, CCB, arsênio). Carbono negativo: bambu sequestra CO₂, pirolenhoso evita metano, PU vegetal é renovável.</p>
+                </div>
+            </div>
+            <div class="benefit-highlight">
+                <div class="icon">🏪</div>
+                <div class="text">
+                    <h4>2. Cadeia de Suprimentos Estruturada</h4>
+                    <p>Cooperativas de manejo → CEAFLOR (distribuição) → HUB de beneficiamento. Suprimento regular de bambu tratado com qualidade industrial — gargalo histórico resolvido.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ ODS ════════════════════════════════════════ -->
+<section class="section-dark">
+    <div class="container">
+        <h2 class="section-title">🌍 ODS Contemplados</h2>
+        <p class="section-subtitle">O projeto está alinhado com 7 dos 17 Objetivos de Desenvolvimento Sustentável da ONU.</p>
+        <div class="ods-grid" style="max-width:800px;margin:0 auto">
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#f99d26">7</div>
+                <div class="ods-label">Energia Limpa</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#fd6925">9</div>
+                <div class="ods-label">Indústria, Inovação e Infraestrutura</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#fd9d24">10</div>
+                <div class="ods-label">Redução das Desigualdades</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#f99d26">11</div>
+                <div class="ods-label">Cidades e Comunidades Sustentáveis</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#3e7a3e">12</div>
+                <div class="ods-label">Consumo e Produção Responsáveis</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#3f9142">13</div>
+                <div class="ods-label">Ação Climática</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#56c02b">15</div>
+                <div class="ods-label">Vida Terrestre</div>
+            </div>
+            <div class="ods-item">
+                <div class="ods-icon" style="background:#1f4b7a">17</div>
+                <div class="ods-label">Parcerias p/ os Objetivos</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ BENEFÍCIOS ════════════════════════════════════════ -->
+<section>
+    <div class="container">
+        <h2 class="section-title">📊 Benefícios Esperados</h2>
+        <p class="section-subtitle">Resultados concretos para o aportante, para a equipe e para o mercado.</p>
+        <div class="grid grid-2">
+            <div class="card">
+                <div class="card-icon">📉</div>
+                <h3>Redução da Pegada de Carbono</h3>
+                <p>Substituição de insumos petroquímicos e químicos tóxicos por materiais renováveis e carbono negativo em toda a cadeia. Bambu como sumidouro de CO₂ + PU vegetal renovável + pirolenhoso como subproduto da carbonização.</p>
+                <div style="margin-top:12px"><span class="tag">Carbono negativo</span> <span class="tag tag-blue">Créditos de carbono</span></div>
+            </div>
+            <div class="card">
+                <div class="card-icon">🏛️</div>
+                <h3>Prototipagem de Modelo Construtivo</h3>
+                <p>Desenvolvimento e validação de protótipo em escala real na Fábrica Escola, integrando painel Techsus + bambu tratado + PU Vegetal. Base para certificação IPT e licenciamento industrial.</p>
+                <div style="margin-top:12px"><span class="tag">Protótipo</span> <span class="tag tag-blue">IPT</span> <span class="tag tag-orange">Licenciamento</span></div>
+            </div>
+            <div class="card">
+                <div class="card-icon">📄</div>
+                <h3>Artigos Científicos</h3>
+                <p>Publicação do desempenho dos compósitos, validação estrutural e caracterização de materiais em periódicos indexados. Lastro científico para futuras patentes e novos editais.</p>
+                <div style="margin-top:12px"><span class="tag">Periódicos</span> <span class="tag tag-blue">Validação</span></div>
+            </div>
+            <div class="card">
+                <div class="card-icon">💡</div>
+                <h3>Patentes Agregadas</h3>
+                <p>Cada linha de P&D gera ativo intelectual próprio: sistema de tratamento ecológico, compósitos com resíduos, conexões geodésicas, painéis híbridos. Portfólio de patentes do grupo.</p>
+                <div style="margin-top:12px"><span class="tag tag-orange">4+ novas patentes</span> <span class="tag">Ativo intelectual</span></div>
+            </div>
+        </div>
+        <div style="margin-top:32px">
+            <div class="benefit-highlight" style="margin-bottom:0">
+                <div class="icon">🎨</div>
+                <div class="text">
+                    <h4>Prototipagem de Acabamentos e Esquadrias</h4>
+                    <p>O projeto também prevê P&amp;D de <strong>revestimentos decorativos</strong> (painéis de bambu resinado, texturas com PU vegetal), <strong>portas e janelas</strong> com perfis de bambu laminado e biocompósitos, e <strong>detalhes de impacto visual</strong> que agregam valor de mercado ao conjunto habitacional — do acabamento fino à identidade estética do empreendimento.</p>
+                    <div style="margin-top:8px">
+                        <span class="tag">Design sustentável</span>
+                        <span class="tag tag-blue">Valor agregado</span>
+                        <span class="tag tag-orange">Padronização industrial</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ CERTIFICAÇÕES ════════════════════════════════════════ -->
+<section class="section-darker">
+    <div class="container">
+        <h2 class="section-title">🏅 Certificações — Metas por Escopo</h2>
+        <p class="section-subtitle">Cada certificação tem critérios, pontuação e nível-alvo definidos como meta do projeto.</p>
+        <div class="grid grid-2">
+            <div class="card">
+                <div class="card-icon" style="font-size:1.6rem">🏢</div>
+                <h3>LEED (USGBC / GBC Brasil)</h3>
+                <p><strong>Escopo:</strong> Edificações novas, retrofit — certificação internacional mais reconhecida.</p>
+                <p><strong>Categorias:</strong> Água (11 pts), Energia (33 pts), Materiais (13 pts), Qualidade Interna (16 pts), Inovação.</p>
+                <p><strong>Níveis:</strong> Certified (40-49) → Silver (50-59) → Gold (60-79) → Platinum (80+)</p>
+                <p><strong>Meta do projeto:</strong> <span class="tag tag-blue">Gold (60+ pts)</span> — pontuar via EPD de materiais, créditos de inovação por bambu + PU vegetal, e eficiência energética do sistema construtivo.</p>
+                <p style="color:#888;font-size:0.85rem;margin-top:8px">🔗 <a href="https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-leed.md" style="color:#81c784">Ficha LEED no Acervo</a></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:1.6rem">🇧🇷</div>
+                <h3>AQUA-HQE (Fundação Vanzolini)</h3>
+                <p><strong>Escopo:</strong> Edificações em 4 fases (Programa → Concepção → Realização → Operação).</p>
+                <p><strong>14 temas</strong> em 4 famílias: Eco-construção, Eco-gestão, Conforto, Saúde.</p>
+                <p><strong>Níveis:</strong> Base → Superior → Excelente (por tema, sem nota geral).</p>
+                <p><strong>Meta do projeto:</strong> <span class="tag tag-blue">Excelente</span> — nas famílias Eco-construção (materiais renováveis) e Conforto (desempenho térmico)</p>
+                <p style="color:#888;font-size:0.85rem;margin-top:8px">🔗 <a href="https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-aqua-hqe.md" style="color:#81c784">Ficha AQUA-HQE no Acervo</a></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:1.6rem">🏡</div>
+                <h3>Selo Casa Azul + Caixa</h3>
+                <p><strong>Escopo:</strong> Habitação de Interesse Social (HIS) financiada pela Caixa.</p>
+                <p><strong>53 critérios</strong> em 7 categorias — destaque para <strong>Inovação (8 critérios)</strong> que permite pontuar com bioconstrução, bambu tratado e PU vegetal.</p>
+                <p><strong>Níveis:</strong> Bronze (19) → Prata (29) → Ouro (39) → Diamante (49)</p>
+                <p><strong>Meta do projeto:</strong> <span class="tag tag-blue">Ouro (39+)</span> — gratuita, focada em HIS, critério de inovação aberto a tecnologias não convencionais. Ideal como primeira certificação.</p>
+                <p style="color:#888;font-size:0.85rem;margin-top:8px">🔗 <a href="https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-casa-azul.md" style="color:#81c784">Ficha Casa Azul no Acervo</a></p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ REGIONALIZAÇÃO ════════════════════════════════════════ -->
+<section class="section-darker">
+    <div class="container">
+        <h2 class="section-title">🗺️ Abrangência Regional</h2>
+        <p class="section-subtitle">O edital FINEP pontua projetos com distribuição regional. Nosso arranjo já cobre 5 regiões.</p>
+        <div class="grid grid-3" style="text-align:center">
+            <div class="card">
+                <div class="card-icon" style="font-size:2rem">🟤</div>
+                <h3>Sudeste (SP)</h3>
+                <p>IPT, UNICAMP, IFSP, UFSCar<br><span style="color:#888;font-size:0.85rem">Sede, certificação, geodésicas</span></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:2rem">🟠</div>
+                <h3>Centro-Oeste (DF)</h3>
+                <p>UnB, IFB, Embrapa<br><span style="color:#888;font-size:0.85rem">Bambu, tratamentos, prova social</span></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:2rem">🟢</div>
+                <h3>Nordeste (BA)</h3>
+                <p>UFBA<br><span style="color:#888;font-size:0.85rem">Resíduos agrícolas, biopolímeros</span></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:2rem">🔵</div>
+                <h3>Norte (AC)</h3>
+                <p>UFAC<br><span style="color:#888;font-size:0.85rem">Bioeconomia amazônica</span></p>
+            </div>
+            <div class="card">
+                <div class="card-icon" style="font-size:2rem">🟣</div>
+                <h3>Sul (SC)</h3>
+                <p>UFSC<br><span style="color:#888;font-size:0.85rem">Certificação, ACV</span></p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ CRONOGRAMA ════════════════════════════════════════ -->
+<section>
+    <div class="container" style="max-width:700px">
+        <h2 class="section-title">📅 Cronograma</h2>
+        <p class="section-subtitle">Prazo final: 31 de agosto de 2026.</p>
+        <div class="timeline">
+            <div class="timeline-item">
+                <h4>Julho/2026</h4>
+                <p>Fechamento do arranjo + definição do aporte + início da elaboração da proposta</p>
+            </div>
+            <div class="timeline-item">
+                <h4>Até 15/08</h4>
+                <p>Versão completa da proposta submetida à apreciação dos aportantes</p>
+            </div>
+            <div class="timeline-item">
+                <h4>31/08/2026</h4>
+                <p><strong>Submissão FINEP</strong></p>
+            </div>
+            <div class="timeline-item">
+                <h4>2027</h4>
+                <p>Início do projeto (36 meses) — prototipagem, pesquisa, patentes, artigos</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ CTA ════════════════════════════════════════ -->
+<section class="section-darker">
+    <div class="container">
+        <div class="cta-section">
+            <h2>🤝 Como Participar</h2>
+            <p>Precisamos de <strong>aporte financeiro</strong> para custear o Núcleo de Inteligência que vai estruturar, redigir e submeter a proposta. Os <strong>R$ 20-30 mil</strong> são o pagamento pelo trabalho de formulação — independente da aprovação ou não do projeto no FINEP.</p>
+            <div class="grid grid-2" style="text-align:left;max-width:600px;margin:0 auto 32px">
+                <div class="benefit-highlight" style="margin-bottom:0">
+                    <div class="icon">💰</div>
+                    <div class="text">
+                        <h4>Aporte necessário</h4>
+                        <p>Completar ~R$ 250K mínimos (contrapartida 5%)</p>
+                    </div>
+                </div>
+                <div class="benefit-highlight" style="margin-bottom:0">
+                    <div class="icon">🛡️</div>
+                    <div class="text">
+                        <h4>Trabalho de formulação</h4>
+                        <p>R$ 20-30K pelo Núcleo de Inteligência, pago com ou sem aprovação</p>
+                    </div>
+                </div>
+            </div>
+            <p><strong>Contato:</strong> André Blanco — andre@teia.tec.br | Fabio Takwara — fabiotakwara@gmail.com</p>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ ICTs ════════════════════════════════════════ -->
+<section>
+    <div class="container">
+        <h2 class="section-title">🔬 Rede de ICTs Parceiras</h2>
+        <p class="section-subtitle">Rede articulada em 5 regiões com 12 ICTs e empresas de base tecnológica.</p>
+        <div class="grid grid-3" style="text-align:center">
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>IPT</h3><p style="color:#888;font-size:0.85rem">Certificação de materiais</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>UNICAMP/NIPE</h3><p style="color:#888;font-size:0.85rem">Geodésicas e plasticultura</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>UnB/LaPCiS</h3><p style="color:#888;font-size:0.85rem">Prova social e governança</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>UFSCar</h3><p style="color:#888;font-size:0.85rem">Concreto verde e materiais</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>Embrapa</h3><p style="color:#888;font-size:0.85rem">Remineralizadores e impacto</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>IFSP</h3><p style="color:#888;font-size:0.85rem">Coordenação técnica</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>UFBA</h3><p style="color:#888;font-size:0.85rem">Resíduos agrícolas</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏛️</div><h3>UFAC</h3><p style="color:#888;font-size:0.85rem">Bioeconomia amazônica</p></div>
+            <div class="card"><div class="card-icon" style="font-size:1.8rem">🏭</div><h3>Imperveg</h3><p style="color:#888;font-size:0.85rem">PU Vegetal (15+ anos)</p></div>
+        </div>
+    </div>
+</section>
+
+<!-- ════════════════════════════════════════ FOOTER ════════════════════════════════════════ -->
+<footer>
+    <div class="container">
+        <p>Fábrica Modelo — Grupo Executor</p>
+        <p>André Blanco · Maurilio Chiaretti · Fabio Takwara</p>
+        <p style="margin-top:8px">Repositório: <a href="https://github.com/takwaratec/fabrica-modelo" style="color:#81c784">github.com/takwaratec/fabrica-modelo</a></p>
+        <p style="margin-top:16px;font-size:0.75rem">© 2026 · Proposta FINEP Mais Inovação — Linha 4: Moradia Sustentável</p>
+    </div>
+</footer>
+
+</body>
+</html>
