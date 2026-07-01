@@ -1,69 +1,184 @@
-# 🏭 Fábrica Modelo
+# 🏭 Fábrica Modelo — Fábrica Escola
 
-Industrialização da construção civil com redução de impacto ambiental — projeto em articulação para edital **FINEP Mais Inovação** (Economia Circular — Linha 4: Moradia Sustentável).
-
-**Prazo de submissão:** 31/08/2026
+> **Ação conjunta** para industrialização da construção civil com redução de impacto ambiental.
+> Proposta ao edital **FINEP Mais Inovação** (Economia Circular — Linha 4: Moradia Sustentável).
+> **Prazo de submissão:** 31/08/2026
 
 ---
 
-## Parceiros
+## 📋 Sobre o Projeto
 
-| Parceiro | Papel |
-|----------|-------|
-| **André Blanco / TEIA** | Coordenação técnica, articulação ICT, membro ABNT Comissão 6263 |
-| **Maurilio Chiaretti** | Articulação política, Federação Nacional dos Arquitetos, habitação social |
-| **Michel / Texos** | Proponente principal — tecnologia de painéis arquitetônicos (patente, CDHU, Caixa) |
-| **Fabio Takwara** | Assessoria técnico-científica, curadoria, redação da proposta |
-| **ICT (em prospecção)** | UFSCar, UNICAMP/NIPE, IPT, São José dos Campos |
+Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** para viabilizar o projeto de **Fábrica Escola** proposto por André Blanco — uma planta fabril para industrialização da construção civil que integre:
 
-## Edital
+1. **Sistema construtivo patenteado** de painéis arquitetônicos estruturais (mais rápido, menos concreto e aço)
+2. **Linha paralela de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos agrícolas e plásticos
+3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
 
-- **Fonte:** FINEP Mais Inovação — Economia Circular
-- **Valor:** R$ 5.000.000,00 a R$ 10.000.000,00
-- **ICT obrigatório** · Contrapartida financeira (5% a 50% conforme porte)
-- **Alinhamento:** Moradia Sustentável + Resíduos Sólidos (PNRS)
+Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + contrapartida das empresas proponentes.
 
-## Estrutura do repositório
+---
+
+## 🏗️ Parceiros Atuais
+
+| Parceiro | Papel | Contato |
+|----------|-------|---------|
+| **André Blanco** (IFSP/TEIA) | Coordenação técnica, articulação ICT, ABNT Comissão 6263 | Via repositório |
+| **Maurilio Chiaretti** | Articulação política, Fed. Nacional dos Arquitetos, habitação social | Via repositório |
+| **Michel / Texos** | Proponente candidato — tecnologia painéis (patente CDHU/Caixa) | Via repositório |
+| **Fabio Takwara** | Assessoria técnico-científica, curadoria, redação da proposta | fabiotakwara@gmail.com |
+| **Imperveg (Donizete)** | Fornecedor de PU Vegetal para P&D | — |
+
+---
+
+## 🎯 Buscamos Parceiros
+
+### Para atingir o valor mínimo do edital (R$ 5M), buscamos:
+
+#### 1. Empresa(s) proponente(s) com capacidade de contrapartida
+
+A contrapartida é **exclusivamente financeira** (não imaterial). O valor mínimo do projeto é **R$ 5.000.000,00**. A contrapartida exigida varia conforme porte da empresa:
+
+| Porte da empresa | Faturamento anual | Contrapartida | Valor em R$ 5M |
+|------------------|-------------------|---------------|----------------|
+| Microempresa | Até R$ 4,8M | 5% | R$ 250.000 |
+| Pequeno porte | R$ 4,8M a R$ 10M | 10% | R$ 500.000 |
+| Demais | Acima de R$ 10M | Até 50% | Até R$ 2.500.000 |
+
+**Cenários possíveis:**
+- 1 empresa de médio porte (R$ 500K) + 1 micro (R$ 250K) = R$ 750K → **viabiliza projeto de R$ 7,5M**
+- 3 microempresas (R$ 250K cada) = R$ 750K → **viabiliza projeto de R$ 7,5M**
+- 1 empresa de grande porte → contrapartida única suficiente para R$ 10M
+
+#### 2. ICT parceira (obrigatória)
+
+ICTs em prospecção com perfis mapeados (vide seção abaixo).
+
+#### 3. Parcerias Sociais (pontuação extra)
+
+Cooperativas de catadores, associações de pequenos produtores, agricultores familiares — pontuam no critério **Parcerias Sociais** (nota 0-1, peso 1). Alinhamento com PNRS (Lei 12.305/2010) e Decreto 12.044/2024 (Bioeconomia).
+
+---
+
+## 🔬 ICTs em Prospecção
+
+Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis completos no Acervo Científico.
+
+### Prioridade Máxima
+
+| ICT | Nota | Pesquisador-chave | Linha de Pesquisa | Contato |
+|-----|------|-------------------|-------------------|---------|
+| **USP EESC** (São Carlos) | ⭐5 | **Francisco Rocco Lahr** | PU de mamona, painéis OSB, aglomerados com resíduos | ❌ A contatar |
+| **USP FZEA** (Pirassununga) | ⭐5 | **Juliano Fiorelli** · **Holmer Savastano** | Bambu + resina PU, painéis sustentáveis, fibrocimentos | ❌ A contatar |
+| **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Biopolímeros, PU, compósitos com fibras vegetais | ❌ A contatar |
+| **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Plasticultura, estufas, ambientes protegidos | ✅ Contato direto |
+| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal (histórico de parceria) | ✅ Contato (Nascente) |
+| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | ✅ Contato direto |
+| **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Painéis aglomerados + resinas PU mamona | ❌ A contatar |
+| **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Resíduos sólidos em materiais de construção | ❌ A contatar |
+
+📄 Pesquisa completa: [`docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md)
+📄 Perfis dos pesquisadores: [Acervo Científico — 08_perfis-referencias](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/08_perfis-referencias)
+
+---
+
+## 📊 Critérios de Avaliação do Edital
+
+A nota final da proposta é a soma ponderada dos indicadores abaixo. Entender estes critérios é essencial para orientar a articulação de parcerias.
+
+### Fase 1 — Habilitação (eliminatória)
+- **Consistência da Proposta** (✅/❌) — Adequação da equipe, TRL, metodologia, metas, orçamento, prazos
+
+### Fase 2 — Classificação (nota 0-2 por indicador, peso 1)
+
+**Grau de Inovação** (soma simples):
+| Indicador | O que avalia | Como pontuamos |
+|-----------|-------------|----------------|
+| Abrangência | Ineditismo mundial (2), nacional (1) ou apenas na empresa (0) | Patente Michel é nacional; PU+bambu+resíduos é inovação com potencial de destaque |
+| Grau de Incerteza Tecnológica | Quanto maior o risco tecnológico, maior a nota | TRL 4-5 (médio risco) → nota mediana; validar com ICT aumenta confiança |
+| Qualificação da Equipe | Participação de mestres e doutores | Entrar com ICT traz doutores ao time |
+| Composição dos Dispêndios | Despesas em atividades intensivas em conhecimento | P&D em ICT e laboratórios |
+| Trajetória de Inovação da Empresa | Histórico de inovação da proponente | Michel já tem patente e processo IPT |
+
+**Relevância da Inovação** (soma simples):
+| Indicador | O que avalia | Como pontuamos |
+|-----------|-------------|----------------|
+| Relevância do Tema | Alinhamento com políticas do Estado brasileiro | Déficit habitacional, PNRS, bioeconomia — alinhamento forte |
+| Impacto na Estrutura de Mercado | Impactos na cadeia produtiva | Industrialização + materiais renováveis = disrupção positiva |
+| Parceria com ICTs | Intensidade da parceria ICT-empresa | ⚠️ **Quanto mais ICTs, melhor** — justifica buscar múltiplos parceiros |
+| Internacionalização | Potencial de mercado internacional | Tecnologia com apelo global (construção sustentável) |
+| Externalidades | Impactos ambientais, sociais, econômicos | Redução de CO₂, habitação social, resíduos como insumo |
+
+**Bônus**:
+| Indicador | Nota | Como obter |
+|-----------|------|------------|
+| Regionalização (0-1) | 1 se projeto na região N/NE/CO | SP e MG não pontuam neste critério |
+| **Parcerias Sociais (0-1)** | 1 se houver | **Cooperativas de catadores, associações, agricultura familiar** — alinhamento com MST, Terra Viva, catadores de recicláveis |
+
+### Estratégia Recomendada
+
+```
+Máximo de pontos possível (fora regionalização):
+  Grau Inovação: 5 indicadores × 2 = 10 pts
+  Relevância:    5 indicadores × 2 = 10 pts  
+  Parcerias Sociais:              =  1 pt
+  TOTAL MÁXIMO:                   = 21 pts
+```
+
+Para maximizar a nota:
+1. ✅ **Fechar ICT(s) rapidamente** — pontua em Parceria com ICTs + Qualificação da Equipe
+2. ✅ **Incluir Parceria Social** — MST/Terra Viva já são parceiros, formalizar como coexecutor
+3. ✅ **Documentar trajetória de inovação** — patente Michel + histórico IPT
+4. ✅ **Enfatizar externalidades** — impacto ambiental (CO₂), social (HIS), econômico (industrialização)
+
+---
+
+## 📁 Estrutura do Repositório
 
 ```
 📂 fabrica-modelo/
 ├── README.md                    ← este arquivo
 ├── AGENTS.md                    ← escopo, fronteiras, instruções para agentes
 ├── EDITAIS/
-│   └── 01_FINEP_MAIS_INOVACAO/  ← documentos do edital
+│   └── 01_FINEP_MAIS_INOVACAO/  ← regulamento, anexos, FAQ, resultados
 └── docs/
     ├── ATA_REUNIAO_3006.md      ← ata oficial da reunião
-    ├── ORGANIZACAO_REUNIAO_3006.md  ← resumo, mermaid, tarefas
+    ├── ORGANIZACAO_REUNIAO_3006.md  ← resumo, tarefas T01-T11
     ├── pauta-reuniao-fabrica-modelo.md
-    ├── proposal-teaser.md       ← apresentação para parceiros
-    ├── formulario-espelho-finep.md  ← checklist FINEP
-    ├── carta-intencao-michel.md  ← proposta de parceria (grupo → Michel)
-    ├── carta-intencao-imperveg.md  ← carta de fornecimento PU Vegetal
-    ├── carta-proposta-bliska.md  ← proposta de parceria Prof. Antônio Bliska Jr. (UNICAMP)
-    ├── carta-modelo-apresentacao-parceiros.md  ← carta genérica para ICTs
-    ├── carta-modelo-parceiro-generica.md
-    ├── mensagem-divulgacao-grupo.md
-    ├── materiais-andre/         ← Lattes, CV, portfólio extraídos do Drive
+    ├── proposal-teaser.md       ← apresentação executiva para parceiros
+    ├── formulario-espelho-finep.md  ← checklist completo FINEP
+    ├── carta-intencao-michel.md  ← proposta de parceria (grupo → Michel/Texos)
+    ├── carta-intencao-imperveg.md  ← fornecimento PU Vegetal
+    ├── carta-proposta-bliska.md  ← proposta ICT — Prof. Bliska (UNICAMP)
+    ├── carta-modelo-apresentacao-parceiros.md  ← template para ICTs
+    ├── pesquisas-ict/           ← pesquisa Gemini Deep Research
+    ├── materiais-andre/         ← Lattes, CV, portfólio
     └── transcricoes/
         └── TRANSCRICAO_REUNIAO_3006.md
 ```
 
-## Repositórios públicos
+---
 
-O embasamento científico do projeto está no Acervo Científico:
+## 🔗 Acesso aos Documentos
 
-| Repositório | Conteúdo |
-|-------------|----------|
-| [Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) | Acervo científico — 330+ fichas, análises, referências |
-| [fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) | Documentos do projeto |
-
-## Produção intelectual
-
-A produção técnica e científica dos membros está catalogada no **Acervo Científico**:
-- [Perfil André Blanco](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) — Lattes, CV, portfólio
-- [Perfil Fabio Takwara](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) — pesquisador cidadão, ORCID, acervo
-- [Ficha Texos/Michel](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-texos-michel.md) — referência do parceiro tecnológico
+| Documento | Local |
+|-----------|-------|
+| **Acervo Científico** (fichas, perfis, referências) | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+| **Perfil André Blanco** | [Acervo — ecosala/perfil-andre-blanco.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) |
+| **Perfil Fabio Takwara** | [Acervo — ecosala/perfil-fabio-takwara.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) |
+| **Ficha Texos/Michel** | [Acervo — ecosala/ficha-texos-michel.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-texos-michel.md) |
+| **Pesquisa ICTs completa** | [`docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md) |
 
 ---
 
-*Criado: 29/06/2026 · Atualizado: 30/06/2026 · Tecnologia Takwara*
+## 📬 Contato
+
+**Grupo Executor Fábrica Modelo**
+André Blanco · Maurilio Chiaretti · Michel (Texos) · Fabio Takwara
+
+Interessados em compor o projeto como proponente, ICT parceira ou parceria social:
+→ Abrir issue neste repositório ou contatar Fabio Takwara (fabiotakwara@gmail.com)
+
+---
+
+*Criado: 29/06/2026 · Atualizado: 01/07/2026 · Tecnologia Takwara*
+*Este repositório é público — documentos do projeto para parceiros e avaliadores.*
