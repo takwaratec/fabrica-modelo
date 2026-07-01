@@ -71,7 +71,19 @@
 71|71|
 72|72|---
 73|73|
-74|74|**📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo do projeto (link abaixo). Se quiser revisar ou sugerir alterações, envie para fabiotakwara@gmail.com.
+74|74|
+
+### 🧑‍🤝‍🧑 Aplicacao em Comunidades e Consentimento (CLPI)
+
+Um dos criterios de pontuacao do edital FINEP e a **aplicacao das tecnologias em comunidades**, gerando impacto social direto. Convidamos sua instituicao a **indicar os territorios, comunidades ou perfis sociais** onde as tecnologias do projeto poderao ser difundidas — sejam assentamentos, comunidades tradicionais, favelas, quilombos ou HIS urbana — considerando sua atuacao previa e capilaridade regional.
+
+Antes de qualquer intervencao no territorio, sera aplicado o **Protocolo de Consentimento Livre, Previo e Informado (CLPI)**, em conformidade com as Salvaguardas de Cancun (REDD+) e a Convencao 169 da OIT. O Grupo Executor disponibiliza um modelo de CLPI como referencia.
+
+📄 Modelo de CLPI: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
+
+---
+
+**📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo do projeto (link abaixo). Se quiser revisar ou sugerir alterações, envie para fabiotakwara@gmail.com.
 75|75|
 76|76|🔗 **Ficha no Acervo:** [perfil-ludmila-correia.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-ludmila-correia.md)
 77|77|🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)

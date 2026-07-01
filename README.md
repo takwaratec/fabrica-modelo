@@ -200,19 +200,9 @@ O Grupo Executor também aceita sugestões de **novos estados/regiões** ou **no
 
 ### 🧑‍🤝‍🧑 Aplicação em Comunidades e Consentimento (CLPI)
 
-As tecnologias do projeto — painéis estruturais, bambu tratado, biocompósitos — serão difundidas em **comunidades tradicionais, assentamentos e territórios de interesse social** nos estados parceiros (AC, BA, RJ, SC, GO, DF).
+As tecnologias do projeto — painéis estruturais, bambu tratado, biocompósitos — serão difundidas em **comunidades tradicionais, assentamentos e territórios de interesse social** nos estados parceiros. Cada ICT parceira indicará os territórios onde sua atuação prévia garante capilaridade e confiança com a comunidade local.
 
-Cada ICT multiplicadora indicou o território onde sua atuação prévia garante capilaridade e confiança com a comunidade local. Antes de qualquer intervenção, aplicamos o **Protocolo de Consentimento Livre, Prévio e Informado (CLPI)**:
-
-| Território | Comunidade | ICT Responsável |
-|------------|-----------|-----------------|
-| Reservas Extrativistas / Ribeirinhos | AC | UFAC (Marcondes) |
-| Quilombo Kalunga / Assentamentos | GO | IF Goiano (Alan) |
-| Favelas / HIS Urbana | BA | UFBA (Guilherme) |
-| Favelas / HIS | RJ | UFRJ (Romildo) |
-| Autoconstrução | SC | UFSC (Humberto) |
-| Mário Lago / DF Entorno | DF | UnB (Tânia) |
-| ATHIS DF / Xukuru (PE) | DF/PE | CAU/DF (Ludmila) |
+Antes de qualquer intervenção, aplicamos o **Protocolo de Consentimento Livre, Prévio e Informado (CLPI)**, em conformidade com as Salvaguardas de Cancún (REDD+) e a Convenção 169 da OIT.
 
 📄 Modelo completo: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
 

@@ -21,15 +21,9 @@ No contexto do Projeto Fábrica Modelo, o CLPI se aplica quando as tecnologias d
 
 ## 2. Onde as tecnologias serão aplicadas
 
-| Território / Comunidade | Estado | Tecnologia | ICT Responsável |
-|------------------------|--------|------------|-----------------|
-| **Reserva Extrativista / Comunidades Ribeirinhas** | AC | Bambu amazônico Guadua + manejo comunitário | UFAC (Marcondes L. Costa) |
-| **Quilombo Kalunga / Assentamentos Agricultura Familiar** | GO | Bambu do Cerrado, capacitação em fabricação modular | IF Goiano (Alan P. Oliveira) |
-| **Favelas / HIS Urbana (Salvador, Recôncavo)** | BA | Painéis de baixo carbono, ATHIS | UFBA (Guilherme O. Silva) |
-| **Favelas / HIS (Rio de Janeiro)** | RJ | Bambu estrutural, ACV, habitação social | UFRJ/COPPE (Romildo Toledo) |
-| **Assentamentos / Autoconstrução (Santa Catarina)** | SC | Conexões geodésicas, bioconstrução | UFSC (Humberto Furtado) |
-| **Assentamentos / Mário Lago (DF/Entorno)** | DF | Governança social, incubação, APL comunitário | UnB (Tânia Cruz) |
-| **Comunidades DF / Xukuru (PE)** | DF/PE | ATHIS, licenciamento, habitação social | CAU/DF (Ludmila Correia) |
+As tecnologias desenvolvidas no projeto serão difundidas em comunidades tradicionais, assentamentos e territórios de interesse social nos estados parceiros. **Cada ICT parceira indicará**, com base em sua atuação prévia e capilaridade regional, os territórios onde as tecnologias poderão ser implantadas.
+
+O modelo de CLPI abaixo deverá ser adaptado para cada comunidade/território indicado pela ICT.
 
 ## 3. Etapas do Processo de CLPI
 
