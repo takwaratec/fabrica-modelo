@@ -38,7 +38,7 @@ Constatamos que o senhor **domina a aplicação agrícola (estufas, ambientes pr
 | **Valor** | R$ 5.000.000,00 a R$ 10.000.000,00 |
 | **Proponente candidato** | Texos (painéis estruturais) |
 | **ICT parceira** | UNICAMP/NIPE — prioridade para geodésicas |
-| **Equipe** | André Blanco (coord.), Maurilio Chiaretti (articulação), Fabio Takwara (geodésicas) |
+| **Equipe** | André Blanco (coord.), Maurilio Chiaretti (articulação), Fabio Takwara (Assessoria técnico-científica) |
 | **Contrapartida necessária** | Mín. R$ 250K — buscamos financiador |
 
 ---
@@ -59,7 +59,7 @@ A mesma estrutura geodésica, por sua leveza, rapidez de montagem e baixo custo,
 
 ### 🏠 Uso 3 — Habitação de Interesse Social (HIS)
 
-Com adaptações (fechamento com painéis, isolamento termoacústico), a geodésica se torna uma **unidade habitacional de interesse social** — rápida de erguer, de baixo custo, com conforto térmico. O projeto já mapeou **10 mil unidades de demanda** via movimentos de moradia (Maurilio Chiaretti, FNA).
+Com adaptações (fechamento com painéis, isolamento termoacústico), a geodésica se torna uma **unidade habitacional de interesse social** — rápida de erguer, de baixo custo, com conforto térmico. O déficit habitacional brasileiro ultrapassa **6 milhões de moradias** (Fundação João Pinheiro, 2023), e a articulação com movimentos de moradia (Maurilio Chiaretti, FNA) pode orientar a demanda real por este tipo de solução.
 
 ---
 
@@ -72,6 +72,43 @@ O que propomos ao senhor:
 3. **Artigo técnico-científico** — desempenho da estufa geodésica de bambu sob condições reais
 
 🎥 **Vídeo demonstrativo:** [https://youtu.be/OGeVIEGZfb0](https://youtu.be/OGeVIEGZfb0)
+
+---
+
+## 🎋 Diferencial Tecnológico: Tratamento Ecológico + Cadeia de Suprimentos
+
+O grande gargalo histórico das cadeias de bambu é a **falta de suprimento regular** de matéria-prima tratada com qualidade industrial. Nosso projeto resolve isso em três camadas:
+
+### 1. Protocolo de Tratamento 100% Ecológico (Carbono Negativo)
+
+Desenvolvemos um **protocolo integrado de preservação** que substitui todo o arsenal químico tóxico (CCA, CCB, boratos, arsênio) por um processo em três etapas:
+
+1. **Alcalinização** — remoção de hemicelulose e amidos, abrindo os poros do colmo para penetração de preservativos naturais
+2. **Impregnação com pirolenhoso** — destilado da pirólise de biomassa, fungicida e bactericida natural, atóxico, eficácia comprovada contra fungos xilófagos e térmitas
+3. **Impermeabilização com PU Vegetal (UG 132 A)** — revestimento bicomponente de poliuretano de mamona, 100% sólido (sem solventes), atóxico (apto para água potável), resistente a UV, sela o colmo contra umidade
+
+Esse protocolo **potencializa a escala de tratamento** porque elimina a dependência de químicos industriais de alto custo, integra o pirolenhoso como subproduto do Forno Ecológico MPTDF, e usa PU Vegetal produzido nacionalmente — **carbono negativo em toda a cadeia**.
+
+🔗 **Fichas no Acervo Científico:**
+- [Tratamento Sem Veneno (vapor saturado)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/ficha-tratamento-sem-veneno.md)
+- [Tratamento Alcalino — Revisão Técnica](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/SCI_014_POLYMERS_ALKALI_TREATMENT.md)
+- [Pirolenhoso Antifúngico — Revisão](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/resenha-silva-2011-tratamento-pirolenhoso.md)
+- [UG 132 A — Impermeabilizante PU Vegetal](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md)
+- [MAMONEX RD70 — Espuma Expansiva Vegetal](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md)
+
+### 2. Cadeia de Suprimentos Estruturada
+
+Para viabilizar a **industrialização das estufas em escala**, o projeto articula:
+
+- **Formação de cooperativas de manejo** de bambuzais na região — extração seletiva, manejo sustentável de touceiras, colheita programada
+- **CEAFLOR como distribuidor de bambu tratado** — articulação com o maior distribuidor de insumos para floricultura da região
+- **HUB de distribuição de matéria-prima** — central de beneficiamento e expedição garantindo suprimento contínuo de bambu tratado e classificado
+
+Esse arranjo resolve o **gargalo histórico de desabastecimento** que trava a cadeia produtiva do bambu no Brasil: sem oferta regular de material tratado com qualidade industrial, nenhuma construtora ou agroindústria consegue escalar.
+
+🔗 [Holambra Conectada — Ficha do Projeto](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
+
+---
 
 ## O Gargalo da Contrapartida
 

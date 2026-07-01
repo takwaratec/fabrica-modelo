@@ -27,7 +27,7 @@ graph LR
 |--------|-------------|-------|
 | André Blanco | IFSP / TEIA | Coord. Técnica |
 | Maurilio Chiaretti | FNA | Articulação Política |
-| Fabio Takwara | Ecolaborativa | Assessoria |
+| Fabio Takwara | Ecolaborativa | Assessoria técnico-científica |
 | Marcos Paron | IFSP | ECOSALA |
 | Daniela Maciel | Embrapa | Impacto Social |
 | Gisele Vilela | Embrapa | Remineralizadores |
