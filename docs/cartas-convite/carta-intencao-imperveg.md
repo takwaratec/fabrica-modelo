@@ -4,12 +4,12 @@
 > **Finalidade:** Convite para parceria em prototipagem — fornecimento de PU Vegetal e assessoria técnica
 > **Data:** Julho/2026
 > **De:** Fabio Takwara (Tecnologia Takwara)
-> **Para:** Donizete Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais
+> **Para:** Donizeti Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais
 > **E-mail:** donizeti@imperveg.com
 
 ---
 
-Donizete, quanto tempo!
+Donizeti, quanto tempo!
 
 Espero que você e a família estejam bem, e que a adaptação em Portugal esteja caminhando. Estou em Limeira agora, recompondo as bases depois de tudo que aconteceu em Minas, e deixei Brasília para trás.
 
