@@ -36,7 +36,6 @@ Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + 
 | **Maurilio Chiaretti** | Articulação política, Fed. Nacional dos Arquitetos, habitação social | Via repositório |
 | **Michel / Texos** | Proponente candidato — tecnologia painéis (patente CDHU/Caixa) | Via repositório |
 | **Fabio Takwara** | Assessoria técnico-científica, curadoria, redação da proposta | fabiotakwara@gmail.com |
-| **Imperveg (Donizete)** | Fornecedor de PU Vegetal para P&D | — |
 
 ---
 

@@ -1,52 +1,66 @@
-# Carta de Intenção — Proposta de Parceria com Imperveg
+# Carta — Parceria Imperveg para Projeto FINEP
 
 > **Documento do Grupo Executor Fábrica Modelo**
-> **Finalidade:** Proposta de parceria para fornecimento de PU Vegetal — projeto FINEP Mais Inovação
+> **Finalidade:** Convite para parceria em prototipagem — fornecimento de PU Vegetal e assessoria técnica
 > **Data:** Julho/2026
-> **De:** Fabio Takwara (Tecnologia Takwara) — em nome do Grupo Executor Fábrica Modelo
+> **De:** Fabio Takwara (Tecnologia Takwara)
 > **Para:** Donizete Cúrcio Luciano — Diretor, Imperveg Polímeros Vegetais
+> **E-mail:** donizeti@imperveg.com
 
 ---
 
-Prezado Donizete,
+Donizete, quanto tempo!
 
-Espero que esteja bem. Como conversamos, estou estruturando o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"** para submissão ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo em **31 de agosto de 2026**.
+Espero que você e a família estejam bem, e que a adaptação em Portugal esteja caminhando. Estou em Limeira agora, recompondo as bases depois de tudo que aconteceu em Minas, e deixei Brasília para trás.
 
-O projeto tem como núcleo um sistema de painéis arquitetônicos estruturais (patenteado, acreditado CDHU/Caixa) e abre linhas de P&D para incorporação de materiais renováveis — onde o **PU Vegetal da Imperveg** é peça-chave.
+O MQTF (Mulheres que Tecem a Floresta), com a UnB, infelizmente foi adiado — suspenso para o próximo ano. Mas está na pauta, não morreu. Enquanto isso, estou abrindo uma nova frente aqui em São Paulo, com um grupo de parceiros muito bom: o André Blanco, arquiteto super articulado, professor do IFSP e membro da comissão da ABNT; o Maurilio, vice-presidente da Federação Nacional dos Arquitetos, que conhece as regras da FINEP como ninguém; e o Michel, que tem uma tecnologia de painéis estruturais já patenteada e acreditada na CDHU e na Caixa.
+
+Estamos montando uma proposta para o **FINEP Mais Inovação — Economia Circular, Linha 4: Moradia Sustentável**, prazo 31 de agosto. O valor é de R$ 5 a 10 milhões. O projeto é basicamente industrializar a construção civil com redução de impacto ambiental, e o **PU Vegetal da Imperveg é peça-chave** na nossa linha de P&D.
+
+---
 
 ## O Projeto em Resumo
 
 | Característica | Detalhe |
 |----------------|---------|
-| **Valor** | R$ 5.000.000,00 |
-| **Proponente** | Michel / Texos (tecnologia painéis) |
-| **ICT parceiro** | Em prospecção (UFSCar, UNICAMP/NIPE, IPT) |
-| **Equipe** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação), Fabio Takwara (curadoria/redação) |
+| **Valor** | R$ 5.000.000,00 a R$ 10.000.000,00 |
+| **Proponente** | Michel / Texos (tecnologia painéis estruturais, patente CDHU/Caixa) |
+| **ICT parceira** | Em prospecção — USP EESC, UFSCar, UNICAMP, IPT |
+| **Equipe** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação), Fabio Takwara (curadoria) |
 
-## Aplicações da Imperveg no Projeto
+---
 
-| Produto | Aplicação | Benefício |
-|---------|-----------|-----------|
-| **UG 132 A** (impermeabilizante) | Impermeabilização de baldrames, lajes, painéis estruturais | Substitui mantas asfálticas — atóxico, certificado para água potável |
-| **MAMONEX RD70** (espuma expansiva) | Isolamento térmico, revestimentos, reforço estrutural | 50x mais leve que concreto, 200 MPa resistência |
-| **AGT 1315** (adesivo estrutural) | Compósitos, painéis, laminação | Aglomerante renovável para biocompósitos |
+## Onde a Imperveg entra
 
-## Forma de Participação
+| Aplicação | Produto | O que substitui |
+|-----------|---------|-----------------|
+| **Impermeabilização de baldrames, lajes e painéis** | UG 132 A | Mantas asfálticas — atóxico, certificado para água potável |
+| **Reforço interno de conexões estruturais de bambu** | MAMONEX RD70 (espuma expansiva) | Fixação de cabos de aço dentro dos colmos — 50x mais leve que concreto |
+| **Compósitos e painéis com resíduos** | AGT 1315 (adesivo estrutural) | Resinas sintéticas petroquímicas — aglomerante renovável |
+| **Revestimento protetor das conexões** | UG 132 A | Impermeabilização externa sobre o conjunto cabo-arruela-bambu |
 
-Considerando as regras do FINEP (**proponente não pode ser fornecedor contratado pelo projeto**), a Imperveg atuaria como **parceiro fornecedor de material**, não como empresa proponente.
+---
 
-Solicito sua apreciação para formalizar a parceria nos seguintes moldes:
+## O que estou pedindo
 
-- **Fornecimento de material** para testes, prototipagem e validação — integralmente ou com desconto, **da forma que achar melhor**
-- **Suporte técnico** da engenharia da Imperveg para aplicação dos produtos
-- **Compartilhamento de dados técnicos** e fichas de segurança para fundamentação científica da proposta
+Uma parceria para prototipagem, com:
 
-Sei da sua mudança para Portugal e da nova fábrica aí, mas sua parceria e o portfólio da Imperveg continuam sendo fundamentais para o que estamos construindo aqui. O PU Vegetal de mamona é a espinha dorsal da nossa proposta de substituição de materiais petroquímicos na construção.
+1. **Fornecimento de produto** — UG 132 A, MAMONEX RD70 e AGT 1315 para os testes e protótipos, da forma que for melhor para vocês (integral, com desconto, amostras)
+2. **Assessoria técnica** — suporte da engenharia da Imperveg para orientar a aplicação correta nos compósitos e estruturas
+3. **Dados técnicos** — fichas de segurança, relatórios de ensaio, o que tiver para fundamentar a proposta
 
-Fico à disposição para conversarmos em mais detalhes. Assim que tiver sua manifestação, incorporo na proposta final.
+Sei que você está longe, mas o portfólio da Imperveg é o coração da nossa substituição de materiais petroquímicos na construção. Sem o PU de mamona, a proposta perde muito da força.
+
+---
+
+## Próximo passo
+
+Se você topar, eu já vou preparando os documentos formais para incluir a Imperveg como parceira fornecedora no projeto. O prazo é apertado, agosto chega logo.
+
+Depois te conto os detalhes do que andamos aprontando por aqui — tem estufa geodésica com bambu, painéis com resíduos, e um centro de excelência em Holambra que vou te apresentar quando vier ao Brasil.
 
 Um abraço,
 
 **Fabio Takwara**
 Tecnologia Takwara
-[contato]
+fabiotakwara@gmail.com
