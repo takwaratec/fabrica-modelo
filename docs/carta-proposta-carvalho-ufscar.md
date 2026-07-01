@@ -1,9 +1,9 @@
-# Carta Proposta — Convite à Parceria com Prof. Dr. Antônio J. F. Carvalho (UFSCar)
+# Carta Convite — Proposta de Parceria — Prof. A. J. F. Carvalho (UFSCar)
 
 > **Documento do Grupo Executor Fábrica Modelo**
-> **Finalidade:** Convite para integração ao projeto FINEP Mais Inovação — compósitos com PU Vegetal e resíduos
+> **Finalidade:** Convite a ICT parceira para projeto FINEP Mais Inovação
 > **Data:** Julho/2026
-> **De:** André Blanco — em nome do Grupo Executor Fábrica Modelo
+> **De:** André Blanco (IFSP) — em nome do Grupo Executor Fábrica Modelo
 > **Para:** Prof. Dr. Antônio José Felix de Carvalho — DEMA / UFSCar São Carlos
 > **E-mail:** antoniocarvalho@ufscar.br
 
@@ -11,9 +11,33 @@
 
 Prezado Professor Carvalho,
 
-Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, professor do **IFSP** (Instituto Federal de São Paulo). Estou escrevendo a pedido de parceiros do **Grupo Executor Fábrica Modelo** para convidá-lo a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, prazo **31 de agosto de 2026**.
+Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, professor do **IFSP** (Instituto Federal de São Paulo). Em nome do **Grupo Executor Fábrica Modelo**, venho convidá-lo a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo em **31 de agosto de 2026**.
 
-Sua atuação no **DEMA/UFSCar** em biopolímeros, poliuretanos e compósitos poliméricos com fibras vegetais é referência direta para as linhas de P&D que estamos propondo. A UFSCar foi indicada por parceiros do grupo como ICT ideal por conjugar sua expertise em materiais com uma visão integrada de construção sustentável.
+### Por que o senhor?
+
+O **DEMA/UFSCar** foi indicado por parceiros do grupo como a ICT com a **infraestrutura laboratorial mais completa do interior paulista** para o que precisamos: caracterizar a interface entre o PU Vegetal (Imperveg) e cargas de resíduos — agrícolas, plásticos, minerais — para produção de compósitos de construção civil. Sua atuação com biopolímeros e poliuretanos, somada à capacidade do DEMA em ensaios térmicos e mecânicos, é exatamente o perfil de ICT que o projeto demanda para validar tecnologicamente a linha de P&D em materiais renováveis.
+
+---
+
+## Temas do Projeto
+
+### 🏠 Habitação de Interesse Social (HIS)
+Industrialização de sistemas construtivos para reduzir custo e prazo da moradia popular, mantendo qualidade e durabilidade. Alinhamento com o Programa Minha Casa, Minha Vida e com o déficit habitacional de 6 milhões de moradias.
+
+### 🌪️ Estruturas Leves para Desastres Naturais
+Sistemas construtivos modulares, leves e de rápida montagem para resposta a enchentes, deslizamentos e outros eventos extremos — cada vez mais frequentes no Brasil. Soluções transportáveis, de baixo impacto logístico e alta resiliência.
+
+### 🌱 Redução da Pegada de Carbono na Construção Civil
+A construção civil responde por ~8% das emissões globais de CO₂. O projeto propõe substituir materiais de alto carbono (concreto, aço) por alternativas renováveis: bambu tratado, PU Vegetal de mamona, biocompósitos com resíduos agrícolas e plásticos.
+
+### 🎋 Alinhamento com a PNMCB (Lei 12.484/2011)
+**Política Nacional de Manejo Sustentado e Cultivo do Bambu** — o bambu é recurso estratégico para construção civil de baixo carbono, com potencial de substituir madeira nativa e aço em diversas aplicações. O projeto integra bambu tratado ecologicamente (vapor alcalino + extrato pirolenhoso) como componente estrutural em painéis, fechamentos e geodésicas, em consonância com os objetivos da PNMCB e seu decreto regulamentador (8.375/2014).
+
+### ♻️ Alinhamento com a PNRS (Lei 12.305/2010)
+**Política Nacional de Resíduos Sólidos** — a incorporação de resíduos agrícolas (cana, milho, bambu), plásticos pós-consumo e rejeitos minerais como matéria-prima para painéis e compósitos atende diretamente aos princípios da PNRS: não geração, redução, reutilização, reciclagem e destinação ambientalmente adequada. O projeto também prevê **Parcerias Sociais** com cooperativas de catadores (Anexo 6 do edital FINEP), gerando renda e inclusão social.
+
+### 🤝 Tecnologias Sociais para Comunidades Vulneráveis
+Tecnologias de baixo custo, replicáveis e de fácil assimilação por comunidades tradicionais, agricultores familiares, povos indígenas e quilombolas. Sistemas construtivos que não dependem de cadeias industriais complexas e podem ser produzidos localmente, em consonância com a Estratégia Nacional de Bioeconomia (Decreto 12.044/2024).
 
 ---
 
@@ -22,65 +46,41 @@ Sua atuação no **DEMA/UFSCar** em biopolímeros, poliuretanos e compósitos po
 | Característica | Detalhe |
 |----------------|---------|
 | **Valor** | R$ 5.000.000,00 a R$ 10.000.000,00 |
-| **Proponente** | Michel / Texos (tecnologia painéis estruturais, patente CDHU/Caixa) |
-| **ICT parceira** | Em definição — UFSCar é nossa primeira opção para o eixo de compósitos |
-| **Equipe** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação), Fabio Takwara (curadoria) |
-
----
-
-## Frentes de Integração com sua Pesquisa
-
-### 1. Compósitos com PU Vegetal e Cargas de Resíduos
-
-O projeto propõe P&D em compósitos poliméricos utilizando **PU Vegetal de mamona (Imperveg)** como matriz e diferentes cargas:
-
-- **Resíduos agrícolas** (cana, milho, bambu) como fibras de reforço
-- **Resíduos plásticos** pós-consumo como agregados leves
-- **Resíduos minerais** (quartzito, pó de rocha) como carga de alta resistência
-- **Bambu tratado** como elemento estrutural em painéis sanduíche
-
-### 2. Caracterização Laboratorial
-
-O DEMA/UFSCar possui infraestrutura de ponta (injetoras, prensas, ensaios térmicos e mecânicos) para:
-
-- Caracterização da interface PU Vegetal/resíduo
-- Ensaios de tração, compressão e flexão dos compósitos
-- Análise térmica (DSC, TGA) e de durabilidade
-- Otimização de formulações matriz/carga
-
-### 3. Sinergia Regional
-
-O projeto já prospecta **USP EESC** (Prof. Rocco Lahr — painéis com PU mamona) e **UNICAMP/NIPE** (Prof. Bliska Jr. — estufas geodésicas). Sua adesão completaria o **triângulo tecnológico USP–UFSCar–UNICAMP**, criando um polo de inovação em materiais renováveis para construção no eixo São Carlos–Campinas–Holambra.
+| **Proponente** | Indústria de painéis estruturais (patente CDHU/Caixa) |
+| **ICTs parceiras** | Em formação — UFSCar é nossa primeira opção para caracterização de compósitos |
+| **Equipe base** | André Blanco (coord. técnica, IFSP), Maurilio Chiaretti (FNA), Fabio Takwara (curadoria) |
 
 ---
 
 ## Materiais Complementares
 
-1. **Ficha técnica do PU Vegetal Imperveg** — [UG132A](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) · [MAMONEX RD70](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md)
-2. **Perfil dos pesquisadores no Acervo Científico** — [Carvalho (UFSCar)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-antonio-carvalho-ufscar.md) · [Rocco Lahr (USP)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-rocco-lahr-usp.md)
-3. **Proposal Teaser** — [visão geral, orçamento, cronograma](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/proposal-teaser.md)
-4. **Formulário Espelho FINEP** — [requisitos detalhados](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/formulario-espelho-finep.md)
-5. **Pesquisa ICTs** — [mapeamento completo](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md)
+1. **Proposal Teaser** — [visão geral, orçamento, cronograma](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/proposal-teaser.md)
+2. **Formulário Espelho FINEP** — [requisitos detalhados](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/formulario-espelho-finep.md)
+3. **Critérios de avaliação do edital** — [tabela completa no README](https://github.com/takwaratec/fabrica-modelo/blob/main/README.md)
+4. **Acervo Científico do projeto** — [fichas, perfis, referências](https://github.com/takwaratec/Analises-e-escrita-cientifica)
 
 ---
 
 ## Forma de Participação
 
-A UFSCar atuaria como **ICT parceira** do projeto:
+A ICT atuaria como parceira do projeto, com possibilidades de:
 
-- **Pesquisador principal** da linha de P&D em compósitos poliméricos com PU vegetal
-- **Orientação técnica** de bolsistas vinculados ao projeto
-- **Cessão de infraestrutura laboratorial** do DEMA
-- **Coorientação** de alunos de pós-graduação
+- **Pesquisador colaborador** no escopo de P&D
+- **Orientação técnica** nas linhas de interesse da instituição
+- **Cessão de infraestrutura laboratorial** para ensaios e caracterização
+- **Coorientação** de alunos de pós-graduação vinculados ao projeto
+- **Conexão institucional** como ICT formal do projeto (obrigatório no edital)
+
+Estamos abertos a discutir o formato mais adequado para o senhor e sua equipe.
 
 ---
 
 ## Próximos Passos
 
 1. **Apreciação da proposta** pelo Prof. Carvalho
-2. **Reunião técnica** para detalhamento das frentes
-3. **Definição do escopo** e contrapartida da UFSCar
-4. **Formalização** para inclusão na proposta FINEP
+2. **Reunião técnica** para alinhamento das frentes de interesse
+3. **Definição do escopo de participação** e contrapartida
+4. **Formalização** para inclusão na proposta FINEP (prazo: 31/08)
 
 ---
 
@@ -89,11 +89,11 @@ A UFSCar atuaria como **ICT parceira** do projeto:
 | Repositório | Conteúdo | Link |
 |-------------|----------|------|
 | **fabrica-modelo** | Documentos do projeto | [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) |
-| **Analises-e-escrita-cientifica** | Acervo científico | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+| **Analises-e-escrita-cientifica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
 
 ---
 
-Estamos à disposição para aprofundar qualquer um dos pontos e para agendar uma conversa no momento mais conveniente.
+Estamos à disposição para aprofundar qualquer um dos pontos e agendar uma conversa no momento mais conveniente.
 
 Atenciosamente,
 
