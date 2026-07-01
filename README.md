@@ -107,9 +107,15 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |-----------|-------------|--------|-------------|-----------------|
+| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
 | **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
 | **Prof. Dr. Francisco Rocco Lahr** | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
 | **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Prof. Dr. Marcondes L. Costa** | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Prof. Dr. Guilherme O. Silva** | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Prof. Dr. Humberto C. Furtado** | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Prof. Dr. Alan P. Oliveira** | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | Em prospecção | — | — |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | Em prospecção | — | — |
 | **Joaquim Sando** | MST | Contato inicial | Marcos Paron | Pendente |
@@ -135,21 +141,31 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis completos no Acervo Científico.
 
-### Prioridade Máxima
+### ICTs SP/MG — Prioridade Máxima (pesquisa original)
 
 | ICT | Nota | Pesquisador-chave | Linha de Pesquisa | Contato |
 |-----|------|-------------------|-------------------|---------|
-| **USP EESC** (São Carlos) | ⭐5 | **Francisco Rocco Lahr** | PU de mamona, painéis OSB, aglomerados com resíduos | ❌ A contatar |
-| **USP FZEA** (Pirassununga) | ⭐5 | **Juliano Fiorelli** · **Holmer Savastano** | Bambu + resina PU, painéis sustentáveis, fibrocimentos | ❌ A contatar |
-| **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Biopolímeros, PU, compósitos com fibras vegetais | ❌ A contatar |
-| **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Plasticultura, estufas, ambientes protegidos | ✅ Contato direto |
-| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal (histórico de parceria) | ✅ Contato (Nascente) |
-| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | ✅ Contato direto |
-| **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Painéis aglomerados + resinas PU mamona | ❌ A contatar |
-| **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Resíduos sólidos em materiais de construção | ❌ A contatar |
+| **USP EESC** (São Carlos) | ⭐5 | **Francisco Rocco Lahr** | PU de mamona, painéis OSB, aglomerados | Carta enviada |
+| **USP FZEA** (Pirassununga) | ⭐5 | **Juliano Fiorelli** · **Holmer Savastano** | Bambu+PU, painéis sustentáveis | Em prospecção |
+| **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Biopolímeros, PU, compósitos | Carta enviada |
+| **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Plasticultura, estufas | Carta enviada |
+| **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal | ✅ Contato |
+| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | ✅ Contato |
+| **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Painéis aglomerados + resinas PU | Em prospecção |
+| **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Resíduos sólidos em materiais | Em prospecção |
 
-📄 Pesquisa completa: [`docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md)
-📄 Perfis dos pesquisadores: [Acervo Científico — 08_perfis-referencias](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/08_perfis-referencias)
+### ICTs Multiplicadoras (AC, BA, RJ, SC, GO) — Nova Triagem
+
+| Estado | ICT | Pesquisador | Área Bambu | Iniciativa Social | Nota | Status |
+|--------|-----|-------------|:----------:|:-----------------:|:----:|--------|
+| **AC** 🟢 | **UFAC** | Marcondes L. Costa | ✅ | ✅ | ⭐5 | Carta enviada |
+| **GO** 🟡 | **IF Goiano** | Alan P. Oliveira | ✅ | ✅ | ⭐5 | Carta enviada |
+| **RJ** 🔵 | **UFRJ / COPPE** | Romildo Toledo Filho | ✅ | ✅ | ⭐5 | Carta enviada |
+| **BA** 🟠 | **UFBA** | Guilherme O. Silva | ⚠️ | ✅ | ⭐4 | Carta enviada |
+| **SC** 🟣 | **UFSC** | Humberto C. Furtado | ✅ | ⚠️ | ⭐4 | Carta enviada |
+
+📄 Pesquisa completa: [`docs/pesquisas/pesquisas-ict/Pesquisa prompt-icts-multiplicadoras.md`](docs/pesquisas/pesquisas-ict/Pesquisa%20prompt-icts-multiplicadoras.md)
+📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
 
 ---
 
