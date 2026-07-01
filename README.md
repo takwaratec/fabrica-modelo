@@ -68,7 +68,7 @@ A contrapartida é **exclusivamente financeira** (não imaterial). O valor míni
 **Cenários possíveis:**
 - 1 empresa de médio porte (R$ 500K) + 1 micro (R$ 250K) = R$ 750K → **viabiliza projeto de R$ 7,5M**
 - 3 microempresas (R$ 250K cada) = R$ 750K → **viabiliza projeto de R$ 7,5M**
-- 1 empresa de grande porte → contrapartida única suficiente para R$ 10M
+| 1 empresa de grande porte → contrapartida única suficiente para R$ 10M
 
 #### 2. ICT parceira (obrigatória)
 
@@ -77,6 +77,49 @@ ICTs em prospecção com perfis mapeados (vide seção abaixo).
 #### 3. Parcerias Sociais (pontuação extra)
 
 Cooperativas de catadores, associações de pequenos produtores, agricultores familiares — pontuam no critério **Parcerias Sociais** (nota 0-1, peso 1). Alinhamento com PNRS (Lei 12.305/2010) e Decreto 12.044/2024 (Bioeconomia).
+
+---
+
+## 👥 ECOSALA — Membros Ativos e Convidados
+
+O **ECOSALA** reúne pesquisadores, educadores e técnicos com atuação em agroecologia, bambu, bioenergia, avaliação de impacto e educação do campo. A articulação com o projeto Fábrica Modelo ocorre por meio de parcerias institucionais (IFSP, Embrapa, IFB, UnB) e convites individuais.
+
+### ✅ Membros Ativos
+
+Relação de pesquisadores com vínculo confirmado:
+
+| Membro | Instituição | Lattes | E-mail | Frente no Projeto |
+|--------|-------------|--------|--------|-------------------|
+| **Prof. Dr. Marcos Paron** | IFSP | [Lattes](http://lattes.cnpq.br/3067784348624135) | marcos.paron@ifsp.edu.br | Coord. ECOSALA, biochar, compostagem |
+| **Profa. Dra. Daniela Maciel** | Embrapa | [Lattes](http://lattes.cnpq.br/9196370833242212) | daniela.maciel@embrapa.br | Métricas de impacto social |
+| **Dra. Gisele Vilela** | Embrapa | [Lattes](http://lattes.cnpq.br/0761168128224536) | gisele.vilela@embrapa.br | Remineralizadores, biocompósitos |
+| **Prof. Dr. Vicente Virgolino** | IFB | [Lattes](http://lattes.cnpq.br/2485590209425263) | vicente.virgolino@ifb.edu.br | Forno ecológico, tratamento bambu |
+| **André Blanco** (Me.) | IFSP / TEIA | — | — | Coord. técnica, articulação ICT |
+| **Maurilio Chiaretti** | FNA / Sind. Arq. | — | — | Articulação política, HIS |
+| **Michel (Texos)** | Texos Indústria | — | — | Proponente candidato, painéis |
+| **Fabio Takwara** | Ecolaborativa | — | fabiotakwara@gmail.com | Assessoria técnico-científica |
+
+📄 Perfis completos no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
+
+### ⏳ Convidados (Aguardando Confirmação)
+
+Pesquisadores e parceiros em prospecção — carta enviada ou contato pendente:
+
+| Convidado | Instituição | Status | Contato |
+|-----------|-------------|--------|---------|
+| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP | 📬 Carta enviada | bliskajr@unicamp.br |
+| **Prof. Dr. Rocco Lahr** | USP EESC | 📬 Carta enviada | aguardando |
+| **Prof. Dr. A.J.F. Carvalho** | UFSCar | 📬 Carta enviada | aguardando |
+| **Prof. Dr. Lourival Mendes** | UFLA | 📨 A contactar | aguardando |
+| **Prof. Dr. Juliano Fiorelli** | USP FZEA | 📨 A contactar | aguardando |
+| **Joaquim Sando** | MST | 🔄 Contato inicial | dados pendentes |
+| **Murilo Miguel** | Terra Viva | 🔄 Contato inicial | dados pendentes |
+| **Raphaela Palma** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
+| **Luci Okino** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
+| **Henrique Bueno** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
+| **Luis Felipe** | ECOSALA | 🔄 Dados pendentes | aguardando CPF/LinkedIn |
+
+**Legenda:** ✅ Confirmado · 📬 Carta enviada · 📨 A contactar · 🔄 Pendente
 
 ---
 
