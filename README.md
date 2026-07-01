@@ -109,14 +109,14 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 |-----------|-------------|--------|-------------|-----------------|
 | **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | **Dra. Ludmila A. Correia** | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-bliska.md) |
-| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | A definir (André?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| **Prof. Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | A definir (Tânia?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | A definir | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | A definir (Vicente?) | [Pendente — definir emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Prof. Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
@@ -136,6 +136,48 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | ⏳ Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
 
 **Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
+
+---
+
+### 🌱 Dinâmica do Ecossistema — Como Participar da Prospecção
+
+Este repositório é aberto. Qualquer visitante — parceiro, pesquisador, membro do ECOSALA ou interessado — pode contribuir com a prospecção de novas parcerias. A dinâmica é simples:
+
+#### 1. Indicar um novo contato
+
+Se você conhece um pesquisador, ICT ou profissional que se encaixa no perfil, **abra uma issue** ou **envie um e-mail** para fabiotakwara@gmail.com com:
+- Nome completo e instituição do indicado
+- Área de atuação e linha de pesquisa
+- Grau de sinergia com o projeto (bambu, PU vegetal, ATHIS, habitação social, bioeconomia)
+- Seu nome (quem indica) — você pode se voluntariar como emissário
+
+Nós redigimos a carta-convite personalizada e a disponibilizamos na tabela acima com seu nome como "Enviado por".
+
+#### 2. Redigir uma carta-convite
+
+Se você tem familiaridade com a pesquisa de alguém e quer escrever a carta você mesmo:
+- Use o modelo das cartas já criadas em `docs/cartas-convite/` como referência
+- Siga o formato Tipo A (específica, com "Por que você?" personalizado)
+- Envie o .md para revisão — o Grupo Executor valida e publica
+
+#### 3. Enviar o convite (ser emissário)
+
+Cada carta pronta na tabela tem um "Enviado por" designado — mas isso pode mudar. Se você tem relação acadêmica ou pessoal com um prospecto e quer ser o emissário:
+
+| Seu perfil | Pode ser emissário para |
+|------------|------------------------|
+| **Pesquisador IFSP ou rede SP** | Bliska (UNICAMP), Rocco Lahr (USP), Carvalho (UFSCar), Romildo (UFRJ) |
+| **Pesquisador UnB / rede social** | Marcondes (UFAC), Guilherme (UFBA) |
+| **Pesquisador IF / bambu** | Humberto (UFSC), Alan (IF Goiano) |
+| **Embrapa** | Gisele Vilela pode articular convites para a rede Embrapa |
+
+Basta se manifestar — atualizamos a coluna "Enviado por" com seu nome e você recebe o link da carta para disparar.
+
+#### 4. Novas frentes de prospecção
+
+O Grupo Executor também aceita sugestões de **novos estados/regiões** ou **novas linhas de pesquisa** que não estão cobertas. Basta abrir uma issue com a justificativa e os dados mínimos do prospecto.
+
+> 💡 **Transparência total:** Todo o fluxo — de quem indicou, quem redigiu, quem enviou e a resposta — fica registrado na tabela de Prospecção em Andamento. Não há processo oculto.
 
 ---
 

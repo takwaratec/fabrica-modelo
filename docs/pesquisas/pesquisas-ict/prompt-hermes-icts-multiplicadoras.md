@@ -28,14 +28,14 @@ A tabela abaixo reflete o estado real de cada prospecção. Atualizar no README.
 |-----------|-------------|--------|-------------|-----------------|
 | **Profa. Dra. Tânia C. S. Cruz** | UnB / FUP / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | **Dra. Ludmila A. Correia** | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| **Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-bliska.md) |
-| **Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| **Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| **Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| **Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| **Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| **Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| **Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | **Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta |
 | **Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
