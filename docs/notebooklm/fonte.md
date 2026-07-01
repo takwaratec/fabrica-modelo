@@ -1,300 +1,123 @@
-# Fonte para NotebookLM — Projeto Fábrica Modelo
+# Projeto Fábrica Modelo — Fonte para NotebookLM
 ## Apresentação para Techsus e Faleiros
 
-> Instrução: Este documento contém todo o conteúdo do projeto Fábrica Modelo para apresentação às empresas Techsus e Faleiros. Pode ser compartilhado como documento textual completo ou usado como fonte para geração de vídeo de apresentação via NotebookLM. O tom é profissional e direto.
+> Fonte principal para geração de vídeo de apresentação no NotebookLM. O áudio deve ser gerado em português brasileiro (PT-BR). O sistema Techsus é a tecnologia central do projeto; as linhas de P&D são aprimoramentos para descarbonização e expansão de mercado. Tom profissional e direto.
 
 ---
 
 ## 1. O EDITAL FINEP MAIS INOVAÇÃO
 
-### Linha
-Economia Circular — Linha 4: Moradia Sustentável
+**Linha:** Economia Circular — Linha 4: Moradia Sustentável
+**Valor:** R$ 5.000.000,00 a R$ 10.000.000,00
+**Execução:** 36 meses
+**Prazo:** 31 de agosto de 2026
 
-### Valores
-- Mínimo: R$ 5.000.000,00 (cinco milhões de reais)
-- Máximo: R$ 10.000.000,00 (dez milhões de reais)
-- Prazo de execução: 36 meses
+⚠️ **Risco:** Edital por ordem de chegada — recursos podem ser consumidos por propostas antecipadas. Quanto antes, melhores as chances.
 
 ### Contrapartida
-A contrapartida é financeira (dinheiro em conta, não pode ser material, serviço ou hora técnica).
+Financeira (dinheiro em conta). Mínimo de 5% (R$ 250K para R$ 5M).
 
-| Faturamento da Empresa | % Contrapartida | Valor p/ R$5M |
-|------------------------|:--------------:|:-------------:|
-| Até R$ 4,8M/ano | 5% | R$ 250.000 |
-| De R$ 4,8M a R$ 10M | 10% | R$ 500.000 |
-| Acima de R$ 10M | Progressivo até 50% | Variável |
-
-### Critérios de Pontuação
-
-| Critério | Peso | Como o projeto pontua |
-|----------|:----:|-----------------------|
-| Mérito Técnico | Alto | Patente Techsus + 6 linhas de P&D em materiais |
-| Externalidades Sociais | Médio-Alto | HIS, déficit 6M, abrigos catástrofe, comunidades |
-| Economia Circular / Resíduos | Médio | Resíduos agrícolas, plásticos, PNRS |
-| Capacidade Financeira | Médio | Contrapartida Faleiros + Techsus |
-| Regionalização | Médio | 5 regiões: SP, DF, BA, AC, SC |
-
-### Prazo
-Submissão até **31 de agosto de 2026**.
+### Pontuação
+- Mérito Técnico: Alto — sistema Techsus patenteado + P&D
+- Externalidades Sociais: Médio-Alto — HIS, movimentos de moradia
+- Economia Circular: Médio — agregados alternativos, resíduos
+- Capacidade Financeira: Médio — contrapartida Faleiros + Techsus
+- Regionalização: Médio — 5 regiões (SP, DF, BA, AC, SC)
 
 ---
 
 ## 2. O PROBLEMA
 
-### Déficit Habitacional
-- O Brasil tem **6 milhões de moradias** em déficit (Fundação João Pinheiro)
-- **40 milhões de pessoas** em situação de precariedade habitacional (esgoto, água, energia)
-- A construção civil responde por **8% das emissões globais de CO₂**
-
-### Gargalos da Cadeia do Bambu
-- O bambu brasileiro nunca conseguiu escala industrial
-- Falta de suprimento regular de matéria-prima tratada com qualidade
-- Dependência química: CCA, CCB, boratos, arsênio — todos tóxicos
-- TRL laboratorial (3-4) sem certificação para escala
-
-### Oportunidade
-- Norma ABNT para bambu já existe (NBR 16828)
-- Protocolo de tratamento ecológico já desenvolvido e testado (15 anos)
-- Cadeia de suprimentos mapeada: cooperativas + CEAFLOR + HUB
-- Edital FINEP aberto com R$5-10M por projeto
+- Déficit habitacional de 6 milhões de moradias (Fundação João Pinheiro)
+- 40 milhões em precariedade (esgoto, água, energia)
+- Construção civil = 8% das emissões globais de CO₂
+- Mão de obra envelhecendo (média 59 anos)
 
 ---
 
 ## 3. A SOLUÇÃO — PROJETO FÁBRICA MODELO
 
-### O que é
-Projeto de P&D para industrialização da construção civil com redução de impacto ambiental, a ser submetido ao FINEP Mais Inovação.
+### Tecnologia Central: Sistema Techsus
+Sistema de painéis estruturais para parede e laje:
+- Paredes de 4cm com nervuras grauteadas + estrutura metálica
+- Mínimo de concreto e aço versus construção tradicional
+- Patente depositada, em creditação na Caixa e CDHU
+- Casa protótipo construída — TRL 7-8
+- Proposta vencedora CDHU Offsite 001/2024 (parceria Faleiros)
 
-### Quem faz parte (Grupo Executor)
-- **André Blanco** — arquiteto, professor IFSP, comissão ABNT 6263 (sustentabilidade), diretor TEIA
-- **Maurilio Chiaretti** — vice-presidente FNA (Federação Nacional dos Arquitetos), articulação movimentos de moradia
-- **Fabio Takwara** — assessoria técnico-científica, 15 anos PU Vegetal + bambu, curadoria do Acervo Científico (~400 fichas)
+### O que o FINEP agrega
+- Testes de descarbonização (concreto verde)
+- Materiais complementares não-estruturais
+- Certificação ambiental (LEED, AQUA, Casa Azul)
+- Novas patentes e artigos científicos
 
-### Empresas parceiras (aporte)
-- **Techsus** — industrialização de paredes e lajes, patente depositada, CDHU/Caixa
-- **Faleiros Construtora** — 30+ anos, habitação social, parceira CDHU
+### Equipe
+- André Blanco — coord. técnica, IFSP, ABNT 6263
+- Maurilio Chiaretti — articulação política, FNA
+- Fabio Takwara — assessoria técnico-científica
 
-### ICTs parceiras (5 regiões)
-| Região | Parceiro | Frente |
-|--------|----------|--------|
-| Sudeste (SP) | IPT (certificação), UNICAMP/NIPE (geodésicas), IFSP (coord.), UFSCar (concreto verde) | Sede, certificação, geodésicas |
-| Centro-Oeste (DF) | UnB/LaPCiS (governança), IFB (tratamento bambu), Embrapa (remineralizadores) | Bambu, prova social |
-| Nordeste (BA) | UFBA (resíduos agrícolas) | Biopolímeros |
-| Norte (AC) | UFAC (bioeconomia amazônica) | Bambu nativo |
-| Sul (SC) | UFSC (certificação ambiental) | ACV |
-
----
-
-## 4. O SISTEMA CONSTRUTIVO BASE — TECHSUS
-
-### Descrição
-Sistema de painéis estruturais para **parede e laje**:
-- Paredes de 4cm com nervuras grauteadas
-- Estrutura metálica embutida
-- Mínimo de concreto e aço comparado à construção tradicional
-- Industrialização offsite (produção em fábrica, montagem rápida)
-
-### Status
-- **Patente depositada**
-- Em **creditação na Caixa Econômica Federal e CDHU**
-- Proposta vencedora do **Chamamento CDHU Offsite 001/2024** (parceria com Faleiros)
-- Casa protótipo construída
-- TRL 7-8
-
-### Por que é a base do projeto
-- Já está validado, patenteado, em creditação
-- Reduz drasticamente concreto e aço vs. construção tradicional
-- É a plataforma industrial que permite escala
-- As linhas de P&D em materiais sustentáveis **agregam valor** a este sistema
+### Empresas Parceiras
+- Techsus — sistema de painéis (proponente)
+- Faleiros Construtora — 30+ anos, HIS, CDHU (co-proponente)
 
 ---
 
-## 5. LINHAS DE P&D — INOVAÇÃO EM MATERIAIS SUSTENTÁVEIS
+## 4. P&D — APRIMORAMENTOS
 
-### 5.1 Concreto Verde
-- Pozolana sem queima, escória de mineração, pó de rocha
-- Agregado para os painéis Techsus com pegada reduzida de CO₂
-- Parceiros: UFSCar, Fumep, Gisele/Embrapa (remineralizadores)
+### Concreto Verde (descarbonização direta)
+Pozolana sem queima, escória, pó de rocha — reduz pegada de CO₂ dos painéis Techsus.
 
-### 5.2 Bambu Tratado Ecológico
-- **Processo em 3 etapas:**
-  1. **Alcalinização** — remove hemicelulose e amidos, abre poros do colmo
-  2. **Impregnação com pirolenhoso** — destilado da pirólise, fungicida/bactericida natural
-  3. **Impermeabilização com PU Vegetal UG 132A** — revestimento bicomponente de mamona, 100% sólido, atóxico
-- Substitui CCA, CCB, boratos, arsênio
-- Carbono negativo em toda a cadeia
-- Parceiros: Imperveg (15+ anos), IFB (Vicente Virgolino)
+### Bambu para Componentes Não-Estruturais
+Alternativa para fechamentos, divisórias, revestimentos e esquadrias. Tratamento ecológico em 3 etapas: alcalinização + pirolenhoso + PU Vegetal. Não substitui o sistema estrutural.
 
-### 5.3 PU Vegetal (Mamona)
-- **UG 132A** — impermeabilizante, atóxico, certificado para água potável
-- **MAMONEX RD70** — espuma expansiva vegetal para fixação e isolamento
-- Aplicação: impermeabilização de baldrames, conexões geodésicas, vedação, isolamento térmico
-- Parceiro: Imperveg (Aguaí-SP)
+### PU Vegetal (Mamona)
+Impermeabilizante UG 132A (atóxico) + espuma MAMONEX RD70. Aplicação no sistema Techsus.
 
-### 5.4 Compósitos com Resíduos
-- Palha de cana-de-açúcar, palha de milho, plásticos pós-consumo
-- Integração com Política Nacional de Resíduos Sólidos (PNRS)
-- Contato a prospectar: Sérgio Prado (referência em PNRS)
+### Agregados com Resíduos
+Palha de cana/milho, plásticos pós-consumo como agregados alternativos.
 
-### 5.5 Geodésicas de Bambu
-- Estufas geodésicas para agricultura protegida (Holambra)
-- Abrigos emergenciais para catástrofes (edital Sul)
-- Unidades HIS
-- Parceiro: UNICAMP/NIPE (Prof. Bliska Jr.)
+### Sistemas Complementares
+Coberturas geodésicas, painéis leves, divisórias. Complementam o Techsus (parede + laje).
 
-### 5.6 Painéis Híbridos Leves
-- Fechamentos, divisórias, coberturas com materiais renováveis
-- Expande o portfólio da Fábrica
-- Sistema complementar ao Techsus (que é parede + laje)
+### Acabamentos e Esquadrias
+Revestimentos decorativos, portas, janelas — valor de mercado ao conjunto.
 
 ---
 
-## 6. CADEIA DE SUPRIMENTOS DE BAMBU
+## 5. CERTIFICAÇÕES — METAS
 
-### O Gargalo Histórico
-O bambu brasileiro nunca conseguiu escala industrial porque não há oferta regular de matéria-prima tratada com qualidade. Sem isso, nenhuma construtora ou agroindústria consegue escalar.
-
-### Como Resolvemos
-1. **Cooperativas de manejo** de bambuzais — extração seletiva, manejo sustentável, colheita programada
-2. **CEAFLOR** como distribuidor de bambu tratado — maior distribuidor de insumos para floricultura da região
-3. **HUB de distribuição** — central de beneficiamento e expedição, garantindo suprimento contínuo
-
-### Diferencial
-- **Carbono negativo:** bambu sequestra CO₂, pirolenhoso evita emissão de metano, PU vegetal é renovável
-- **Atóxico:** zero arsênio, zero CCA, zero CCB
-- **Normatizado:** NBR 16828, ISO 22157
+| Certificação | Meta |
+|-------------|:----:|
+| LEED (USGBC/GBC Brasil) | Gold (60+ pts) |
+| AQUA-HQE (Fundação Vanzolini) | Excelente |
+| Selo Casa Azul + Caixa | Ouro (39+) |
 
 ---
 
-## 7. ODS CONTEMPLADOS
+## 6. ARRANJO FINANCEIRO
 
-| ODS | Nº | Descrição |
-|-----|:--:|-----------|
-| Energia Limpa | 7 | Produção com insumos renováveis |
-| Indústria, Inovação e Infraestrutura | 9 | Industrialização da construção |
-| Redução das Desigualdades | 10 | HIS e moradia digna |
-| Cidades e Comunidades Sustentáveis | 11 | Construção sustentável |
-| Consumo e Produção Responsáveis | 12 | Economia circular, resíduos |
-| Ação Climática | 13 | Carbono negativo |
-| Vida Terrestre | 15 | Manejo sustentável de bambuzais |
-| Parcerias p/ os Objetivos | 17 | Rede multi-ICT, 5 regiões |
+- Techsus: ~R$ 150K
+- Faleiros: ~R$ 100K (complemento)
+- Núcleo de Inteligência: R$ 20-30K (formulação, pago com ou sem aprovação)
+- Total contrapartida: R$ 250K (mínimo 5%)
 
 ---
 
-## 8. CERTIFICAÇÕES — Metas por Escopo
+## 7. CRONOGRAMA
 
-O projeto tem como meta atingir níveis específicos nas principais certificações de construção sustentável:
-
-### LEED (USGBC / GBC Brasil)
-- **Escopo:** Edificações novas e retrofit — certificação internacional mais reconhecida
-- **Categorias:** Água (11 pts), Energia (33 pts), Materiais (13 pts), Qualidade Interna (16 pts), Inovação
-- **Níveis:** Certified (40-49) → Silver (50-59) → Gold (60-79) → Platinum (80+)
-- **Meta:** **Gold (60+ pts)** — pontuar via EPD de materiais, créditos de inovação por bambu + PU vegetal, e eficiência energética do sistema construtivo
-- 🔗 [Ficha LEED no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-leed.md)
-
-### AQUA-HQE (Fundação Vanzolini)
-- **Escopo:** Edificações em 4 fases (Programa → Concepção → Realização → Operação)
-- **14 temas** em 4 famílias: Eco-construção, Eco-gestão, Conforto, Saúde
-- **Níveis:** Base → Superior → Excelente (por tema)
-- **Meta:** **Excelente** nas famílias Eco-construção (materiais renováveis) e Conforto (desempenho térmico)
-- 🔗 [Ficha AQUA-HQE no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-aqua-hqe.md)
-
-### Selo Casa Azul + Caixa
-- **Escopo:** Habitação de Interesse Social (HIS) financiada pela Caixa
-- **53 critérios** em 7 categorias — destaque para **Inovação (8 critérios)** que permite pontuar com bioconstrução, bambu tratado e PU vegetal
-- **Níveis:** Bronze (19) → Prata (29) → Ouro (39) → Diamante (49)
-- **Meta:** **Ouro (39+)** — gratuita, focada em HIS, critério de inovação aberto. Ideal como primeira certificação
-- 🔗 [Ficha Casa Azul no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-casa-azul.md)
+- Julho/2026: fechamento do arranjo
+- 15/08/2026: versão completa da proposta
+- 31/08/2026: submissão FINEP
+- 2027: início do projeto (36 meses)
 
 ---
 
-## 9. BENEFÍCIOS ESPERADOS
+## ÊNFASES IMPORTANTES PARA O VÍDEO
 
-### 9.1 Redução da Pegada de Carbono
-- Substituição de insumos petroquímicos e químicos tóxicos
-- Bambu como sumidouro de CO₂
-- PU vegetal renovável
-- Pirolenhoso como subproduto da carbonização (evita metano)
-
-### Prototipagem de Modelo Construtivo
-- Protótipo em escala real na Fábrica Escola
-- Integração: painel Techsus + bambu tratado + PU Vegetal
-- Base para certificação IPT e licenciamento industrial
-
-### Artigos Científicos
-- Desempenho dos compósitos
-- Validação estrutural
-- Caracterização de materiais
-- Lastro científico para futuras patentes e editais
-
-### Patentes Agregadas
-- Cada linha de P&D gera ativo intelectual
-- Sistema de tratamento ecológico
-- Compósitos com resíduos
-- Conexões geodésicas
-- Painéis híbridos
-
-### 9.5 Prototipagem de Acabamentos e Esquadrias
-- **Revestimentos decorativos:** painéis de bambu resinado, texturas com PU vegetal
-- **Portas e janelas:** perfis de bambu laminado e biocompósitos
-- **Detalhes de impacto visual:** acabamento fino, identidade estética do empreendimento
-- Agrega **valor de mercado** ao conjunto habitacional para além da função estrutural
-
----
-
-## 10. ARRANJO FINANCEIRO
-
-### Contrapartida Atual
-- **Techsus/Michel:** ~R$ 150.000 disponíveis
-- **Faleiros:** complemento necessário para atingir o mínimo
-
-### O que precisamos
-- **R$ 20.000 a R$ 30.000** — pagamento pelo Núcleo de Inteligência (elaboração da proposta, prova social, pesquisa, textos, formatação, acompanhamento). Valor devido com ou sem aprovação no FINEP.
-- **~R$ 100.000 adicionais** — para completar a contrapartida mínima de R$ 250K (5%)
-- Acesso prioritário às inovações
-- Primeira fábrica licenciada
-- Novas patentes conjuntas
-- Posicionamento como empresa inovadora
-- Crédito de inovação
-
----
-
-## 11. CRONOGRAMA
-
-| Data | Marco |
-|------|-------|
-| Julho/2026 | Fechamento do arranjo + aporte + início elaboração |
-| Até 15/08/2026 | Versão completa da proposta |
-| **31/08/2026** | **Submissão FINEP** |
-| 2027 (previsto) | Início do projeto (36 meses) |
-
----
-
-## 12. PERGUNTAS FREQUENTES
-
-### "Por que R$ 5M e não R$ 10M?"
-R$ 5M exige contrapartida de R$ 250K (5%) — é o valor factível para o grupo. R$ 10M exigiria R$ 500K+. Começamos com R$ 5M e ampliamos em editais futuros.
-
-### "E se a FINEP não aprovar?"
-O trabalho de formulação já foi pago — o Núcleo de Inteligência é contratado independente do resultado. As articulações (ICTs, acervo, cartas) ficam como ativo para editais futuros.
-
-### "O que a Faleiros/Techsus ganha se não for aprovado?"
-- Acesso à rede de ICTs e ao Acervo Científico
-- Posicionamento institucional como empresa inovadora
-- Nada material — o investimento é de risco, como todo edital de inovação
-
-### "Bambu tem qualidade para construção?"
-- NBR 16828 (ABNT) para estruturas de bambu
-- ISO 22157 para propriedades físicas e mecânicas
-- IPT como parceiro de certificação
-- 15 anos de pesquisa em tratamento ecológico
-
-### "Por que não fazer só com o Michel/Techsus?"
-A contrapartida dele (R$150K) é insuficiente. A Faleiros como co-proponente completa a contrapartida, agrega lastro financeiro e 30+ anos de experiência em obra.
-
-### "Como fica a questão do CLPI?"
-O Consentimento Livre, Prévio e Informado (Salvaguardas de Cancún, REDD+) precisa estar assinado na submissão. As ICTs parceiras indicam as comunidades beneficiadas. Força-tarefa de campo será acionada.
-
----
-
-*Documento-fonte para NotebookLM. Pode ser copiado integralmente como fonte no NotebookLM para geração de áudio/vídeo com os hosts IA.*
+- Techsus é a tecnologia central. Bambu e outros materiais são P&D complementar, não condição.
+- O FINEP financia aprimoramento sobre o que já funciona (TRL 7-8).
+- Ninguém fala no vídeo — são os hosts IA que narram.
+- Regionalização é diferencial: 5 regiões com ICTs articuladas.
+- R$ 20-30K é pagamento pelo trabalho de formulação, devido com ou sem aprovação.
+- Imperveg é de Aguaí-SP (não Scala/SC).
+- Sérgio Prado é contato a prospectar, não parceiro confirmado.

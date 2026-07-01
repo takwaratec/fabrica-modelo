@@ -2,28 +2,26 @@
 ## Projeto Fábrica Modelo — para Techsus e Faleiros
 
 ### Formato
-Vídeo de apresentação em **português brasileiro**, com dois hosts (IA do NotebookLM) dialogando sobre o projeto. Tom profissional, direto, informativo — adequado para empresas de construção civil e incorporação.
+Vídeo de apresentação em **português brasileiro (PT-BR)**, com dois hosts (IA do NotebookLM) dialogando sobre o projeto. O áudio deve ser gerado em PT-BR. Tom profissional, direto, informativo — adequado para empresas de construção civil.
 
-### Estrutura sugerida (12 minutos)
+### Estrutura sugerida (10 minutos)
 
 | Bloco | Duração | Conteúdo |
 |-------|---------|----------|
-| **Abertura** | 1 min | Apresentar o projeto Fábrica Modelo. O que é, quem está envolvendo (André, Maurilio, Fabio), pra que serve |
-| **O Edital FINEP** | 1:30 | Explicar: Linha 4 (Moradia Sustentável), valor R$5-10M, contrapartida 5%, prazo 31/08, pontuação por regionalização e inovação |
-| **O Problema** | 1 min | Déficit de 6M moradias, 8% emissões CO₂ da construção, dependência química no tratamento de bambu |
-| **Sistema Techsus** | 1:30 | Painéis estruturais de parede + laje, patente depositada, CDHU/Caixa, proposta vencedora CDHU Offsite 2024 |
-| **Inovação em Materiais** | 2 min | 6 linhas de P&D: concreto verde, bambu ecológico, PU vegetal, compósitos com resíduos, geodésicas, painéis híbridos |
-| **Cadeia de Suprimentos** | 1 min | Cooperativas de manejo → CEAFLOR → HUB de distribuição. Resolve o gargalo histórico do bambu |
-| **Certificações** | 1:30 | LEED (Gold 60+ pts), AQUA-HQE (Excelente), Selo Casa Azul (Ouro 39+). Metas por escopo |
-| **Benefícios** | 1 min | Redução de carbono, prototipagem, artigos, patentes, acabamentos e esquadrias (revestimentos, portas, janelas) |
-| **Arranjo Financeiro** | 1:30 | R$20-30K para Núcleo de Inteligência (pagamento pela formulação, independente de aprovação). Contrapartida mínima R$250K (5%). Techsus entra com ~R$150K |
-| **Encerramento** | 1 min | Próximos passos: fechar arranjo em julho, submeter 31/08 |
+| **Abertura** | 1 min | Projeto Fábrica Modelo — aprimorar o sistema Techsus (patenteado, CDHU/Caixa) com P&D em descarbonização e certificação |
+| **Edital FINEP** | 1:30 | Linha 4, R$5-10M, contrapartida 5%, prazo 31/08, pontuação por regionalização |
+| **O Problema** | 1 min | Déficit 6M moradias, 8% emissões CO₂, mão de obra envelhecendo |
+| **Sistema Techsus** | 2 min | **Tecnologia central.** Painéis parede + laje, patente, CDHU, casa protótipo, TRL 7-8. Parceria Faleiros |
+| **P&D de Aprimoramento** | 2 min | Concreto verde (descarbonização), bambu p/ não-estruturais, PU vegetal, agregados reciclados, sistemas complementares, certificações |
+| **Arranjo Financeiro** | 1:30 | R$20-30K Núcleo de Inteligência (pago com ou sem aprovação). Techsus ~R$150K + Faleiros complemento |
+| **Encerramento** | 1 min | **Urgência:** FINEP por ordem de chegada. Quanto antes fecharmos o arranjo e submetermos, melhores as chances. Próximos passos: julho fechar arranjo, 31/08 submeter |
 
 ### Ênfases importantes
-- **Techsus + Faleiros** são os destinatários — o vídeo fala *para* eles, *sobre* o ecossistema que montamos
-- **Ninguém fala** no vídeo — são os hosts IA do NotebookLM que narram
-- **Regionalização** é diferencial competitivo: 5 regiões (SP, DF, BA, AC, SC) com ICTs articuladas
-- **R$20-30K** é pagamento pelo trabalho de formulação, não reembolso condicionado à aprovação
+- **Techsus é a tecnologia central.** Bambu e outros materiais são P&D complementar, não condição para o projeto
+- **O FINEP financia aprimoramento** sobre o que já funciona (TRL 7-8), não criação do zero
+- **Ninguém fala** no vídeo — são os hosts IA que narram
+- **Regionalização** é diferencial: 5 regiões (SP, DF, BA, AC, SC) com ICTs articuladas
+- **R$20-30K** é pagamento pelo trabalho de formulação, devido com ou sem aprovação
 - **Imperveg é de Aguaí-SP** (não Scala/SC)
 - **Sérgio Prado** é contato a prospectar, não parceiro confirmado
 

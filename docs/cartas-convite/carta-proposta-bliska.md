@@ -39,7 +39,7 @@ Constatamos que o senhor **domina a aplicação agrícola (estufas, ambientes pr
 | **Proponente candidato** | Texos (painéis estruturais) |
 | **ICT parceira** | UNICAMP/NIPE — prioridade para geodésicas |
 | **Equipe** | André Blanco (coord.), Maurilio Chiaretti (articulação), Fabio Takwara (Assessoria técnico-científica) |
-| **Contrapartida necessária** | Mín. R$ 250K — buscamos financiador |
+| **Contrapartida assegurada** | Techsus R$ 150K + Faleiros R$ 100K = **R$ 250K** (mínimo atingido) |
 
 ---
 
@@ -110,13 +110,20 @@ Esse arranjo resolve o **gargalo histórico de desabastecimento** que trava a ca
 
 ---
 
-## O Gargalo da Contrapartida
+## 💰 A Contrapartida e o Papel Estratégico do Senhor
 
-O edital FINEP exige contrapartida financeira em **dinheiro depositado em conta**. Valor mínimo de **R$ 250K** (5% de R$ 5M). Nosso proponente atual dispõe de ~R$ 150K — insuficiente.
+O edital FINEP exige contrapartida financeira em **dinheiro depositado em conta**. O valor mínimo de **R$ 250K** (5% de R$ 5M) **já está assegurado**: Techsus (R$ 150K) + Faleiros Construtora (R$ 100K).
 
-Precisamos de um **financiador externo**. O perfil ideal para esta linha de geodésicas seria uma **empresa de fruticultura ou flores de Holambra** — que entra como co-proponente, aporta a contrapartida e se beneficia diretamente da estufa certificada.
+**Por que sua articulação é decisiva mesmo assim?**
 
-Sua articulação com o setor de plasticultura/flores pode ser decisiva para viabilizar este financiamento.
+Se o senhor conseguir um parceiro de Holambra (empresa de fruticultura ou floricultura) para aportar **R$ 100K a R$ 250K**, o projeto salta de R$ 5M para **R$ 10M** de captação. Esse aporte extra viabiliza:
+
+1. ✅ **As estufas geodésicas** como linha de P&D dedicada — protótipo instrumentado, validação agronômica e certificação
+2. ✅ **O protocolo de tratamento ecológico do bambu** (alcalinização + pirolenhoso + PU Vegetal) — escala industrial e certificação IPT
+3. ✅ **Patenteamento do sistema construtivo geodésico** e artigo técnico-científico
+4. ✅ **Certificação ambiental** (LEED Gold, AQUA-HQE, Selo Casa Azul) para todo o conjunto
+
+**Sua articulação com o setor de plasticultura/flores é a chave** para transformar um projeto de R$ 5M em um projeto de R$ 10M, com geodésicas e tratamento ecológico plenamente contemplados.
 
 ---
 
@@ -131,10 +138,12 @@ As tecnologias prototipadas serão difundidas em comunidades indicadas pelas ICT
 ## Próximos Passos
 
 1. Apreciação da proposta
-2. Reunião técnica com André e Fabio
+2. Reunião técnica com André e Fabio para detalhamento das frentes de integração
 3. Definição do escopo de participação da UNICAMP
-4. **Articulação de financiador** do setor de flores/fruticultura
-5. Formalização para a proposta FINEP
+4. **Articulação de financiador do setor de flores/fruticultura de Holambra** — R$ 100K a R$ 250K
+5. Formalização da parceria para inclusão na proposta FINEP
+
+> 💡 **Nota:** A contrapartida mínima de R$ 250K já está assegurada (Techsus + Faleiros). O aporte de Holambra é o diferencial que leva o projeto ao teto de R$ 10M e viabiliza as geodésicas como linha dedicada de P&amp;D.
 
 ---
 

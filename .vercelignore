@@ -1,0 +1,10 @@
+TRIAGEM BRUTA
+TRIAGEM_BRUTA
+.git
+.gitignore
+*.opus
+*.mp4
+*.wav
+*.pdf
+docs/atas-e-pautas/transcricoes
+docs/editais/proposta-tecnica-techsus-faleiros-cdhu-2024.md

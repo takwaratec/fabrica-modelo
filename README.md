@@ -8,11 +8,19 @@
 
 ## 📋 Sobre o Projeto
 
-Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** para viabilizar o projeto de **Fábrica Escola** proposto por André Blanco — uma planta fabril para industrialização da construção civil que integre:
+Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** para submeter ao edital **FINEP Mais Inovação** um projeto de P&amp;D que tem o **sistema construtivo Techsus** (patenteado, CDHU/Caixa) como tecnologia central, com linhas de aprimoramento em descarbonização, materiais complementares e certificação ambiental.
 
-1. **Sistema construtivo patenteado** de painéis arquitetônicos estruturais (mais rápido, menos concreto e aço)
-2. **Linha paralela de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos agrícolas e plásticos
-3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
+### Peças de Apresentação
+
+| Arquivo | Formato | Para quê |
+|---------|---------|----------|
+| [`docs/pages/index.html`](docs/pages/index.html) | Landing page visual | Deploy Vercel — link compartilhável |
+| [`docs/apresentacao/apresentacao-andre.md`](docs/apresentacao/apresentacao-andre.md) | Documento textual completo | Compartilhar com André para bater o martelo |
+| [`docs/notebooklm/fonte.md`](docs/notebooklm/fonte.md) | Texto fonte | Levar ao NotebookLM para gerar vídeo |
+| [`docs/notebooklm/prompt.md`](docs/notebooklm/prompt.md) | Instrução | Orientar a geração do vídeo |
+| [`docs/notebooklm/design-system.md`](docs/notebooklm/design-system.md) | Design System | Especificações visuais (cores neutras, moldura passe-partout) |
+| [`docs/notebooklm/checklist.md`](docs/notebooklm/checklist.md) | Lista de arquivos | O que levar para o NotebookLM |
+| [`docs/analise-recomendacoes-proposta-unificada.md`](docs/analise-recomendacoes-proposta-unificada.md) | Análise estratégica | Recomendação de manter todas as frentes em proposta única |
 
 > ⚠️ **Esclarecimento:** A **Fábrica Escola** será sediada em São Paulo, em local a ser definido por André Blanco e Maurilio Chiaretti. O projeto FINEP financia a prototipagem e a certificação de processos — os testes e ensaios podem ocorrer nas ICTs parceiras (em outros estados), mas a planta fabril fica em SP. A transferência de tecnologia proporá os **protocolos de manejo e processos de fabricação/beneficiamento** por meio de cursos orçados e inclusos na grade de execução da proposta. Não se trata de deslocamento da operação para outros estados — a difusão é via capacitação formal no escopo do projeto.
 
