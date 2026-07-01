@@ -117,7 +117,7 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **Imperveg Polímeros Vegetais** | Aguaí, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-intencao-imperveg.md) |
 | **Kehlcoat (Kehl Polímeros)** | São Carlos, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | **Purcom Química** | Barueri, SP | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-cooperacao-purcom.md) |
-| **IPT (Marcelo Guedes)** | São Paulo, SP | 📄 Carta pronta | **André Blanco** | [⚠️ E-mail pendente — André tem o contato](docs/cartas-convite/carta-proposta-ipt.md) |
+| **IPT (Marcelo Guedes)** | São Paulo, SP | ⏳ E-mail pendente | **André Blanco** | [Carta redigida mas sem e-mail — André precisa fornecer](docs/cartas-convite/carta-proposta-ipt.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
@@ -130,11 +130,11 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 **Legenda de Status:**
 | Status | Significado |
 |--------|------------|
+| 📄 Carta pronta | Carta redigida com todos os dados — aguardando envio pelo emissário |
+| ⏳ Dados pendentes | Falta informação essencial (e-mail, contato) — carta não pode ser enviada |
 | ✅ Convite enviado | Carta-convite formal enviada e recebida pelo prospecto |
-| 📄 Carta pronta | Carta redigida — aguardando definição do emissário acadêmico para envio |
 | 🔍 Em prospecção | Identificado como potencial parceiro, ainda sem carta |
 | 🔄 Contato inicial | Primeira conversa ocorreu, sem convite formal ainda |
-| ⏳ Dados pendentes | Identificado mas faltam dados para contato (CPF, LinkedIn, e-mail) |
 
 **Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
 
@@ -223,7 +223,7 @@ Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis co
 | **UFSCar** (São Carlos) | ⭐5 | **A. J. F. Carvalho** | Biopolímeros, PU, compósitos | Carta enviada |
 | **UNICAMP** (Campinas) | ⭐5 | **Antonio Bliska Jr.** | Plasticultura, estufas | Carta enviada |
 | **CEFET-MG** (B. Horizonte) | ⭐4 | Incubadora Nascente | Quartzito + PU vegetal | Contato feito |
-| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | **Carta pronta** |
+| **IPT** (São Paulo) | ⭐4 | Marcelo Guedes | Certificação, laudos normativos | ⏳ E-mail pendente (André) |
 | **UFLA** (Lavras) | ⭐4 | **Lourival Marin Mendes** | Painéis aglomerados + resinas PU | Em prospecção |
 | **UNESP** (Ilha Solteira) | ⭐3 | **Jorge Akasaki** | Resíduos sólidos em materiais | Em prospecção |
 
