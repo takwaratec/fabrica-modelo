@@ -120,8 +120,16 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 | **IPT (Marcelo Guedes)** | São Paulo, SP | ⏳ E-mail pendente | **André Blanco** | [Carta redigida mas sem e-mail — André precisa fornecer](docs/cartas-convite/carta-proposta-ipt.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
-| **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
-| **Murilo Miguel** | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
+### 🧑‍🤝‍🧑 Parceiros Sociais — Comunidades
+
+O projeto conta com a articulação de **Joaquim Sando (MST)** e **Murilo Miguel (Terra Viva)**, ambos membros do ECOSALA, para acesso a comunidades onde as tecnologias serão difundidas. O consentimento será formalizado via CLPI assinado pelas comunidades beneficiadas.
+
+| Parceiro | Comunidade / Território | Mediação |
+|----------|------------------------|----------|
+| Joaquim Sando | Assentamentos MST | Marcos Paron (ECOSALA) |
+| Murilo Miguel | Coletivo Terra Viva | Marcos Paron (ECOSALA) |
+
+📄 Modelo de CLPI: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
 | **Raphaela Palma** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 | **Luci Okino** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |
 | **Henrique Bueno** | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn de Paron |

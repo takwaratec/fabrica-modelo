@@ -33,14 +33,13 @@ graph LR
 
 **Proponente candidato:** Texos (Michel) — tecnologia de painéis, capital insuficiente para o teto mínimo FINEP, busca associação com empresa âncora.
 
-### Prospecção (21 prospects)
+### Prospecção (20 prospects)
 
 | Status | Qtde | Quem |
 |--------|:----:|------|
 | 📄 Carta pronta | 14 | Tânia, Ludmila, Vicente, Bliska, Rocco, Carvalho, Marcondes, Romildo, Guilherme, Humberto, Alan, Imperveg, Kehl, Purcom |
+| ⏳ Dados pendentes | 5 | IPT (email), C1-C4 (CPF/LinkedIn) |
 | 🔍 Em prospecção | 2 | Mendes (UFLA), Fiorelli (USP) |
-| 🔄 Contato inicial | 2 | Joaquim (MST), Murilo (Terra Viva) |
-| ⏳ Dados pendentes | 4 | C1-C4 (ECOSALA) |
 
 ---
 
