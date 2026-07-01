@@ -137,6 +137,14 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 **Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
 
+> ⚠️ **Protocolo de envio:** Toda carta-convite deve ser enviada **com cópia (Cc) para Fabio Takwara (fabiotakwara@gmail.com)**. Isso garante que o status na tabela acima seja atualizado assim que o emissário disparar o convite. Sem o Cc, o andamento fica cego e a transparência da prospecção se perde.
+>
+> 📋 **Checklist para o emissário antes de enviar:**
+> 1. 👁️ Verificar se o e-mail do destinatário está correto na carta
+> 2. 📎 Anexar ou referenciar a ficha do pesquisador no Acervo
+> 3. 📬 Enviar com Cc para fabiotakwara@gmail.com
+> 4. 🔄 Avise no grupo que enviou — a tabela será atualizada para "✅ Convite enviado"
+
 ---
 
 ### 🌱 Dinâmica do Ecossistema — Como Participar da Prospecção
