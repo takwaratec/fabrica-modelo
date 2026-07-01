@@ -1,94 +1,107 @@
-# Carta Modelo — Apresentação de Projeto e Parceria
+# Carta Convite — Proposta de Parceria Institucional
 
-> **Documento genérico para divulgação a ICTs, investidores e parceiros institucionais**
-> *Preenchimento: substituir [colchetes] pelos dados específicos do destinatário*
-> *Versão: Julho/2026*
-
----
-
-**[Cidade], [data]**
-
-**À**
-[Nome da Instituição/ICT/Empresa]
-[Endereço]
-[E-mail de contato]
-
-**Assunto:** Convite à parceria no projeto "Industrialização da Construção Civil com Redução de Impacto Ambiental" — FINEP Mais Inovação
+> **Documento do Grupo Executor Fábrica Modelo**
+> **Finalidade:** Convite a ICT parceira para projeto FINEP Mais Inovação
+> **Data:** Julho/2026
+> **De:** André Blanco (IFSP) — em nome do Grupo Executor Fábrica Modelo
+> **Para:** [Nome da ICT / Departamento / Pesquisador responsável]
+> **E-mail:** [e-mail do contato]
 
 ---
 
 Prezados,
 
-Apresentamos o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo de submissão em **31 de agosto de 2026**.
+Permita-me apresentar-me: sou **André Blanco**, arquiteto e urbanista, professor do **IFSP** (Instituto Federal de São Paulo). Em nome do **Grupo Executor Fábrica Modelo**, venho convidar essa instituição a integrar o projeto **"Industrialização da Construção Civil com Redução de Impacto Ambiental"**, a ser submetido ao edital **FINEP Mais Inovação — Economia Circular (Linha 4: Moradia Sustentável)**, com prazo em **31 de agosto de 2026**.
 
-## O Projeto
-
-O Brasil enfrenta um déficit habitacional de **6 milhões de moradias**, enquanto a construção civil responde por **8% das emissões globais de CO₂**. Nosso objetivo é industrializar a construção com redução drástica do impacto ambiental, integrando:
-
-1. **Sistema construtivo patenteado** de painéis arquitetônicos estruturais (menos concreto e aço que a construção tradicional)
-2. **Linhas de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos, resíduos agrícolas e plásticos
-3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
-
-## Parceiros Envolvidos
-
-| Parceiro | Papel | Repositório |
-|----------|-------|-------------|
-| **André Blanco / TEIA** | Coordenação técnica, ABNT 6263 | `github.com/takwaratec/ECOSALA` |
-| **Maurilio Chiaretti** | Articulação política, Fed. Nacional dos Arquitetos | — |
-| **Michel [empresa]** | Proponente principal — tecnologia painéis | `github.com/takwaratec/fabrica-modelo` |
-| **Fabio Takwara** | Assessoria técnico-científica, curadoria | Perfil no Acervo Científico |
-| **Imperveg** | Fornecedor de PU Vegetal para P&D | — |
-
-## Repositórios do Ecossistema (públicos)
-
-O embasamento científico do projeto está disponível no Acervo Científico:
-
-| Repositório | Conteúdo | Acesso |
-|-------------|----------|--------|
-| **Analises-e-escrita-cientifica** | **Acervo científico** — 330+ fichas técnicas, análises, referências, perfis de pesquisadores | [Acessar](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
-| **fabrica-modelo** | Documentos do projeto: cartas, proposal, formulário espelho | [Acessar](https://github.com/takwaratec/fabrica-modelo) |
-
-## Fichas dos Membros no Acervo Científico
-
-Cada membro do grupo tem seu perfil técnico-científico catalogado no Acervo:
-
-| Membro | Ficha no Acervo | Conteúdo |
-|--------|-----------------|----------|
-| André Blanco | [`docs/analises/ecosala/perfil-andre-blanco.md`](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) | Lattes, CV, portfólio, produção intelectual |
-| Fabio Takwara | [`docs/analises/ecosala/perfil-fabio-takwara.md`](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) | Pesquisador cidadão, acervo científico, ORCID |
-| Demais membros | *(em produção)* | — |
-
-## Documentos de Apoio já Produzidos
-
-| Documento | Finalidade |
-|-----------|------------|
-| **Carta de Intenção — Proponente** | Manifestação de interesse e compromisso de contrapartida |
-| **Carta de Intenção — Fornecedor** | Disponibilidade de material para P&D |
-| **Proposal Teaser** | Apresentação executiva para parceiros e investidores |
-| **Formulário Espelho FINEP** | Checklist completo de requisitos e prazos |
-| **Ficha de Governança (Protocolo Cancún)** | Salvaguardas socioambientais para intervenções em comunidades |
-
-## Próximos Passos
-
-| Data | Marco |
-|------|-------|
-| Julho/2026 | Definição do ICT parceiro |
-| Julho/2026 | Fechamento do arranjo de contrapartida |
-| 15/08/2026 | Versão completa da proposta |
-| **31/08/2026** | **Submissão FINEP** |
-
-## Contato
-
-**Fabio Takwara** — Assessoria técnico-científica
-E-mail: fabiotakwara@gmail.com
-ORCID: 0000-0001-8815-3885
-Lattes: *(em regularização)*
+Identificamos na trajetória e na infraestrutura de pesquisa dessa ICT uma convergência com as linhas de inovação do projeto, que dialogam com os seguintes temas estratégicos:
 
 ---
 
-Agradecemos desde já a atenção e colocamo-nos à disposição para esclarecimentos e reuniões de aprofundamento.
+## Temas do Projeto
+
+### 🏠 Habitação de Interesse Social (HIS)
+Industrialização de sistemas construtivos para reduzir custo e prazo da moradia popular, mantendo qualidade e durabilidade. Alinhamento com o Programa Minha Casa, Minha Vida e com o déficit habitacional de 6 milhões de moradias.
+
+### 🌪️ Estruturas Leves para Desastres Naturais
+Sistemas construtivos modulares, leves e de rápida montagem para resposta a enchentes, deslizamentos e outros eventos extremos — cada vez mais frequentes no Brasil. Soluções transportáveis, de baixo impacto logístico e alta resiliência.
+
+### 🌱 Redução da Pegada de Carbono na Construção Civil
+A construção civil responde por ~8% das emissões globais de CO₂. O projeto propõe substituir materiais de alto carbono (concreto, aço) por alternativas renováveis: bambu tratado, PU Vegetal de mamona, biocompósitos com resíduos agrícolas e plásticos.
+
+### 🎋 Alinhamento com a PNMCB (Lei 12.484/2011)
+**Política Nacional de Manejo Sustentado e Cultivo do Bambu** — o bambu é recurso estratégico para construção civil de baixo carbono, com potencial de substituir madeira nativa e aço em diversas aplicações. O projeto integra bambu tratado ecologicamente (vapor alcalino + extrato pirolenhoso) como componente estrutural em painéis, fechamentos e geodésicas, em consonância com os objetivos da PNMCB e seu decreto regulamentador (8.375/2014).
+
+### ♻️ Alinhamento com a PNRS (Lei 12.305/2010)
+**Política Nacional de Resíduos Sólidos** — a incorporação de resíduos agrícolas (cana, milho, bambu), plásticos pós-consumo e rejeitos minerais como matéria-prima para painéis e compósitos atende diretamente aos princípios da PNRS: não geração, redução, reutilização, reciclagem e destinação ambientalmente adequada. O projeto também prevê **Parcerias Sociais** com cooperativas de catadores (Anexo 6 do edital FINEP), gerando renda e inclusão social.
+
+### 🤝 Tecnologias Sociais para Comunidades Vulneráveis
+Tecnologias de baixo custo, replicáveis e de fácil assimilação por comunidades tradicionais, agricultores familiares, povos indígenas e quilombolas. Sistemas construtivos que não dependem de cadeias industriais complexas e podem ser produzidos localmente, em consonância com a Estratégia Nacional de Bioeconomia (Decreto 12.044/2024).
+
+---
+
+## O Projeto em Resumo
+
+| Característica | Detalhe |
+|----------------|---------|
+| **Valor** | R$ 5.000.000,00 a R$ 10.000.000,00 |
+| **Proponente** | Indústria de painéis estruturais (patente CDHU/Caixa) |
+| **ICTs parceiras** | Em formação — buscamos parceria com sua instituição |
+| **Equipe base** | André Blanco (coord. técnica, IFSP), Maurilio Chiaretti (FNA), Fabio Takwara (curadoria) |
+
+---
+
+## Materiais Complementares
+
+1. **Proposal Teaser** — [visão geral, orçamento, cronograma](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/proposal-teaser.md)
+2. **Formulário Espelho FINEP** — [requisitos detalhados](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/formulario-espelho-finep.md)
+3. **Critérios de avaliação do edital** — [tabela completa no README](https://github.com/takwaratec/fabrica-modelo/blob/main/README.md)
+4. **Acervo Científico do projeto** — [fichas, perfis, referências](https://github.com/takwaratec/Analises-e-escrita-cientifica)
+
+---
+
+## Forma de Participação
+
+A ICT atuaria como parceira do projeto, com possibilidades de:
+
+- **Pesquisador colaborador** no escopo de P&D
+- **Orientação técnica** nas linhas de interesse da instituição
+- **Cessão de infraestrutura laboratorial** para ensaios e caracterização
+- **Coorientação** de alunos de pós-graduação vinculados ao projeto
+- **Conexão institucional** como ICT formal do projeto (obrigatório no edital)
+
+Estamos abertos a discutir o formato mais adequado para a instituição.
+
+---
+
+## Próximos Passos
+
+1. **Apreciação da proposta** pela instituição
+2. **Reunião técnica** para alinhamento das frentes de interesse
+3. **Definição do escopo de participação** e contrapartida
+4. **Formalização** para inclusão na proposta FINEP (prazo: 31/08)
+
+---
+
+## Repositórios do Projeto (públicos)
+
+| Repositório | Conteúdo | Link |
+|-------------|----------|------|
+| **fabrica-modelo** | Documentos do projeto | [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) |
+| **Analises-e-escrita-cientifica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+
+---
+
+Estamos à disposição para aprofundar qualquer um dos pontos e agendar uma conversa no momento mais conveniente.
 
 Atenciosamente,
 
-**Grupo Fábrica Modelo**
-*Tecnologia Takwara · Julho/2026*
+**André Blanco**
+IFSP — Instituto Federal de São Paulo
+*Em nome do Grupo Executor Fábrica Modelo*
+
+**c.c. Fabio Takwara** — Assessoria técnico-científica
+fabiotakwara@gmail.com
+
+---
+
+*Documento preparado no repositório [fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) · Julho/2026*

@@ -14,6 +14,16 @@ Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** p
 2. **Linha paralela de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos agrícolas e plásticos
 3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
 
+### Políticas Nacionais Relacionadas
+
+O projeto está alinhado a três marcos legais que fundamentam sua relevância e pontuação no edital:
+
+| Política | Legislação | Relação com o Projeto |
+|----------|------------|----------------------|
+| **PNMCB** — Política Nacional de Manejo Sustentado e Cultivo do Bambu | Lei 12.484/2011 · Decreto 8.375/2014 | Uso estrutural do bambu tratado (vapor alcalino + pirolenhoso) em painéis, fechamentos e geodésicas — substituindo madeira nativa e aço |
+| **PNRS** — Política Nacional de Resíduos Sólidos | Lei 12.305/2010 · Decreto 11.413/2023 | Incorporação de resíduos agrícolas, plásticos e minerais como insumo — Parcerias Sociais com cooperativas de catadores (Anexo 6 edital FINEP) |
+| **Estratégia Nacional de Bioeconomia** | Decreto 12.044/2024 | Tecnologias sociais para comunidades tradicionais, agricultores familiares, povos indígenas e quilombolas |
+
 Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + contrapartida das empresas proponentes.
 
 ---
@@ -93,8 +103,8 @@ A nota final da proposta é a soma ponderada dos indicadores abaixo. Entender es
 **Grau de Inovação** (soma simples):
 | Indicador | O que avalia | Como pontuamos |
 |-----------|-------------|----------------|
-| Abrangência | Ineditismo mundial (2), nacional (1) ou apenas na empresa (0) | Patente Michel é nacional; PU+bambu+resíduos é inovação com potencial de destaque |
-| Grau de Incerteza Tecnológica | Quanto maior o risco tecnológico, maior a nota | TRL 4-5 (médio risco) → nota mediana; validar com ICT aumenta confiança |
+| Abrangência | Ineditismo mundial (2), nacional (1) ou apenas na empresa (0) | Patente Michel é nacional; PU+bambu+resíduos alinhado à PNMCB (Lei 12.484/2011) e PNRS (Lei 12.305/2010) — inovação com lastro em política pública |
+| Grau de Incerteza Tecnológica | Quanto maior o risco tecnológico, maior a nota | TRL 4-5 (médio risco); validar com ICT aumenta confiança |
 | Qualificação da Equipe | Participação de mestres e doutores | Entrar com ICT traz doutores ao time |
 | Composição dos Dispêndios | Despesas em atividades intensivas em conhecimento | P&D em ICT e laboratórios |
 | Trajetória de Inovação da Empresa | Histórico de inovação da proponente | Michel já tem patente e processo IPT |
