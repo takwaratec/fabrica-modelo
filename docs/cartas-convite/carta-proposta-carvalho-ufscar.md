@@ -104,4 +104,10 @@ fabiotakwara@gmail.com
 
 ---
 
+**📋 Nota:** Preparamos uma ficha científica com seu perfil e produção no Acervo do projeto. Se quiser revisar, sugerir alterações ou incluir informações, o link está abaixo — basta enviar as atualizações para o Fabio (fabiotakwara@gmail.com).
+
+🔗 **Ficha no Acervo:** [Perfil A. J. F. Carvalho](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-antonio-carvalho-ufscar.md)
+
+---
+
 *Documento preparado no repositório [fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) · Julho/2026*

@@ -64,3 +64,9 @@ Um abraço,
 **Fabio Takwara**
 Tecnologia Takwara
 fabiotakwara@gmail.com
+
+---
+
+**📋 Nota:** Preparamos fichas técnicas dos produtos Imperveg no Acervo do projeto. Se quiser revisar ou sugerir ajustes, o link está abaixo — basta enviar para o Fabio (fabiotakwara@gmail.com).
+
+🔗 **Fichas no Acervo:** [UG132A](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) · [MAMONEX RD70](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) · [Imperveg Geral](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md)
