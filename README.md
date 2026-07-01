@@ -14,7 +14,7 @@ Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** p
 2. **Linha paralela de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos agrícolas e plásticos
 3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
 
-> ⚠️ **Esclarecimento:** O projeto tem como escopo a **certificação de processos** e a prototipagem financiada pelo edital. A **transferência de tecnologia** ocorrerá como ação paralela, por meio de cursos nas ICTs parceiras para divulgação dos resultados obtidos com a prototipagem. Não se trata de operação logística remota — o manejo e a difusão serão feitos via capacitação, não via deslocamento de materiais ou equipes.
+> ⚠️ **Esclarecimento:** A **Fábrica Escola** será sediada em São Paulo, em local a ser definido por André Blanco e Maurilio Chiaretti. O projeto FINEP financia a prototipagem e a certificação de processos — os testes e ensaios podem ocorrer nas ICTs parceiras (em outros estados), mas a planta fabril fica em SP. A transferência de tecnologia proporá os **protocolos de manejo e processos de fabricação/beneficiamento** por meio de cursos orçados e inclusos na grade de execução da proposta. Não se trata de deslocamento da operação para outros estados — a difusão é via capacitação formal no escopo do projeto.
 
 ### Políticas Nacionais Relacionadas
 
