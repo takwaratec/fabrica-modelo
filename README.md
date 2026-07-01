@@ -144,36 +144,60 @@ Para maximizar a nota:
 
 ## 📁 Estrutura do Repositório
 
+```mermaid
+graph TB
+    ROOT["📂 fabrica-modelo/"] --> README["📄 README.md"]
+    ROOT --> AGENTS["📄 AGENTS.md"]
+    ROOT --> EDITAIS["📁 EDITAIS/"]
+    ROOT --> DOCS["📁 docs/"]
+    
+    EDITAIS --> FINEP["📁 01_FINEP_MAIS_INOVACAO/"]
+    FINEP --> REG["📁 01_REGULAMENTO/"]
+    FINEP --> ANEXOS["📁 02_ANEXOS/"]
+    FINEP --> FAQ["📁 04_FAQ/"]
+    FINEP --> RESULT["📁 05_RESULTADOS/"]
+    
+    DOCS --> ATAS["📁 atas-e-pautas/"]
+    DOCS --> CARTAS["📁 cartas-convite/"]
+    DOCS --> EDITAL["📁 editais/"]
+    DOCS --> PESQ["📁 pesquisas/"]
+    DOCS --> MATANDRE["📁 materiais-andre/"]
+    
+    ATAS --> ATA1["📄 ATA_REUNIAO_3006"]
+    ATAS --> ATA2["📄 ORGANIZACAO_REUNIAO_3006"]
+    ATAS --> PAUTA["📄 pauta-reuniao"]
+    ATAS --> TRANS["📁 transcricoes/"]
+    
+    CARTAS --> C1["📄 carta-intencao-michel"]
+    CARTAS --> C2["📄 carta-intencao-imperveg"]
+    CARTAS --> C3["📄 carta-modelo-ICT"]
+    CARTAS --> C4["📄 carta-proposta-bliska"]
+    CARTAS --> C5["📄 carta-proposta-rocco-lahr"]
+    CARTAS --> C6["📄 carta-proposta-carvalho"]
+    
+    EDITAL --> EF["📄 formulario-espelho-finep"]
+    EDITAL --> PT["📄 proposal-teaser"]
+    
+    PESQ --> ICT["📁 pesquisas-ict/"]
+
+    click README "https://github.com/takwaratec/fabrica-modelo/blob/main/README.md"
+    click C1 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-michel.md"
+    click C2 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-imperveg.md"
+    click C4 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-bliska.md"
+    click C5 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-rocco-lahr-usp.md"
+    click C6 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-carvalho-ufscar.md"
+    click ATA1 "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/atas-e-pautas/ATA_REUNIAO_3006.md"
+    click EF "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/formulario-espelho-finep.md"
+    click PT "https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/proposal-teaser.md"
 ```
-📂 fabrica-modelo/
-├── README.md                    ← este arquivo
-├── AGENTS.md                    ← escopo, fronteiras, instruções
-├── EDITAIS/
-│   └── 01_FINEP_MAIS_INOVACAO/  ← regulamento, anexos, FAQ, resultados
-└── docs/
-    ├── atas-e-pautas/
-    │   ├── ATA_REUNIAO_3006.md
-    │   ├── ORGANIZACAO_REUNIAO_3006.md
-    │   ├── pauta-reuniao-fabrica-modelo.md
-    │   └── transcricoes/
-    │       └── TRANSCRICAO_REUNIAO_3006.md
-    ├── cartas-convite/
-    │   ├── carta-intencao-michel.md
-    │   ├── carta-intencao-imperveg.md
-    │   ├── carta-modelo-apresentacao-parceiros.md
-    │   ├── carta-proposta-bliska.md
-    │   ├── carta-proposta-rocco-lahr-usp.md
-    │   └── carta-proposta-carvalho-ufscar.md
-    ├── editais/
-    │   ├── formulario-espelho-finep.md
-    │   └── proposal-teaser.md
-    ├── mensagens/
-    │   └── (rascunhos de WhatsApp)
-    ├── pesquisas/
-    │   └── pesquisas-ict/
-    │       └── pesquisa-gemini-deep-research-icts.md
-    └── materiais-andre/         ← Lattes, CV, portfólio
-```
+
+### Legenda
+
+| Ícone | Significado |
+|-------|-------------|
+| 📄 | Documento (.md) — clique para acessar |
+| 📁 | Pasta com mais arquivos |
+| 🔗 Links | Documentos principais com acesso direto via clique |
 
 ---
 
