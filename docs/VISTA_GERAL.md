@@ -9,7 +9,7 @@
 
 ```mermaid
 graph LR
-    FINEP["FINEP<br/>R$5-10M"] --> EXEC["Grupo Executor<br/>André · Maurilio · Michel · Fabio"]
+    FINEP["FINEP<br/>R$5-10M"] --> EXEC["Grupo Executor<br/>André · Maurilio · Fabio"]
     EXEC --> ICTS["🔬 ICTs Parceiras<br/>USP · UFSCar · UNICAMP · UFAC · UFRJ<br/>UFBA · UFSC · IF Goiano · UnB · IFB · CAU/DF"]
     EXEC --> COOP["🤝 Coop. Técnica<br/>Imperveg · Kehl · Purcom"]
     ICTS --> SOCIAL["🧑‍🤝‍🧑 Prova Social<br/>ICT indica comunidade → CLPI assinado"]
@@ -25,12 +25,13 @@ graph LR
 |--------|-------------|-------|
 | André Blanco | IFSP / TEIA | Coord. Técnica |
 | Maurilio Chiaretti | FNA | Articulação Política |
-| Michel (Texos) | Texos | Proponente / Painéis |
 | Fabio Takwara | Ecolaborativa | Assessoria |
 | Marcos Paron | IFSP | ECOSALA |
 | Daniela Maciel | Embrapa | Impacto Social |
 | Gisele Vilela | Embrapa | Remineralizadores |
 | Vicente Virgolino | IFB | Tratamento Bambu |
+
+**Proponente candidato:** Texos (Michel) — tecnologia de painéis, capital insuficiente para o teto mínimo FINEP, busca associação com empresa âncora.
 
 ### Prospecção (21 prospects)
 
