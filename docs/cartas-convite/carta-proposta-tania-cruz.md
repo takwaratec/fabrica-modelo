@@ -63,15 +63,25 @@
 63|| **Michel (Texos)** | Proponente candidato — tecnologia de painéis |
 64|| **Fabio Takwara** | Assessoria técnico-científica, curadoria |
 65|
-66|## Próximos passos
-67|
-68|1. Confirmar interesse em compor o projeto como ICT parceira (UnB)
-69|2. Agendar reunião com o Grupo Executor para alinhar escopo e orçamento
-70|3. Definir a equipe da UnB que integrará a proposta (discentes, técnicos)
-71|
-72|---
-73|
-74|**📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo do projeto (link abaixo). Se quiser revisar ou sugerir alterações, envie para fabiotakwara@gmail.com.
+## Próximos passos
+
+1. Confirmar interesse em compor o projeto como ICT parceira (UnB)
+2. Agendar reunião com o Grupo Executor para alinhar escopo e orçamento
+3. Definir a equipe da UnB que integrará a proposta (discentes, técnicos)
+
+---
+
+### 🧑‍🤝‍🧑 Aplicação em Comunidades e Consentimento (CLPI)
+
+As tecnologias desenvolvidas no projeto serão repassadas para **assentamentos, comunidades tradicionais e territórios de interesse social**, incluindo o **Assentamento Mário Lago (DF/Entorno)**, onde a UnB e o LaPCiS já atuam.
+
+Antes de qualquer intervenção no território, será aplicado o **Protocolo de Consentimento Livre, Prévio e Informado (CLPI)**, em conformidade com as Salvaguardas de Cancún (REDD+) e a Convenção 169 da OIT. Este protocolo é parte integrante da proposta e pontua nos critérios de *Parcerias Sociais* e *Externalidades* do edital FINEP.
+
+📄 Modelo de CLPI: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
+
+---
+
+**📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo do projeto (link abaixo). Se quiser revisar ou sugerir alterações, envie para fabiotakwara@gmail.com.
 75|
 76|🔗 **Ficha no Acervo:** [perfil-tania-cruz-unb.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-tania-cruz-unb.md)
 77|🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
