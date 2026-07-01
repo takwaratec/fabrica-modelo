@@ -14,6 +14,8 @@ Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** p
 2. **Linha paralela de P&D** em materiais renováveis: bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos agrícolas e plásticos
 3. **Assistência Técnica Integrada (ATI)** — conectando habitação, alimentação e saúde
 
+> ⚠️ **Esclarecimento:** O projeto tem como escopo a **certificação de processos** e a prototipagem financiada pelo edital. A **transferência de tecnologia** ocorrerá como ação paralela, por meio de cursos nas ICTs parceiras para divulgação dos resultados obtidos com a prototipagem. Não se trata de operação logística remota — o manejo e a difusão serão feitos via capacitação, não via deslocamento de materiais ou equipes.
+
 ### Políticas Nacionais Relacionadas
 
 O projeto está alinhado a três marcos legais que fundamentam sua relevância e pontuação no edital:
