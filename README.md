@@ -147,23 +147,32 @@ Para maximizar a nota:
 ```
 📂 fabrica-modelo/
 ├── README.md                    ← este arquivo
-├── AGENTS.md                    ← escopo, fronteiras, instruções para agentes
+├── AGENTS.md                    ← escopo, fronteiras, instruções
 ├── EDITAIS/
 │   └── 01_FINEP_MAIS_INOVACAO/  ← regulamento, anexos, FAQ, resultados
 └── docs/
-    ├── ATA_REUNIAO_3006.md      ← ata oficial da reunião
-    ├── ORGANIZACAO_REUNIAO_3006.md  ← resumo, tarefas T01-T11
-    ├── pauta-reuniao-fabrica-modelo.md
-    ├── proposal-teaser.md       ← apresentação executiva para parceiros
-    ├── formulario-espelho-finep.md  ← checklist completo FINEP
-    ├── carta-intencao-michel.md  ← proposta de parceria (grupo → Michel/Texos)
-    ├── carta-intencao-imperveg.md  ← fornecimento PU Vegetal
-    ├── carta-proposta-bliska.md  ← proposta ICT — Prof. Bliska (UNICAMP)
-    ├── carta-modelo-apresentacao-parceiros.md  ← template para ICTs
-    ├── pesquisas-ict/           ← pesquisa Gemini Deep Research
-    ├── materiais-andre/         ← Lattes, CV, portfólio
-    └── transcricoes/
-        └── TRANSCRICAO_REUNIAO_3006.md
+    ├── atas-e-pautas/
+    │   ├── ATA_REUNIAO_3006.md
+    │   ├── ORGANIZACAO_REUNIAO_3006.md
+    │   ├── pauta-reuniao-fabrica-modelo.md
+    │   └── transcricoes/
+    │       └── TRANSCRICAO_REUNIAO_3006.md
+    ├── cartas-convite/
+    │   ├── carta-intencao-michel.md
+    │   ├── carta-intencao-imperveg.md
+    │   ├── carta-modelo-apresentacao-parceiros.md
+    │   ├── carta-proposta-bliska.md
+    │   ├── carta-proposta-rocco-lahr-usp.md
+    │   └── carta-proposta-carvalho-ufscar.md
+    ├── editais/
+    │   ├── formulario-espelho-finep.md
+    │   └── proposal-teaser.md
+    ├── mensagens/
+    │   └── (rascunhos de WhatsApp)
+    ├── pesquisas/
+    │   └── pesquisas-ict/
+    │       └── pesquisa-gemini-deep-research-icts.md
+    └── materiais-andre/         ← Lattes, CV, portfólio
 ```
 
 ---
@@ -173,10 +182,8 @@ Para maximizar a nota:
 | Documento | Local |
 |-----------|-------|
 | **Acervo Científico** (fichas, perfis, referências) | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
-| **Perfil André Blanco** | [Acervo — ecosala/perfil-andre-blanco.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md) |
-| **Perfil Fabio Takwara** | [Acervo — ecosala/perfil-fabio-takwara.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-fabio-takwara.md) |
-| **Ficha Texos/Michel** | [Acervo — ecosala/ficha-texos-michel.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-texos-michel.md) |
-| **Pesquisa ICTs completa** | [`docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md) |
+| **Índice do projeto no Acervo** | [Acervo — fabrica-modelo/index.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md) |
+| **Pesquisa ICTs completa** | [`docs/pesquisas/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas/pesquisas-ict/pesquisa-gemini-deep-research-icts.md) |
 
 ---
 

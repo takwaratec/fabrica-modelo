@@ -24,19 +24,20 @@ Desenvolvimento de novos materiais e industrialização do processo de construç
 - **ICT parceira:** Obrigatória (ex.: UFSCar, UNICAMP, IPT)
 - **Coexecutoras:** Opcional (outras empresas)
 
-### Documentos Baixados
+### Documentos Convertidos (.md)
 
-```
+```bash
 EDITAIS/01_FINEP_MAIS_INOVACAO/
 ├── 01_REGULAMENTO/
-│   └── 13_02_2026_EC_Regulamento.pdf          (278K)  ← Regulamento completo
+│   └── 13_02_2026_EC_Regulamento.pdf          (278K)  ← Original FINEP
+│       → Regulamento completo (consulte o .md extraído)
 ├── 02_ANEXOS/
-│   ├── 13_02_2026_EC_Anexo1-Caracteristicas.pdf (184K)  ← Características específicas
-│   ├── 13_02_2026_EC_Anexo2-Minuta-Termo-Outorga.pdf (274K)  ← Minuta do contrato
-│   ├── 13_02_2026_EC_Anexo3-Declaracao-Acoes-Coletivas.pdf (126K)
-│   ├── 13_02_2026_EC_Anexo4-Declaracao-Ambiental.pdf (156K)
-│   ├── 13_02_2026_EC_Anexo5-Nivel-Maturidade-Tecnologica.pdf (195K)  ← TRL
-│   └── 13_02_2026_EC_Anexo6-Carta-Manifestacao-Interesse.pdf (146K)
+│   ├── Anexo1-Caracteristicas.pdf             (184K)  ← Características específicas
+│   ├── Anexo2-Minuta-Termo-Outorga.pdf        (274K)  ← Minuta do contrato
+│   ├── Anexo3-Declaracao-Acoes-Coletivas.pdf  (126K)
+│   ├── Anexo4-Declaracao-Ambiental.pdf        (156K)
+│   ├── Anexo5-Nivel-Maturidade-Tecnologica.pdf(195K)  ← TRL
+│   └── Anexo6-Carta-Manifestacao-Interesse.pdf(146K)
 ├── 03_MANUAIS/
 │   (pendente: baixar manuais da plataforma FINEP)
 ├── 04_FAQ/
