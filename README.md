@@ -93,7 +93,7 @@ Pessoas com vínculo confirmado no projeto:
 | **Prof. Dr. Marcos Paron** | IFSP | André Blanco | Aceito | Coord. ECOSALA, biochar, compostagem |
 | **Profa. Dra. Daniela Maciel** | Embrapa | Gisele Vilela | Aceito | Métricas de impacto social |
 | **Dra. Gisele Vilela** | Embrapa | Marcos Paron | Aceito | Remineralizadores, biocompósitos |
-| **Prof. Dr. Vicente Virgolino** | IFB | Fabio Takwara | Aceito | Forno ecológico, tratamento bambu |
+| **Prof. Dr. Vicente Virgolino** | IFB | Fabio Takwara | Confirmado (ECOSALA) · aguardando carta formal | Forno ecológico, tratamento bambu |
 | **André Blanco** (Me.) | IFSP / TEIA | — | [Fundador] | Coord. técnica, articulação ICT |
 | **Maurilio Chiaretti** | FNA / Sind. Arq. | André Blanco | Aceito | Articulação política, HIS |
 | **Michel (Texos)** | Texos Indústria | André Blanco | Aceito | Proponente candidato, painéis |
@@ -107,16 +107,16 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |-----------|-------------|--------|-------------|-----------------|
-| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
-| **Dra. Ludmila A. Correia** | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-bliska.md) |
-| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| **Prof. Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| **Profa. Dra. Tânia Cruz** | UnB / LaPCiS | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| **Dra. Ludmila A. Correia** | CAU/DF | 📄 Carta pronta | **Fabio Takwara** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| **Prof. Dr. Antonio Bliska Jr.** | UNICAMP / FEAGRI | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-bliska.md) |
+| **Prof. Dr. Francisco Rocco Lahr** | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| **Prof. Dr. A. J. F. Carvalho** | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| **Prof. Dr. Marcondes L. Costa** | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| **Prof. Dr. Romildo Toledo Filho** | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| **Prof. Dr. Guilherme O. Silva** | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| **Prof. Dr. Humberto C. Furtado** | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| **Prof. Dr. Alan P. Oliveira** | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | **Prof. Dr. Lourival Marin Mendes** | UFLA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Prof. Dr. Juliano Fiorelli** | USP FZEA | 🔍 Em prospecção | — | Sem carta ainda |
 | **Joaquim Sando** | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
@@ -137,13 +137,19 @@ Pessoas em processo de aproximação — pública e rastreável. Cada linha refl
 
 **Registro de respostas:** Quando uma pessoa aceitar ou recusar, o link na coluna "Resposta / Link" será atualizado para o registro da manifestação (issue, e-mail, formulário).
 
-> ⚠️ **Protocolo de envio:** Toda carta-convite deve ser enviada **com cópia (Cc) para Fabio Takwara (fabiotakwara@gmail.com)**. Isso garante que o status na tabela acima seja atualizado assim que o emissário disparar o convite. Sem o Cc, o andamento fica cego e a transparência da prospecção se perde.
+> ⚠️ **Protocolo de envio:** Carta redigida **não** significa carta enviada. Toda carta nesta tabela precisa passar por:
 >
-> 📋 **Checklist para o emissário antes de enviar:**
+> 1. 🧑‍⚖️ **Consentimento do grupo gestor** — o emissário proposto confirma que vai enviar
+> 2. 📬 **Envio com Cc para Fabio Takwara** (fabiotakwara@gmail.com) — sem Cc o status não é atualizado
+> 3. ✅ **Atualização da tabela** — após o envio, o status muda de "📄 Carta pronta" para "✅ Convite enviado"
+>
+> 📅 **Prazo máximo para envio: 03/07/2026** — todas as cartas prontas devem ser enviadas até esta data ou serão reprogramadas.
+>
+> 📋 **Checklist para o emissário:**
 > 1. 👁️ Verificar se o e-mail do destinatário está correto na carta
 > 2. 📎 Anexar ou referenciar a ficha do pesquisador no Acervo
 > 3. 📬 Enviar com Cc para fabiotakwara@gmail.com
-> 4. 🔄 Avise no grupo que enviou — a tabela será atualizada para "✅ Convite enviado"
+> 4. 🔄 Comunicar o envio — a tabela será atualizada para "✅ Convite enviado"
 
 ---
 
