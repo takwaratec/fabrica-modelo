@@ -20,8 +20,8 @@ Desenvolvimento de novos materiais e industrialização do processo de construç
 
 ### Arranjo
 
-- **Proponente:** Empresa brasileira (ex.: Ecolaborativa)
-- **ICT parceira:** Obrigatória (ex.: UnB/LaPCiS, IFB, CEFET-MG)
+- **Proponente:** Empresa brasileira (ex.: Michel/Texos)
+- **ICT parceira:** Obrigatória (ex.: UFSCar, UNICAMP, IPT)
 - **Coexecutoras:** Opcional (outras empresas)
 
 ### Documentos Baixados
@@ -50,7 +50,7 @@ EDITAIS/01_FINEP_MAIS_INOVACAO/
 ### Próximos Passos (conforme áudio André Blanco)
 
 1. 🔄 André vai enviar documentos complementares da linha de recurso
-2. 📅 Reunião de alinhamento nesta semana (Fábrica Modelo + Vaga Lúmen + ECOSALA)
+2. 📅 Reunião de alinhamento com Fábrica Modelo
 3. 🏗️ Definir arranjo do projeto: proponente (empresa) + ICT parceira + coexecutoras
 4. 📝 Preparar proposta para Linha 4 – Moradia Sustentável
 5. 🗓️ Prazo: 31/08/2026

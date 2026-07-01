@@ -32,7 +32,7 @@ Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + 
 
 | Parceiro | Papel | Contato |
 |----------|-------|---------|
-| **André Blanco** (IFSP/TEIA) | Coordenação técnica, articulação ICT, ABNT Comissão 6263 | Via repositório |
+| **André Blanco** (IFSP) | Coordenação técnica, articulação ICT, ABNT Comissão 6263 | Via repositório |
 | **Maurilio Chiaretti** | Articulação política, Fed. Nacional dos Arquitetos, habitação social | Via repositório |
 | **Michel / Texos** | Proponente candidato — tecnologia painéis (patente CDHU/Caixa) | Via repositório |
 | **Fabio Takwara** | Assessoria técnico-científica, curadoria, redação da proposta | fabiotakwara@gmail.com |
