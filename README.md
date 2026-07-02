@@ -10,6 +10,8 @@
 
 Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** para submeter ao edital **FINEP Mais Inovação** um projeto de P&amp;D que tem o **sistema construtivo Techsus** (patenteado, CDHU/Caixa) como tecnologia central, com linhas de aprimoramento em descarbonização, materiais complementares e certificação ambiental.
 
+> ⚠️ **Correção de atribuição:** O método de curadoria documental (8 seções) é de autoria da **Dra. Nathalia Cavitioli**. Todas as referências a "Cavichioli" foram corrigidas para "Cavitioli" em 236 arquivos do Acervo Científico. Incluir disclaimer de compliance ao final de fichas: `scripts/atribuicao_cavitioli.py`
+
 ### Peças de Apresentação
 
 | Arquivo | Formato | Para quê |
