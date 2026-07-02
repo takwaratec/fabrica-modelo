@@ -241,9 +241,9 @@ FASE 3 — FECHAMENTO (01/08 a 31/08)
 | Documento | Localização | Status |
 |-----------|-------------|--------|
 | Pauta da Reunião | `Mentoria_Tecnologia_Takwara/PLANOS/PAUTA_REUNIAO_FABRICA_MODELO.md` | ✅ Commitado |
-| Ficha André Blanco | `Analises-e-escrita-cientifica/` | ✅ Criada |
-| Fichas científicas (17) — LEED, AQUA, Casa Azul, VERRA, Gold Standard, ACV, Impactos Cimento, SMGA, PU Vegetal, Bambu | `Analises-e-escrita-cientifica/docs/analises/` | ✅ Criadas |
-| Extração de dados das fichas | `Mentoria_Tecnologia_Takwara/extracao-dados-fichas-cientificas.md (Analises-e-escrita-cientifica/docs/)` | ✅ Criado |
+| Ficha André Blanco | `acervo-soberania-tecnologica/` | ✅ Criada |
+| Fichas científicas (17) — LEED, AQUA, Casa Azul, VERRA, Gold Standard, ACV, Impactos Cimento, SMGA, PU Vegetal, Bambu | `acervo-soberania-tecnologica/docs/analises/` | ✅ Criadas |
+| Extração de dados das fichas | `Mentoria_Tecnologia_Takwara/extracao-dados-fichas-cientificas.md (acervo-soberania-tecnologica/docs/)` | ✅ Criado |
 | Roteiro de Defesa (pronunciamento) | `~/Documents/roteiros/ROTEIRO_DEFESA_CONTRA_CONCRETO.md` | ✅ Criado (fora de git) |
 | Repositório Fábrica Modelo | `github.com/takwaratec/fabrica-modelo` | ✅ Criado |
 | Edital FINEP Mais Inovação | `fabrica-modelo/EDITAIS/` | ✅ Baixado |

@@ -28,10 +28,10 @@ Pessoal, segue a ATA completa da reunião de hoje com tudo que produzimos e enca
 📌 *LINKS ÚTEIS:*
 
 • Repositório do projeto: github.com/takwaratec/fabrica-modelo
-• Acervo Científico: github.com/takwaratec/Analises-e-escrita-cientifica
+• Acervo Científico: github.com/takwaratec/acervo-soberania-tecnologica
 • ATA completa: github.com/takwaratec/fabrica-modelo/blob/main/docs/ATA_REUNIAO_3006.md
 • Cartas de Intenção: github.com/takwaratec/fabrica-modelo/tree/main/docs
-• Ficha André: github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md
+• Ficha André: github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md
 
 📌 *PRÓXIMO PASSO:*
 André, se puder dar uma olhada na sua ficha e nos materiais extraídos do Drive pra confirmar se está tudo certo. Maurilio, aguardamos o retorno da conversa com o Michel.

@@ -85,7 +85,7 @@ Antes de qualquer intervencao no territorio, sera aplicado o **Protocolo de Cons
 
 **📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo do projeto (link abaixo). Se quiser revisar ou sugerir alterações, envie para fabiotakwara@gmail.com.
 75|75|
-76|76|🔗 **Ficha no Acervo:** [perfil-ludmila-correia.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-ludmila-correia.md)
+76|76|🔗 **Ficha no Acervo:** [perfil-ludmila-correia.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-ludmila-correia.md)
 77|77|🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
 78|78|
 79|79|---

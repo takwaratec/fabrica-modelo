@@ -127,9 +127,9 @@ O foco do P&D não é substituir o sistema Techsus, mas **aprimorá-lo** com:
 | **Selo Casa Azul + Caixa** | HIS financiada pela Caixa | **Ouro (39+)** — gratuita, critério Inovação aberto a bambu e bioconstrução |
 
 > 🔗 Fichas completas no Acervo Científico:
-> - [LEED](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-leed.md)
-> - [AQUA-HQE](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-aqua-hqe.md)
-> - [Casa Azul](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-casa-azul.md)
+> - [LEED](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-leed.md)
+> - [AQUA-HQE](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-aqua-hqe.md)
+> - [Casa Azul](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/07_governanca-projetos/ficha-certificacao-casa-azul.md)
 
 ---
 

@@ -84,7 +84,7 @@ Antes de qualquer intervencao no territorio, sera aplicado o **Protocolo de Cons
 
 **📋 Nota:** Preparamos ficha científica com seu perfil no Acervo. Se quiser revisar, o link está abaixo — enviar atualizações para fabiotakwara@gmail.com.
 74|74|
-75|75|🔗 **Ficha no Acervo:** [perfil-humberto-furtado-ufsc.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-humberto-furtado-ufsc.md)
+75|75|🔗 **Ficha no Acervo:** [perfil-humberto-furtado-ufsc.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-humberto-furtado-ufsc.md)
 76|76|🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
 77|77|
 78|78|---

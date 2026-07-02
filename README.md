@@ -42,9 +42,9 @@ O projeto prevê a **inclusão de comunidades, assentamentos e territórios** co
 
 A **avaliação de impacto social** será estruturada com o suporte das ferramentas da **Dra. Daniela Maciel (Embrapa Territorial)**, membro do **ECOSALA** — iniciativa de pesquisadores e educadores cuja atuação abrange o Mário Lago, demais assentamentos já identificados e o próprio edital da FINEP:
 
-- 🔗 [Perfil Daniela Maciel](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/daniela-maciel.md) — Doutora em Política Científica e Tecnológica (Unicamp), especialista em avaliação de impacto e inovação agrícola
-- 🔗 [TerImpact Ex-Ante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) — Ferramenta de avaliação ex-ante de projetos de pesquisa (código aberto)
-- 🔗 [AgroRadarEval](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) — Gestão de P&D orientada a impacto societal (RRI/RRA)
+- 🔗 [Perfil Daniela Maciel](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/ecosala/daniela-maciel.md) — Doutora em Política Científica e Tecnológica (Unicamp), especialista em avaliação de impacto e inovação agrícola
+- 🔗 [TerImpact Ex-Ante](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) — Ferramenta de avaliação ex-ante de projetos de pesquisa (código aberto)
+- 🔗 [AgroRadarEval](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) — Gestão de P&D orientada a impacto societal (RRI/RRA)
 
 Valor do projeto: **R$ 5.000.000,00 a R$ 10.000.000,00** · Subvenção FINEP + contrapartida das empresas proponentes.
 
@@ -106,7 +106,7 @@ Pessoas com vínculo confirmado no projeto:
 | **Maurilio Chiaretti** | FNA / Sind. Arq. | André Blanco | Aceito | Articulação política, HIS |
 | **Fabio Takwara** | Ecolaborativa | André Blanco | Aceito | Assessoria técnico-científica |
 
-📄 Perfis completos no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
+📄 Perfis completos no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/index.md)
 
 ### 🔄 Prospecção em Andamento
 
@@ -256,7 +256,7 @@ Pesquisa aprofundada realizada via Gemini Deep Research em 01/07/2026. Perfis co
 | **SC** 🟣 | **UFSC** | Humberto C. Furtado | ✅ | ⚠️ | ⭐4 | Carta enviada |
 
 📄 Pesquisa completa: [`docs/pesquisas/pesquisas-ict/Pesquisa prompt-icts-multiplicadoras.md`](docs/pesquisas/pesquisas-ict/Pesquisa%20prompt-icts-multiplicadoras.md)
-📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
+📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/index.md)
 
 ### 🧑‍🤝‍🧑 Prova Social — Indicação de Comunidades por ICT
 
@@ -367,8 +367,8 @@ graph LR
 
 | Documento | Local |
 |-----------|-------|
-| **Acervo Científico** (fichas, perfis, referências) | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
-| **Índice do projeto no Acervo** | [Acervo — fabrica-modelo/index.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md) |
+| **Acervo Científico** (fichas, perfis, referências) | [github.com/takwaratec/acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) |
+| **Índice do projeto no Acervo** | [Acervo — fabrica-modelo/index.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/index.md) |
 | **Pesquisa ICTs completa** | [`docs/pesquisas/pesquisas-ict/pesquisa-gemini-deep-research-icts.md`](docs/pesquisas/pesquisas-ict/pesquisa-gemini-deep-research-icts.md) |
 
 ---

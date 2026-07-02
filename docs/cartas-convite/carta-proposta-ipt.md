@@ -74,7 +74,7 @@ O **Grupo Executor Fábrica Modelo** articula proposta ao edital **FINEP Mais In
 
 **📋 Nota:** Preparamos uma ficha do IPT no Acervo do projeto. Se quiser revisar, envie para fabiotakwara@gmail.com.
 
-🔗 **Perfil no Acervo:** [perfil-ipt-marcelo-guedes.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-ipt-marcelo-guedes.md)
+🔗 **Perfil no Acervo:** [perfil-ipt-marcelo-guedes.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-ipt-marcelo-guedes.md)
 🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
 
 ---

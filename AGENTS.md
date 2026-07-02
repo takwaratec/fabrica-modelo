@@ -49,7 +49,7 @@ Se você está num repositório de projeto parceiro (ex: André recebeu acesso):
 1. **Leia este AGENTS.md** antes de qualquer ação — ele define o escopo
 2. **Consulte a Mentoria master** (`Mentoria_Tecnologia_Takwara/FRENTES_DE_TRABALHO.md`) para entender o ecossistema
 3. **Regra de ouro:** um documento, um repositório. Se não é deste projeto, não coloque aqui
-4. **Para referências científicas**, consulte o Acervo em `Analises-e-escrita-cientifica`
+4. **Para referências científicas**, consulte o Acervo em `acervo-soberania-tecnologica`
 5. **Comunicação:** áudios identificados no WhatsApp (quem fala, sobre qual documento/item)
 6. **Proponente não pode ser fornecedor** — Imperveg entra como fornecedor, não proponente
 
@@ -58,7 +58,7 @@ Se você está num repositório de projeto parceiro (ex: André recebeu acesso):
 | O quê | Onde |
 |-------|------|
 | Mentoria master | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
-| Acervo Científico | `github.com/takwaratec/Analises-e-escrita-cientifica` |
+| Acervo Científico | `github.com/takwaratec/acervo-soberania-tecnologica` |
 | ECOSALA | `github.com/takwaratec/ECOSALA` |
 | Pauta reunião | `docs/pauta-reuniao-fabrica-modelo.md` |
 | Transcrição | `docs/transcricoes/TRANSCRICAO_REUNIAO_3006.md` |

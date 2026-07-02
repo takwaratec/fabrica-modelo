@@ -82,8 +82,8 @@ graph LR
 | Recurso | Link |
 |---------|------|
 | README do Projeto | [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) |
-| Acervo Científico | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
-| Índice no Acervo | [Index](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md) |
+| Acervo Científico | [github.com/takwaratec/acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) |
+| Índice no Acervo | [Index](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/index.md) |
 | Modelo de CLPI | [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md) |
 | Acordo Cooperação Técnica | [`docs/editais/modelo-acordo-cooperacao-tecnica.md`](docs/editais/modelo-acordo-cooperacao-tecnica.md) |
 

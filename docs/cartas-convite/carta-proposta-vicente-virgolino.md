@@ -73,7 +73,7 @@ O **Grupo Executor Fábrica Modelo** está articulando uma proposta ao edital **
 
 **📋 Nota:** Preparamos uma ficha científica com seu perfil no Acervo (link abaixo). Se quiser revisar, envie para fabiotakwara@gmail.com.
 
-🔗 **Ficha no Acervo:** [perfil-vicente-virgolino.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-vicente-virgolino.md)
+🔗 **Ficha no Acervo:** [perfil-vicente-virgolino.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-vicente-virgolino.md)
 🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
 
 ---

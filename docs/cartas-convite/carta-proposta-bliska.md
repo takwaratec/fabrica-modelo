@@ -90,11 +90,11 @@ Desenvolvemos um **protocolo integrado de preservação** que substitui todo o a
 Esse protocolo **potencializa a escala de tratamento** porque elimina a dependência de químicos industriais de alto custo, integra o pirolenhoso como subproduto do Forno Ecológico MPTDF, e usa PU Vegetal produzido nacionalmente — **carbono negativo em toda a cadeia**.
 
 🔗 **Fichas no Acervo Científico:**
-- [Tratamento Sem Veneno (vapor saturado)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/ficha-tratamento-sem-veneno.md)
-- [Tratamento Alcalino — Revisão Técnica](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/SCI_014_POLYMERS_ALKALI_TREATMENT.md)
-- [Pirolenhoso Antifúngico — Revisão](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/02_tratamento-bambu/resenha-silva-2011-tratamento-pirolenhoso.md)
-- [UG 132 A — Impermeabilizante PU Vegetal](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md)
-- [MAMONEX RD70 — Espuma Expansiva Vegetal](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md)
+- [Tratamento Sem Veneno (vapor saturado)](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_tratamento-bambu/ficha-tratamento-sem-veneno.md)
+- [Tratamento Alcalino — Revisão Técnica](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_tratamento-bambu/SCI_014_POLYMERS_ALKALI_TREATMENT.md)
+- [Pirolenhoso Antifúngico — Revisão](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_tratamento-bambu/resenha-silva-2011-tratamento-pirolenhoso.md)
+- [UG 132 A — Impermeabilizante PU Vegetal](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md)
+- [MAMONEX RD70 — Espuma Expansiva Vegetal](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md)
 
 ### 2. Cadeia de Suprimentos Estruturada
 
@@ -106,7 +106,7 @@ Para viabilizar a **industrialização das estufas em escala**, o projeto articu
 
 Esse arranjo resolve o **gargalo histórico de desabastecimento** que trava a cadeia produtiva do bambu no Brasil: sem oferta regular de material tratado com qualidade industrial, nenhuma construtora ou agroindústria consegue escalar.
 
-🔗 [Holambra Conectada — Ficha do Projeto](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
+🔗 [Holambra Conectada — Ficha do Projeto](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md)
 
 ---
 
@@ -149,7 +149,7 @@ As tecnologias prototipadas serão difundidas em comunidades indicadas pelas ICT
 
 **📋 Nota:** Preparamos um índice com seu perfil e produção no Acervo. Se quiser revisar, envie para fabiotakwara@gmail.com.
 
-🔗 **Índice no Acervo:** [Bliska — Índice de Fichas](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/index-bliska.md)
+🔗 **Índice no Acervo:** [Bliska — Índice de Fichas](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/index-bliska.md)
 🔗 **README do Projeto:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo)
 
 ---

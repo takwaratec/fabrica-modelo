@@ -23,7 +23,7 @@ Pessoal, segue o resumo do que produzimos hoje (30/06) e os encaminhamentos:
 📌 LINKS:
 • Projeto: github.com/takwaratec/fabrica-modelo
 • ATA: github.com/takwaratec/fabrica-modelo/blob/main/docs/ATA_REUNIAO_3006.md
-• Ficha André: github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md
+• Ficha André: github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/ecosala/perfil-andre-blanco.md
 
 André, dá uma olhada na sua ficha e nos materiais extraídos do Drive pra confirmar se está tudo certo. Maurilio, aguardamos o retorno da conversa com o Michel.
 

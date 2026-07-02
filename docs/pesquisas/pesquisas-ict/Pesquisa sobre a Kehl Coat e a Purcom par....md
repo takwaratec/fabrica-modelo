@@ -1,4 +1,4 @@
-Aqui estão as fichas técnicas estruturadas para a catalogação da **Kehlcoat** e da **Purcom** no *Acervo Científico* (Analises-e-escrita-cientifica), seguidas pelo modelo jurídico padrão de Acordo de Cooperação Técnica sem repasse financeiro, desenhado especificamente para blindar o projeto **Fábrica Modelo** contra inabilitações no edital **FINEP Mais Inovação**.
+Aqui estão as fichas técnicas estruturadas para a catalogação da **Kehlcoat** e da **Purcom** no *Acervo Científico* (acervo-soberania-tecnologica), seguidas pelo modelo jurídico padrão de Acordo de Cooperação Técnica sem repasse financeiro, desenhado especificamente para blindar o projeto **Fábrica Modelo** contra inabilitações no edital **FINEP Mais Inovação**.
 
 ## **📁 Fichas de Catalogação (Acervo Científico)**
 
@@ -79,7 +79,7 @@ Conforme a fronteira do projeto, salve o contrato acima em um arquivo .md na pas
 Para compreender como as grandes formulações químicas de poliuretano e espumas rígidas se comportam industrialmente no preenchimento de elementos construtivos, você pode assistir à apresentação institucional sobre os [Sistemas de Poliuretano Purcom e a Plataforma de Soluções](https://www.youtube.com/watch?v=Ur_13cNR4og), que detalha a infraestrutura do Centro de Inteligência e a flexibilidade das formulações ecológicas aplicadas à engenharia de produtos.
 
 Com base nas diretrizes do ecossistema e cruzando o histórico de desenvolvimento do Poliuretano Rígido e Vegetal com a infraestrutura das empresas citadas, o mapeamento de parcerias e o acervo científico para referenciamento técnico e documental da proposta foi estruturado.  
-As informações abaixo devem ser salvas no repositório Analises-e-escrita-cientifica (na pasta docs/analises/08\_perfis-referencias/) para manter o escopo de fabrica-modelo focado estritamente na gestão do edital.
+As informações abaixo devem ser salvas no repositório acervo-soberania-tecnologica (na pasta docs/analises/08\_perfis-referencias/) para manter o escopo de fabrica-modelo focado estritamente na gestão do edital.
 
 ## **🔬 Acervo Científico e Parcerias Tecnológicas Catalogadas**
 

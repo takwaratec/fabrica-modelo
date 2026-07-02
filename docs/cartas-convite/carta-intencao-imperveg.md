@@ -63,7 +63,7 @@ A Imperveg entraria como **PARCEIRA TECNOLÓGICA E DOADORA DE INSUMOS**:
 | UL-94 — Inflamabilidade V-2 | UFSCar/UNESP, Brasil | UL 94 | 2010 |
 | Tratamentos de bambu como reforço em concreto | PUC-Rio (Naccache, Ghavami) | — | ~2015 |
 
-🔗 Coletânea completa de evidências no Acervo: [TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md)
+🔗 Coletânea completa de evidências no Acervo: [TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_nucleo-tecnologico/TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md)
 
 ## Políticas Nacionais Relacionadas
 
@@ -82,7 +82,7 @@ A Imperveg entraria como **PARCEIRA TECNOLÓGICA E DOADORA DE INSUMOS**:
 ---
 
 **📋 Documentos de referência:**
-🔗 [Índice Imperveg no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/imperveg-index.md) (21 fichas)
+🔗 [Índice Imperveg no Acervo](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/imperveg-index.md) (21 fichas)
 🔗 [Regras de Participação de Fornecedores](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/regras-participacao-fornecedores.md)
 🔗 [Modelo de Acordo de Cooperação Técnica](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/modelo-acordo-cooperacao-tecnica.md)
 🔗 [README do Projeto](https://github.com/takwaratec/fabrica-modelo)

@@ -2,7 +2,7 @@
 
 > **Instrução para o Hermes Agent.** Este prompt organiza a incorporação do mapeamento de ICTs e pesquisadores no repositório `fabrica-modelo`, respeitando as fronteiras e regras do AGENTS.md.
 >
-> **Regra de ouro:** Um documento, um repositório. Fichas científicas vão para o Acervo (Analises-e-escrita-cientifica). O README.md do projeto funciona como central de monitoramento de status e transparência de prospecção.
+> **Regra de ouro:** Um documento, um repositório. Fichas científicas vão para o Acervo (acervo-soberania-tecnologica). O README.md do projeto funciona como central de monitoramento de status e transparência de prospecção.
 
 ---
 
@@ -88,7 +88,7 @@ A tabela abaixo reflete o estado real de cada prospecção. Atualizar no README.
 | **SC** | **UFSC (Civil)** | ⭐4 | **Humberto C. Furtado** | Modelagem de conexões, estruturas geodésicas de bambu | A contactar | Carta enviada |
 
 📄 Pesquisa completa: [`docs/pesquisas/pesquisas-ict/Pesquisa prompt-icts-multiplicadoras.md`](docs/pesquisas/pesquisas-ict/Pesquisa%20prompt-icts-multiplicadoras.md)
-📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/fabrica-modelo/index.md)
+📄 Perfis no Acervo: [Índice Fábrica Modelo](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/fabrica-modelo/index.md)
 
 ---
 

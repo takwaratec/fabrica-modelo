@@ -67,7 +67,7 @@ A Kehl entraria como **PARCEIRA TECNOLÓGICA E DOADORA DE INSUMOS**:
 ---
 
 **📋 Documentos de referência:**
-🔗 [Ficha da Kehl Polímeros LTDA (Kehlcoat) no Acervo](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-kehlcoat.md)
+🔗 [Ficha da Kehl Polímeros LTDA (Kehlcoat) no Acervo](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-kehlcoat.md)
 🔗 [Regras de Participação de Fornecedores](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/regras-participacao-fornecedores.md)
 🔗 [Modelo de Acordo de Cooperação Técnica](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/editais/modelo-acordo-cooperacao-tecnica.md)
 🔗 [README do Projeto](https://github.com/takwaratec/fabrica-modelo)

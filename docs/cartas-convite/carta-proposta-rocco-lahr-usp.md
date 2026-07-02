@@ -56,7 +56,7 @@
 55|## Para Conhecer o Projeto
 56|
 57|- **Repositório completo:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) — README com visão geral, parceiros, critérios do edital e políticas nacionais relacionadas (PNMCB, PNRS, Bioeconomia)
-58|- **Ficha do pesquisador no Acervo Científico:** [Perfil Rocco Lahr](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-rocco-lahr-usp.md)
+58|- **Ficha do pesquisador no Acervo Científico:** [Perfil Rocco Lahr](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-rocco-lahr-usp.md)
 59|
 60|---
 61|
@@ -88,7 +88,7 @@
 87|| Repositório | Conteúdo | Link |
 88||-------------|----------|------|
 89|| **fabrica-modelo** | Documentos do projeto | [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) |
-90|| **Analises-e-escrita-cientifica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+90|| **acervo-soberania-tecnologica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) |
 91|
 92|---
 93|
@@ -107,7 +107,7 @@
 106|
 107|**📋 Nota:** Preparamos uma ficha científica com seu perfil e produção no Acervo do projeto. Se quiser revisar, sugerir alterações ou incluir informações, o link está abaixo — basta enviar as atualizações para o Fabio (fabiotakwara@gmail.com).
 108|
-109|🔗 **Ficha no Acervo:** [Perfil Rocco Lahr](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/08_perfis-referencias/perfil-rocco-lahr-usp.md)
+109|🔗 **Ficha no Acervo:** [Perfil Rocco Lahr](https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/08_perfis-referencias/perfil-rocco-lahr-usp.md)
 110|
 111|---
 112|

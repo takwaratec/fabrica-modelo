@@ -53,7 +53,7 @@ Tecnologias de baixo custo, replicáveis e de fácil assimilação por comunidad
 ## Para Conhecer o Projeto
 
 - **Repositório completo:** [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) — README com visão geral, parceiros, critérios do edital e políticas nacionais relacionadas (PNMCB, PNRS, Bioeconomia)
-- **Acervo Científico do projeto:** [Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) — fichas técnicas, perfis de pesquisadores e referências
+- **Acervo Científico do projeto:** [acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) — fichas técnicas, perfis de pesquisadores e referências
 
 ---
 
@@ -85,7 +85,7 @@ Estamos abertos a discutir o formato mais adequado para a instituição.
 | Repositório | Conteúdo | Link |
 |-------------|----------|------|
 | **fabrica-modelo** | Documentos do projeto | [github.com/takwaratec/fabrica-modelo](https://github.com/takwaratec/fabrica-modelo) |
-| **Analises-e-escrita-cientifica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica) |
+| **acervo-soberania-tecnologica** | Acervo científico — fichas, análises, referências | [github.com/takwaratec/acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) |
 
 ---
 
