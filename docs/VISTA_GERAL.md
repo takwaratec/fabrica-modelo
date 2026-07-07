@@ -33,7 +33,13 @@ graph LR
 | Gisele Vilela | Embrapa | Remineralizadores |
 | Vicente Virgolino | IFB | Tratamento Bambu |
 
-**Proponente candidato:** Texos (Michel) — tecnologia de painéis, capital insuficiente para o teto mínimo FINEP, busca associação com empresa âncora.
+| **Proponente candidato:** Texos (Michel) — tecnologia de painéis, capital insuficiente para o teto mínimo FINEP, busca associação com empresa âncora.
+
+**PATENTE:** DATec Nº 024-B (origem DPB Brasitherm → Faleiros-Techsus)
+**IPT — Ensaios já realizados:** Acústica (IPT 980.629-203), Durabilidade (IPT 982.659-203), Resistência ao fogo 60 min (IPT 986.623-203), Estanqueidade
+
+**📋 Última reunião:** [07/07/2026 — Alinhamento FINEP com Michel](pesquisas/pesquisas-ict/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md)
+**3 eixos de P&D:** (1) Concreto + fibras (2) Otimização da ferragem (3) Bambu + PU vegetal
 
 ### Prospecção (20 prospects)
 
