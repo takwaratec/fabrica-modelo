@@ -82,7 +82,7 @@ Um dos criterios de pontuacao do edital FINEP e a **aplicacao das tecnologias em
 
 Antes de qualquer intervencao no territorio, sera aplicado o **Protocolo de Consentimento Livre, Previo e Informado (CLPI)**, em conformidade com as Salvaguardas de Cancun (REDD+) e a Convencao 169 da OIT. O Grupo Executor disponibiliza um modelo de CLPI como referencia.
 
-📄 Modelo de CLPI: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
+📄 Modelo de CLPI: [`../editais/modelo-clpi.md`](../editais/modelo-clpi.md)
 
 ---
 

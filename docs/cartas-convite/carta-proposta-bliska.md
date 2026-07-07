@@ -131,7 +131,7 @@ Se o senhor conseguir um parceiro de Holambra (empresa de fruticultura ou floric
 
 As tecnologias prototipadas serão difundidas em comunidades indicadas pelas ICTs parceiras, com **Consentimento Livre, Prévio e Informado (CLPI)** assinado antes de qualquer implantação (Salvaguardas de Cancún, OIT 169).
 
-📄 Modelo: [`docs/editais/modelo-clpi.md`](docs/editais/modelo-clpi.md)
+📄 Modelo: [`../editais/modelo-clpi.md`](../editais/modelo-clpi.md)
 
 ---
 
