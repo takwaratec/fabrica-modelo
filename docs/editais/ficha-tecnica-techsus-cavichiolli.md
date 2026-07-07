@@ -148,23 +148,25 @@ graph LR
 |---|-------|----------|-------|
 | 1 | **Compressão** | Concreto + fibras/resíduos | NBR 15575 |
 | 2 | **Tração na flexão** | Concreto + fibras/resíduos | NBR 15575 |
-| 3 | **Durabilidade** | Concreto + PU Vegetal | NBR 15575 |
-| 4 | **Adesão** | Concreto × PU Vegetal (Imperveg) | — |
+| 3 | **Durabilidade** | Concreto + PU Vegetal (UG 132 A) | NBR 15575 |
+| 4 | **Adesão** | Concreto × PU Vegetal (UG 132 A) | — |
 | 5 | **Inflamabilidade** | Compósitos (concreto + fibras + PU) | ✅ IPT faz |
-| 6 | **Estanqueidade** | Painéis com bambu + PU | — |
-| 7 | **Resistência ao fogo** | Painéis com bambu tratado | NBR 15575 |
-| 8 | **Tração do bambu** | Bambu tratado (termorretificação) + PU | — |
+| 6 | **Estanqueidade** | Painéis com bambu tratado + UG 132 A | — |
+| 7 | **Compósito MAMONEX RD70** | Bambu + espuma expansiva PU vegetal (70-200 MPa) em matriz cimentícia | Compressão, tração |
+| 8 | **Tração do bambu tratado** | Bambu (termorretificação) + PU vegetal | — |
 
-### 4.5. Referências Científicas para os Testes
+### 4.5. Base Científica (Acervo — Gaveta PU Vegetal)
 
-Os testes com PU vegetal (Imperveg) na matriz cimentícia se baseiam em estudos já consolidados no Acervo Científico:
+Os testes com PU vegetal Imperveg (UG 132 A e MAMONEX RD70) se baseiam em estudos já consolidados:
 
-| Estudo | Autor(es) | Ano | Contribuição | Acesso |
-|--------|-----------|:---:|--------------|--------|
-| **Tratamentos do Bambu como Reforço em Concreto** | Naccache, A.C.A.; Ghavami, K. (PUC-Rio) | 2015 | IC demonstrando que Imperveg UG 132 A reduz absorção de água do bambu a ~1,5%, equivalente ao Sikadur 32. Base para uso de PU vegetal como impermeabilizante em matriz cimentícia | Acervo Científico — `bambu-estrutural` |
-| **Life Cycle Assessment of Artisanal Bamboo Pole Production** | Araújo, L.M.; Gianelli, B.F.; Mancini, S.D.; Medeiros, G.A. (UNESP) | 2025 | DOI: 10.14295/bjs.v4i4.719 — ACV completa da produção de bambu Guadua angustifolia. HCT (toxicidade carcinogênica) = 93% do impacto, associado ao tratamento químico com boro. Justifica a substituição por tratamento termoquímico com PU vegetal | Acervo Científico — `bambu-estrutural` |
-| **LVL panels glued with castor oil-based polyurethane adhesive** | — (CERNE) | 2020 | DOI pendente — Painéis LVL com adesivo PU de mamona. Comprova a resistência estrutural do PU vegetal como adesivo para bambu | — |
-| **Potential Use of Castor Oil-Based PU Matrix Composite with Miriti Fiber** | — (PMC) | 2022 | DOI pendente — Compósito de PU vegetal com fibra de miriti. Base para testes de PU + fibras vegetais/resíduos | — |
+| Estudo | Autores | Contribuição | Link |
+|--------|---------|--------------|------|
+| **Imperveg UG 132 A em bambu para concreto** | Naccache & Ghavami (PUC-Rio, 2015) | Redução de absorção de água do bambu a ~1,5% com UG 132 A — equivalente ao Sikadur 32 (epóxi fóssil). Valida a impermeabilização vegetal em matriz cimentícia | [Acervo → bambu-estrutural](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/bambu-estrutural/) |
+| **ACV do Bambu Guadua** | Araújo, Mancini, Medeiros (UNESP, 2025) | DOI 10.14295/bjs.v4i4.719 — HCT = 93% do impacto (boro). Justifica a substituição por tratamento termoquímico com PU vegetal | [Acervo → bambu-estrutural](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/bambu-estrutural/) |
+| **PU de mamona como adesivo estrutural** | CERNE (2020) | LVL panels glued with castor oil PU. Valida resistência do PU vegetal em compósitos laminados | — |
+| **PU + fibras vegetais** | PMC/BMC (2022) | Castor Oil PU Matrix + Miriti Fiber. Base para compósitos de PU vegetal com fibras naturais | — |
+
+> **Acesso completo:** [Gaveta PU Vegetal](https://takwaratec.github.io/Analises-e-escrita-cientifica/analises/pu-vegetal/) e [Bambu Estrutural](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/bambu-estrutural/) no Acervo Soberania Tecnológica.
 
 ---
 

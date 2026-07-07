@@ -11,10 +11,11 @@
 **Participantes:** André Blanco, Maurilio Chiaretti, Fabio Takwara
 **Pauta:** Proposta FINEP Subvenção Econômica — Sistema Techsus
 
-**Três eixos de P&D definidos por Maurilio:**
+**Três eixos de P&D definidos por Maurilio (mais opção MAMONEX como leque para Michel):**
 1. **Melhoramento do concreto** — fibras, redução de peso, agregados reciclados
 2. **Otimização da ferragem** — redimensionamento estrutural, redução do aço (André)
-3. **Bambu + PU vegetal** — impermeabilização e tratamento do bambu com PU vegetal como material complementar
+3. **Bambu + PU vegetal** — impermeabilização do bambu (UG 132 A) para uso em componentes não-estruturais
+4. 🔬 **MAMONEX — Concreto Verde + Bambu** (prospecção) — PU expansivo de mamona como adesivo/impermeabilizante em compósitos de bambu para concreto de baixo carbono
 
 ---
 
@@ -53,7 +54,10 @@
 |---|------|-------------------|------------------|-------------------|----------|
 | 1 | **Concreto + Fibras** | Reduzir espessura, diminuir tela de aço, adicionar agregados | Novo traço com fibras vegetais, PET reciclado, pozolanas | Compressão, tração, durabilidade, fogo | **IPT** + **USP São Carlos** (Núcleo do Concreto) |
 | 2 | **Otimização da Ferragem** | Diminuir/reduzir aço nos painéis | Redimensionamento estrutural (André) — sem substituição por outros materiais | Tração, aderência, fogo | **IPT** |
-| 3 | **Bambu + PU Vegetal** | Impermeabilização do bambu com PU vegetal para uso em componentes não-estruturais | Bambu tratado (termorretificação) + PU vegetal Imperveg | Tração, compressão, aderência, inflamabilidade | **USP São Carlos** + **Imperveg** (doação de material) |
+| 3 | **Bambu + PU Vegetal (UG 132 A)** | Impermeabilização do bambu com PU vegetal para uso em componentes não-estruturais | Bambu tratado (termorretificação) + PU vegetal Imperveg UG 132 A | Absorção, tração, adesão | **USP São Carlos** + **Imperveg** (doação) |
+| 4 | 🔬 **MAMONEX — Concreto Verde** (prospecção) | PU expansivo (MAMONEX RD70) + bambu como compósito de baixo carbono para protótipos | Espuma de PU de mamona (70-200 MPa) expande 10x, preenche cavidades do bambu, cria adesão estrutural com matriz cimentícia | Compressão, tração, aderência, inflamabilidade | **USP São Carlos** + **Imperveg** |
+
+> **Base científica:** O uso do Imperveg UG 132 A (PU vegetal de mamona) como impermeabilizante do bambu foi validado por Naccache & Ghavami (PUC-Rio, 2015), demonstrando redução de absorção de água a ~1,5% — equivalente ao Sikadur 32 (epóxi petroquímico). O MAMONEX RD70 (espuma expansiva vegetal, 70-200 MPa) permite criar compósitos de bambu-PU com potencial para concreto de baixa pegada de carbono, conforme explanação de Fabio na reunião. [Fichas no Acervo Científico →](https://takwaratec.github.io/Analises-e-escrita-cientifica/analises/pu-vegetal/)
 
 ### Parceiros Técnicos (SP)
 
