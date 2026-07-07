@@ -49,7 +49,7 @@ plugins:
 nav:
   - Início: VISTA_GERAL.md
   - 📋 ATAS e Reuniões:
-    - ATA 07/07/2026 — FINEP + Fábrica Modelo: pesquisas/pesquisas-ict/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md
+    - ATA 07/07/2026 — FINEP + Fábrica Modelo: atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md
     - ATA 30/06/2026 — Alinhamento: atas-e-pautas/ATA_REUNIAO_3006.md
     - Pauta Reunião: atas-e-pautas/pauta-reuniao-fabrica-modelo.md
   - 🏗️ Sistema Construtivo:

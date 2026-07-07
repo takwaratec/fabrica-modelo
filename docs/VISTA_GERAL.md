@@ -6,7 +6,7 @@
 
 ## 📋 ATA 07/07/2026 — Alinhamento com Michel
 
-[ATA COMPLETA →](pesquisas/pesquisas-ict/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md)
+[ATA COMPLETA →](atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md)
 
 **Participantes:** André Blanco, Maurilio Chiaretti, Fabio Takwara
 **Pauta:** Proposta FINEP Subvenção Econômica — Sistema Techsus

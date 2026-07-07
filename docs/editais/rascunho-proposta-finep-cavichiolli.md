@@ -256,7 +256,7 @@ A proposta pode pontuar no critério Parcerias Sociais se incluir cooperativas d
 | Proposta Técnica Techsus — CDHU (83p) | `TRIAGEM BrUTA/` | Sistema construtivo completo, memoriais, projetos |
 | Apresentação Techsus — dez/2025 (42 slides) | `docs/materiais-andre/` | Patentes, mercado, processo produtivo, equipe |
 | Relatório Executivo — Parceria Estratégica | `TRIAGEM BrUTA/` | Contexto, pilares tecnológicos, modelo econômico |
-| ATA Reunião 07/07/2026 — FINEP | `docs/pesquisas/pesquisas-ict/` | 3 eixos de P&D, demandas de Michel, encaminhamentos |
+| ATA Reunião 07/07/2026 — FINEP | `docs/atas-e-pautas/` | 3 eixos de P&D, demandas de Michel, encaminhamentos |
 | Regulamento FINEP + Anexos | `EDITAIS/01_FINEP_MAIS_INOVACAO/` | Critérios, pontuação, valores, prazos |
 | Formulário Espelho FINEP | `docs/editais/` | Template para preenchimento na plataforma |
 | Cartas de Interesse (ICTs SP) | `docs/cartas-convite/` | IPT, USP, UNICAMP, Imperveg, Purcom, Kehl |

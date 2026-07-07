@@ -215,7 +215,7 @@ graph TD
 | Apresentação Techsus — dez/2025 (42 slides, extração texto) | `docs/materiais-andre/techsus_apresentacion_dez2025.md` |
 | Faleiros_Techsus_FINEP_Strategy.pdf (10p, imagem) | `TRIAGEM BrUTA/` |
 | Rascunho da Proposta FINEP (Cavichiolli) | `docs/editais/rascunho-proposta-finep-cavichiolli.md` |
-| ATA Reunião 07/07/2026 | `docs/pesquisas/pesquisas-ict/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md` |
+| ATA Reunião 07/07/2026 | `docs/atas-e-pautas/` | |
 
 ---
 
