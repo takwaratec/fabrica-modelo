@@ -45,6 +45,6 @@ plugins:
   - search
 
 nav:
-  - "Indice Completo": VISTA_GERAL.md
+  - "Indice Completo": index.md
   - "ATA 07/07/2026": atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md
   - "Ficha Tecnica - Sistema Techsus": editais/ficha-tecnica-techsus-cavichiolli.md
