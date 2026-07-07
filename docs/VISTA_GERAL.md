@@ -74,8 +74,12 @@
 | **Maurilio Chiaretti** | Articulação política, contrapartida, plano de negócio | R$ 40k (total time) | 5% |
 | **Fabio Takwara** | Assessoria técnico-científica, documentação, redação | R$ 40k (total time) | 5% |
 
-**Total elaboração:** R$ 40.000,00 (devido independentemente da aprovação)  
-**Pós-êxito:** 5% do valor captado (consultoria, acompanhamento, documentação)
+**Total elaboração:** R$ 40.000,00 (devido independentemente da aprovação FINEP)
+**Divisão:** Fabio / André / Maurilio
+**Pagamento:** 50% na aprovação do plano + 50% na aprovação do projeto para submissão  
+**⚠️ Ambos antes da submissão** — não depois.
+
+**Pós-êxito:** 5% do valor captado (consultoria, acompanhamento, documentação) — se e quando o projeto for contratado.
 
 ---
 
