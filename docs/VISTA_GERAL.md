@@ -13,8 +13,8 @@
 
 **Três eixos de P&D definidos por Maurilio:**
 1. **Melhoramento do concreto** — fibras, redução de peso, agregados reciclados
-2. **Otimização da ferragem** — diminuir/reduzir aço nos painéis
-3. **Bambu + PU vegetal** — como substituto parcial do aço
+2. **Otimização da ferragem** — redimensionamento estrutural, redução do aço (André)
+3. **Bambu + PU vegetal** — impermeabilização e tratamento do bambu com PU vegetal como material complementar
 
 ---
 
@@ -52,8 +52,8 @@
 | # | Eixo | O que Michel quer | Solução Proposta | Testes Necessários | Quem Faz |
 |---|------|-------------------|------------------|-------------------|----------|
 | 1 | **Concreto + Fibras** | Reduzir espessura, diminuir tela de aço, adicionar agregados | Novo traço com fibras vegetais, PET reciclado, pozolanas | Compressão, tração, durabilidade, fogo | **IPT** + **USP São Carlos** (Núcleo do Concreto) |
-| 2 | **Otimização da Ferragem** | Diminuir/reduzir aço nos painéis | Redimensionamento estrutural; barras de bambu resinado como substituto | Tração, aderência, fogo | **IPT** |
-| 3 | **Bambu + PU Vegetal** | Substituir aço onde possível | Bambu impermeabilizado com PU vegetal (Imperveg) + espuma expansiva MAMONEX RD70 | Tração, compressão, aderência, inflamabilidade | **USP São Carlos** + **Imperveg** (doação de material) |
+| 2 | **Otimização da Ferragem** | Diminuir/reduzir aço nos painéis | Redimensionamento estrutural (André) — sem substituição por outros materiais | Tração, aderência, fogo | **IPT** |
+| 3 | **Bambu + PU Vegetal** | Impermeabilização do bambu com PU vegetal para uso em componentes não-estruturais | Bambu tratado (termorretificação) + PU vegetal Imperveg | Tração, compressão, aderência, inflamabilidade | **USP São Carlos** + **Imperveg** (doação de material) |
 
 ### Parceiros Técnicos (SP)
 

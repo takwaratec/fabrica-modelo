@@ -65,7 +65,7 @@ licenca: CC BY 4.0
 |-----------|-------|
 | **Resistência mínima à desforma** | 8 MPa |
 | **Cura** | 48 horas com aspersão de água |
-| **Tipo** | Concreto armado convencional (objeto de P&D para substituições) |
+| **Tipo** | Concreto armado convencional — objeto de P&D para otimização (redução de peso e aço) |
 
 ---
 
@@ -152,12 +152,12 @@ graph LR
 | 4 | **Adesão** | Concreto × PU Vegetal (Imperveg) | — |
 | 5 | **Inflamabilidade** | Compósitos (concreto + fibras + PU) | ✅ IPT faz |
 | 6 | **Estanqueidade** | Painéis com bambu + PU | — |
-| 7 | **Resistência ao fogo** | Painéis com bambu resinado | NBR 15575 |
+| 7 | **Resistência ao fogo** | Painéis com bambu tratado | NBR 15575 |
 | 8 | **Tração do bambu** | Bambu tratado (termorretificação) + PU | — |
 
 ### 4.5. Referências Científicas para os Testes
 
-Os testes com PU vegetal (Imperveg) + fibras/resíduos + bambu em matriz cimentícia se baseiam em:
+Os testes com PU vegetal (Imperveg) na matriz cimentícia se baseiam em estudos já consolidados no Acervo Científico:
 
 | Estudo | Autor(es) | Ano | Contribuição | Acesso |
 |--------|-----------|:---:|--------------|--------|
