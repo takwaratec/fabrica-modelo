@@ -4,6 +4,58 @@
 
 ---
 
+## 🇧🇷 Plano Nacional de Industrialização da Habitação — TECHSUS
+
+> *"O Brasil possui tecnologia, capacidade industrial, recursos naturais e talento para liderar uma nova era da construção civil."* — **André Blanco**
+
+### A Visão
+
+Eliminar o **déficit habitacional brasileiro em uma década** (atualmente ~5,8 milhões de moradias) por meio da criação de uma nova indústria nacional de construção civil baseada em **fábricas regionais altamente industrializadas**, utilizando o sistema construtivo Techsus como plataforma tecnológica.
+
+### Os Desafios
+
+| Desafio | Impacto |
+|---------|---------|
+| **Déficit habitacional** | ~5,8 milhões de moradias (8,3% dos domicílios ocupados) |
+| **Baixa produtividade** | Construção convencional com alto desperdício e prazos longos |
+| **Mão de obra** | Escassez crescente — média de idade dos trabalhadores: 59 anos |
+| **Desperdício** | Elevado consumo de materiais e geração de resíduos |
+
+### A Solução Techsus — Rede Nacional de Fábricas
+
+O sistema Techsus permite transformar a construção civil em um **processo industrial**:
+
+| Componente | Produção |
+|------------|----------|
+| Paredes estruturais, de vedação, lajes, escadas | Pré-fabricados em fábrica (off-site) |
+| Montagem em obra | Mecanizada — dias, não semanas |
+
+**Modelo de expansão em rede:**
+1. **TECHSUS Holding** — controladora
+2. **TECHSUS Industrial** — produção e tecnologia
+3. **TECHSUS Operação** — logística e montagem
+4. **Fábricas regionais independentes** — participação acionária da holding
+5. **Financiamento estruturado** — imóveis, recebíveis, investidores institucionais
+
+### Impacto Esperado
+
+| Indicador | Estimativa |
+|-----------|:----------:|
+| Investimento total | Rede de fábricas em escala nacional |
+| Empregos diretos e indiretos | Milhares por região |
+| Redução do déficit | Meta: zerar em 10 anos |
+| Redução de custo | Significativa vs. alvenaria convencional |
+| Redução de CO₂ | Construção industrializada + materiais renováveis |
+| Exportação | Brasil como exportador de tecnologia construtiva |
+
+### O Primeiro Passo: FINEP Subvenção Econômica
+
+Este projeto FINEP é a **etapa de P&D e certificação** que viabilizará o plano maior: renovação das homologações, validação dos novos materiais (fibras, PU vegetal, bambu) e prototipagem para escala industrial.
+
+> Públicos-alvo para apresentação do plano: Presidência da República, Ministério das Cidades, BNDES, Caixa Econômica Federal, fundos soberanos e grandes investidores.
+
+---
+
 ## 📋 ATA 07/07/2026 — Alinhamento com Michel
 
 [ATA COMPLETA →](atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md)
