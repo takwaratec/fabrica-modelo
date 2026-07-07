@@ -27,7 +27,7 @@
 | **Modalidade** | Subvenção Econômica — Fluxo Contínuo |
 | **Arranjo** | Simples (1 proponente + ICTs) |
 | **Valor mínimo** | **R$ 5.000.000,00** |
-| **Contrapartida** | **5%** (R$ 250.000) — empresa de pequeno porte |
+| **Contrapartida** | **5%** (R$ 250.000) — investidor de menor porte (Faleiros fora por faturamento > R$ 10M) |
 | **ICT** | Mínimo 5% do orçamento (IPT) |
 | **Prazo execução** | 36 meses |
 | **Submissão** | **31/08/2026** ⚠️ |

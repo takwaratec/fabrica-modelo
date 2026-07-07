@@ -22,6 +22,24 @@ status: Relatório de Alucinações e Adaptação ao Escopo Real
 | **"Polo Industrial Aguaí-SP"** | Não existe um polo unificado. São empresas distintas em cidades diferentes | Separar: Techsus (Limeira) + Imperveg (Aguaí) |
 | **"UNICAMP modelagem térmico-acústica e ACV"** | Bliska foi prospectado, mas não há ICT confirmada com a UNICAMP. Está em prospecção | Sinalizar como "em prospecção" |
 
+### ⚠️ Inicialmente Marquei como Alucinação — Mas Estava Correto
+
+| Afirmação | Minha análise incorreta | Verdade |
+|-----------|------------------------|---------|
+| **Protocolo Takwara descrito como "termorretificação"** | Eu disse que o protocolo real é Diquada→Pirolenhoso→PU, sem termorretificação | ✅ **É termorretificação sim** — vapor saturado com diquada (alcalinização) + pirolenhoso (acidificação/correção) em duas etapas. O documento estava correto, eu que simplifiquei demais. |
+| **"Exclusão da Faleiros como proponente"** | Disse que a decisão não foi tomada | ✅ **Decidido: Faleiros está fora** — faturamento > R$10M elevaria contrapartida. Vamos buscar investidores de menor porte. |
+
+### Correção no Documento 3 — Protocolo Takwara
+
+O Roteiro de Desenvolvimento descreve corretamente:
+
+- **Forno Ecológico** → Termorretificação com vapor
+- **Etapa 1: Alcalinização** → Diquada (imersão em água corrente com cal/cinzas)
+- **Etapa 2: Acidificação/correção** → Pirolenhoso (ajuste de pH, proteção antifúngica)
+- **Selagem final** → PU Vegetal (Imperveg)
+
+O documento estava **certo**. A correção que eu propus estava **errada**.
+
 ### ✅ Informações Úteis (aproveitar)
 
 | Item | Aproveitar como |
@@ -61,7 +79,7 @@ status: Relatório de Alucinações e Adaptação ao Escopo Real
 
 | O que diz | Está errado | Correção |
 |-----------|-------------|----------|
-| **"Protocolo: Termorretificação → Alcalinização → Acidificação com pirolenhoso"** | O Protocolo Takwara real é: **Diquada (imersão) → Pirolenhoso (proteção) → PU Vegetal (selagem)**. Não usa termorretificação | Substituir pelo protocolo real |
+| **"Protocolo: Termorretificação → Alcalinização → Acidificação com pirolenhoso"** | Inicialmente eu critiquei, mas estava **CORRETO**. O processo real de termorretificação usa vapor saturado com diquada (alcalinização) + pirolenhoso (acidificação) em duas etapas. O documento estava certo. | ✅ Correto — manter |
 | **"pH ≈ 9.0-10.0" (notação LaTeX)** | Não renderiza em markdown | Substituir por "pH entre 9 e 10" se aplicável |
 | **"Aditivação Biogênica"** | Termo inventado pela IA | Substituir por "adição de fibras vegetais" |
 | **"Redução de aço por [image3]"** | Valor não especificado | Remover — deixar em aberto para o cálculo do André |
@@ -94,7 +112,7 @@ status: Relatório de Alucinações e Adaptação ao Escopo Real
 
 1. **Documento 1** — Substituir a ficha técnica pela versão que já criei em `docs/editais/ficha-tecnica-techsus-cavichiolli.md` (que já tem as correções aplicadas)
 2. **Documento 2 — Opções de Captação** — Extrair a matriz de competências e o conceito de 3 opções; descartar os valores financeiros não verificados
-3. **Documento 3 — Roteiro P&D** — A estrutura de 3 eixos está correta. Substituir o protocolo Takwara pelo real (Diquada → Pirolenhoso → PU) e remover as imagens quebradas
+3. **Documento 3 — Roteiro P&D** — A estrutura de 3 eixos está correta. Remover as imagens quebradas `[imageN]` e notação LaTeX. O protocolo Takwara descrito como termorretificação em 2 etapas está **correto**.
 4. **Manter os originais na pasta** como referência de "não usar" — não deletar (regra do acervo)
 
 ---
