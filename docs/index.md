@@ -205,6 +205,9 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 | 5 | Obter **contato nominal** USP São Carlos | André | Julho |
 | 6 | Verificar **cadastro FINEP** da empresa | Maurilio | Imediato |
 | 7 | Reunião com Michel para aprovação do escopo | André | 14/07 |
+| 8 | Revisar e assinar **minuta de contrato** de assessoria | Todos | Imediato |
+
+**📄 Minuta do contrato:** [`docs/editais/minuta-contrato-assessoria-finep.md`](editais/minuta-contrato-assessoria-finep.md) — R$ 40k elaboração + 5% pós-êxito.
 
 ---
 
