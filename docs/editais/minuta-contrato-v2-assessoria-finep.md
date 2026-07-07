@@ -124,5 +124,3 @@ São Paulo, ___ de __________ de 2026.
 ---
 
 > ⚠️ Minuta contratual de uso público e livre, com termos blindados de responsabilidade civil para assessoria de projetos e captação de fomento estruturado (CC BY 4.0).
->
-> **Correções aplicadas nesta v2:** Endereço da Techsus corrigido para Limeira/SP (não Aguaí-SP). YAML frontmatter formatado. Tabelas e seções organizadas para leitura.
