@@ -54,8 +54,8 @@
 |---|------|-------------------|------------------|-------------------|----------|
 | 1 | **Concreto + Fibras** | Reduzir espessura, diminuir tela de aço, adicionar agregados | Novo traço com fibras vegetais, PET reciclado, pozolanas | Compressão, tração, durabilidade, fogo | **IPT** + **USP São Carlos** (Núcleo do Concreto) |
 | 2 | **Otimização da Ferragem** | Diminuir/reduzir aço nos painéis | Redimensionamento estrutural (André) — sem substituição por outros materiais | Tração, aderência, fogo | **IPT** |
-| 3 | **Bambu + PU Vegetal (UG 132 A)** | Impermeabilização do bambu com PU vegetal para uso em componentes não-estruturais | Bambu tratado (termorretificação) + PU vegetal Imperveg UG 132 A | Absorção, tração, adesão | **USP São Carlos** + **Imperveg** (doação) |
-| 4 | 🔬 **MAMONEX — Concreto Verde** (prospecção) | PU expansivo (MAMONEX RD70) + bambu como compósito de baixo carbono para protótipos | Espuma de PU de mamona (70-200 MPa) expande 10x, preenche cavidades do bambu, cria adesão estrutural com matriz cimentícia | Compressão, tração, aderência, inflamabilidade | **USP São Carlos** + **Imperveg** |
+| 3 | **Bambu + PU Vegetal (UG 132 A)** | Impermeabilização do bambu com PU vegetal; validação do protocolo de tratamento (termorretificação) | Bambu tratado (Diquada + Pirolenhoso + PU) + Imperveg UG 132 A | Absorção, tração, adesão, validação de protocolo | **USP São Carlos** + **Imperveg** (doação) |
+| 4 | 🔬 **MAMONEX — Concreto Verde** (prospecção) | PU expansivo como liga para concreto aderir a fibras e resíduos; prototipagem de concreto vegetal | Espuma de PU de mamona (70-200 MPa) expande 10x; impermeabilização de pisos e paredes | Compressão, tração, aderência, inflamabilidade, prototipagem | **USP São Carlos** + **Imperveg** |
 
 > **Base científica:** O uso do Imperveg UG 132 A (PU vegetal de mamona) como impermeabilizante do bambu foi validado por Naccache & Ghavami (PUC-Rio, 2015), demonstrando redução de absorção de água a ~1,5% — equivalente ao Sikadur 32 (epóxi petroquímico). O MAMONEX RD70 (espuma expansiva vegetal, 70-200 MPa) permite criar compósitos de bambu-PU com potencial para concreto de baixa pegada de carbono, conforme explanação de Fabio na reunião. [Fichas no Acervo Científico →](https://takwaratec.github.io/Analises-e-escrita-cientifica/analises/pu-vegetal/)
 
@@ -67,6 +67,18 @@
 | **USP São Carlos** — Núcleo de Concreto | Testes com PU vegetal em matriz cimentícia, compósitos | André (contato existente) |
 | **Imperveg Polímeros Vegetais** (Aguaí-SP) | Fornecedor de PU vegetal para testes (doação) | Fabio |
 | **FUMEP Piracicaba** | CT alternativo (construção civil) | André |
+
+### 🔬 Testes Previstos (escopo completo)
+
+| # | Teste | Foco | Finalidade |
+|---|-------|------|------------|
+| 1 | **Industrialização — processos existentes** | Sistema Techsus (painéis, lajes) | Validação e melhoria incremental dos processos produtivos atuais |
+| 2 | **PU Vegetal como impermeabilizante** | Pisos, paredes, telhas | Aplicação do PU vegetal (UG 132 A) como impermeabilizante de superfícies |
+| 3 | **PU como liga para concreto + fibras/resíduos** | Concreto + PET + fibras vegetais | PU vegetal como agente de liga para aderência do concreto a resíduos |
+| 4 | **Compósitos bambu + PU Vegetal** | Bambu tratado + MAMONEX RD70 | Impermeabilização do bambu; adesão do concreto às fibras |
+| 5 | **Validação — protocolo de tratamento do bambu** | Termorretificação (Diquada + Pirolenhoso + PU) | Validação do Protocolo Takwara em escala laboratorial e industrial |
+| 6 | **Prototipagem — concreto vegetal** | Concreto + agregados vegetais + PU | Desenvolvimento de protótipo de concreto de baixa pegada de carbono |
+| 7 | **Ensaios normativos complementares** | Resistência, durabilidade, inflamabilidade, estanqueidade | Atendimento às normas NBR 15575 e correlatas |
 
 ### 📚 Estudos Correlatos no Acervo Científico (PU + Materiais Diversos)
 

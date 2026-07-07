@@ -48,10 +48,11 @@ Pesquisar dados técnicos atualizados do Sistema Construtivo Industrializado Fal
 ### 5. Patentes correlatas
 - Patentes de sistemas de paredes duplas de concreto com núcleo oco (similares ao Techsus)
 - Patentes de conectores para painéis pré-fabricados de concreto
+### 6. PU vegetal em matriz cimentícia + PIBIT MAMONEX acústico
 
-### 6. PU vegetal em matriz cimentícia
 - Estudos com DOI sobre compatibilidade PU vegetal (mamona) + concreto/cimento
 - Artigos do grupo do Prof. Khosrow Ghavami (PUC-Rio) e da USP São Carlos sobre impermeabilização de fibras vegetais para concreto
+- **PIBIT Lucas Acioli + Ludmila Correia (CAU-DF/UNICEUB)** — ensaio de isolamento acústico da espuma expansiva MAMONEX RD70. Obter título, DOI, dados numéricos e PDF.
 
 ## Prioridade
 

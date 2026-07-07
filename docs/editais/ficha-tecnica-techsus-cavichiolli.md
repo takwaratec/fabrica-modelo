@@ -142,18 +142,17 @@ graph LR
 | Transporte | Carretas especiais com proteção |
 | Montagem | Escoramento metálico, prumo e nível |
 
-### 4.4. Escopo Completo de Testes IPT (Proposta FINEP)
+### 4.4. Escopo de Testes Previstos
 
-| # | Teste | Material | Norma |
-|---|-------|----------|-------|
-| 1 | **Compressão** | Concreto + fibras/resíduos | NBR 15575 |
-| 2 | **Tração na flexão** | Concreto + fibras/resíduos | NBR 15575 |
-| 3 | **Durabilidade** | Concreto + PU Vegetal (UG 132 A) | NBR 15575 |
-| 4 | **Adesão** | Concreto × PU Vegetal (UG 132 A) | — |
-| 5 | **Inflamabilidade** | Compósitos (concreto + fibras + PU) | ✅ IPT faz |
-| 6 | **Estanqueidade** | Painéis com bambu tratado + UG 132 A | — |
-| 7 | **Compósito MAMONEX RD70** | Bambu + espuma expansiva PU vegetal (70-200 MPa) em matriz cimentícia | Compressão, tração |
-| 8 | **Tração do bambu tratado** | Bambu (termorretificação) + PU vegetal | — |
+| # | Teste | Foco | Finalidade |
+|---|-------|------|------------|
+| 1 | **Industrialização — processos existentes** | Sistema Techsus (painéis, lajes) | Validação e melhoria incremental dos processos produtivos atuais |
+| 2 | **PU Vegetal como impermeabilizante** | Pisos, paredes, telhas | Aplicação do PU vegetal (UG 132 A) como impermeabilizante de superfícies |
+| 3 | **PU como liga para concreto + fibras/resíduos** | Concreto + PET + fibras vegetais | PU vegetal como agente de liga para aderência do concreto a resíduos |
+| 4 | **Compósitos bambu + PU Vegetal** | Bambu tratado + MAMONEX RD70 | Impermeabilização do bambu; adesão do concreto às fibras |
+| 5 | **Validação — protocolo de tratamento do bambu** | Termorretificação (Diquada + Pirolenhoso + PU) | Validação do Protocolo Takwara em escala laboratorial e industrial |
+| 6 | **Prototipagem — concreto vegetal** | Concreto + agregados vegetais + PU | Desenvolvimento de protótipo de concreto de baixa pegada de carbono |
+| 7 | **Ensaios normativos complementares** | Resistência, durabilidade, inflamabilidade, estanqueidade | Atendimento às normas NBR 15575 e correlatas |
 
 ### 4.5. Base Científica (Acervo — Gaveta PU Vegetal)
 
