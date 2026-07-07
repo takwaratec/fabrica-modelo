@@ -32,7 +32,7 @@ Maurilio Chiaretti propôs e o grupo aprovou **três eixos estruturantes** para 
 | **2** | **Estudo da ferragem** | Redimensionar a armadura de aço, reduzir quantidade sem perder desempenho estrutural. Cálculo estrutural otimizado. | André / IPT |
 | **3** | **Bambu como substituto/ complemento do aço** | Impermeabilização do bambu com PU vegetal (Imperveg), correção de pH do concreto para compatibilidade, ensaios de aderência e tração. Testes com bambu resinado + espuma expansiva PU (MAMONEX RD70). | Fabio / USP São Carlos |
 
-**Eixos transversais:** PU vegetal (Imperveg, PURCOM, Raquel Koch) para impermeabilização, revestimento texturizado e adesivo estrutural.
+**Eixos transversais:** PU vegetal (Imperveg, PURCOM, Kehl Coat) para impermeabilização, revestimento texturizado e adesivo estrutural.
 
 ---
 
@@ -59,7 +59,7 @@ Maurilio Chiaretti propôs e o grupo aprovou **três eixos estruturantes** para 
 | **FUMEP Piracicaba** | CT de construção civil. Alternativa viável. | André |
 | **UNIFEI / ITA São José dos Campos** | CT parceiro potencial. | André |
 | **Imperveg Polímeros Vegetais** | Fornecedor de PU vegetal para testes (doação de material). | Fabio |
-| **PURCOM / Raquel Koch** | Alternativa de PU vegetal para testes. Empresa maior, potencial patrocinadora. | Fabio |
+| **PURCOM / Kehl Coat** | Alternativa de PU vegetal para testes. Empresa maior, potencial patrocinadora. | Fabio |
 
 ---
 

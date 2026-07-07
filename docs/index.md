@@ -69,6 +69,9 @@
 | **USP São Carlos** — Núcleo de Concreto | Testes com PU vegetal em matriz cimentícia, compósitos | André (contato existente) |
 | **Imperveg Polímeros Vegetais** (Aguaí-SP) | Fornecedor de PU vegetal para testes (doação) | Fabio |
 | **FUMEP Piracicaba** | CT alternativo (construção civil) | André |
+| **PURCOM Química** | Alternativa de PU vegetal — empresa de grande porte, potencial patrocinadora | Fabio |
+
+> **Nota sobre fornecedores de PU vegetal:** Além da Imperveg (doadora de material para testes), foram mencionadas **PURCOM** (grande porte, potencial patrocínio) e **Kehl Coat** como fornecedores alternativos de poliuretano vegetal.
 
 ### 🔬 Testes Previstos (escopo completo)
 
