@@ -1,10 +1,10 @@
-site_name: Fábrica Modelo — Proposta FINEP Subvenção Econômica
-site_description: Documentação técnica e gerencial para submissão FINEP — Sistema Construtivo Faleiros-Techsus + P&D Takwara
+site_name: Fabrica Modelo - Proposta FINEP
+site_description: Documentacao para submissao FINEP - Sistema Techsus + P&D
 site_url: https://takwaratec.github.io/fabrica-modelo
 repo_url: https://github.com/takwaratec/fabrica-modelo
 repo_name: takwaratec/fabrica-modelo
 edit_uri: edit/main/docs/
-copyright: © Tecnologia Takwara, 2026. CC BY 4.0
+copyright: "(c) Tecnologia Takwara, 2026. CC BY 4.0"
 
 theme:
   name: material
@@ -27,8 +27,6 @@ theme:
     - navigation.top
     - search.highlight
     - content.code.copy
-  icon:
-    repo: fontawesome/brands/github
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -47,31 +45,8 @@ plugins:
   - search
 
 nav:
-  - Início: VISTA_GERAL.md
-  - 📋 ATAS e Reuniões:
-    - ATA 07/07/2026 — FINEP + Fábrica Modelo: atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md
-    - ATA 30/06/2026 — Alinhamento: atas-e-pautas/ATA_REUNIAO_3006.md
-    - Pauta Reunião: atas-e-pautas/pauta-reuniao-fabrica-modelo.md
-  - 🏗️ Sistema Construtivo:
-    - 📄 Ficha Técnica Cavichiolli: editais/ficha-tecnica-techsus-cavichiolli.md
-  - 📢 Editais:
-    - FINEP Mais Inovação (pasta): EDITAIS/01_FINEP_MAIS_INOVACAO/
-    - Formulário Espelho: editais/formulario-espelho-finep.md
-    - Proposal Teaser: editais/proposal-teaser.md
-    - 📄 Rascunho da Proposta (Cavichiolli): editais/rascunho-proposta-finep-cavichiolli.md
-  - 📄 Cartas-Convite (ICTs):
-    - Visão Geral: cartas-convite/carta-modelo-apresentacao-parceiros.md
-    - IPT: cartas-convite/carta-proposta-ipt.md
-    - USP (Rocco Lahr): cartas-convite/carta-proposta-rocco-lahr-usp.md
-    - UNICAMP (Bliska): cartas-convite/carta-proposta-bliska.md
-    - Imperveg: cartas-convite/carta-intencao-imperveg.md
-    - Faleiros: cartas-convite/carta-intencao-michel.md
-    - Purcom: cartas-convite/carta-cooperacao-purcom.md
-    - Kehl: cartas-convite/carta-cooperacao-kehl.md
-  - 📊 Documentos Técnicos:
-    - Relatório Executivo (parceria estratégica): https://github.com/takwaratec/fabrica-modelo/blob/main/TRIAGEM%20BrUTA/Relat%C3%B3rio%20Executivo_%20Parceria%20Estrat%C3%A9gica%20e%20Alavancagem%20Tecnol%C3%B3gica%20(Projeto%20F%C3%A1brica%20Modelo).md
-    - Proposta Técnica Techsus (PDF 83p): https://github.com/takwaratec/fabrica-modelo/blob/main/TRIAGEM%20BrUTA/PROPOSTA%20T%C3%89CNICA%20%20312%20-%20OFF%20SITE%20-%20TECHSUS%20-%20R9%20-%20HHU-TI%20(1).pdf
-    - Análise e Recomendações: analise-recomendacoes-proposta-unificada.md
-  - 🔗 Repositórios Irmãos:
-    - ECOSALA: https://takwaratec.github.io/ECOSALA/
-    - Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/
+  - "Indice Completo": VISTA_GERAL.md
+  - "ATA 07/07/2026": atas-e-pautas/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md
+  - "Ficha Tecnica - Sistema Techsus": editais/ficha-tecnica-techsus-cavichiolli.md
+  - "Edital FINEP": EDITAIS/01_FINEP_MAIS_INOVACAO/
+  - "Acervo Cientifico": https://takwaratec.github.io/Analises-e-escrita-cientifica/analises/pu-vegetal/
