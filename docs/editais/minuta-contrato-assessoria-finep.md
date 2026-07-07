@@ -21,7 +21,7 @@ partes:
 |-------|------|----------|
 | **CONTRATANTE** | Techsus Industrial Ltda. (Michel Zeenni) | — |
 | **CONTRATADA PRINCIPAL** | TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda. | CNPJ: 07.006.657/0001-90 |
-| **CONSULTORES ASSOCIADOS** | André Blanco, Maurilio Chiaretti, Fabio Takwara | — |
+| **CONSULTORES ASSOCIADOS** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação política), Fabio Takwara (assessoria técnico-científica) | — |
 
 ---
 
@@ -71,7 +71,7 @@ partes:
 
 ## CLÁUSULA 3ª — PRAZO
 
-3.1. O contrato vigorará por **24 (vinte e quatro) meses**, contados da data de assinatura, podendo ser renovado por acordo escrito entre as partes.
+3.1. O contrato vigorará por **36 (trinta e seis) meses**, em consonância com o prazo de execução do edital FINEP, contados da data de assinatura, podendo ser renovado por acordo escrito entre as partes.
 
 3.2. Qualquer das partes poderá rescindir o contrato com antecedência mínima de 30 (trinta) dias, ressalvadas as comissões já devidas.
 
