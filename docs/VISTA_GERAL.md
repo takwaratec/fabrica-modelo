@@ -32,6 +32,7 @@
 | **ICT** | Mínimo 5% do orçamento (IPT) |
 | **Prazo execução** | 36 meses |
 | **Submissão** | **31/08/2026** ⚠️ |
+| **Gancho estratégico** | Renovação de homologações CDHU, Caixa e DATec 024-B (vencidos) — a subvenção FINEP viabiliza a revalidação do sistema às normas vigentes |
 
 ---
 
@@ -40,10 +41,11 @@
 | Item | Dado |
 |------|------|
 | **Patente** | DATec Nº 024-B (DPB Brasitherm → Techsus/Faleiros) |
-| **Homologações** | CDHU Offsite 001/2024, Caixa Econômica Federal |
-| **Ensaios IPT já realizados** | Acústica (980.629-203), Durabilidade (982.659-203), Fogo 60min (986.623-203), Térmico (107.880-205) |
+| **Homologações** | CDHU Offsite 001/2024, Caixa Econômica Federal — ⚠️ **necessitam renovação** (gancho para subvenção FINEP) |
+| **Ensaios IPT já realizados** | Acústica, Durabilidade, Fogo 60min, Térmico, Estanqueidade (base 2008 — renovar) |
 | **Sistema** | Painéis nervurados pré-fabricados de concreto armado (140mm, dupla placa 42mm + 56mm ar) |
-| **TRL atual** | 7 (validado em ambiente operacional) |
+| **TRL atual** | 7 (protótipo CDHU aprovado) |
+| **DATec** | Nº 024-B — validade expirada out/2020 — renovação via IPT no escopo do projeto |
 | **Protótipo** | Casa HHU-TI (41m²) construída e aprovada CDHU |
 
 ---
@@ -123,16 +125,17 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 
 | Rubrica | Estimativa |
 |---------|:----------:|
-| Ensaios IPT e laboratórios | R$ 800.000 |
+| Renovação de homologações (IPT — DATec, CDHU, Caixa) | R$ 500.000 |
+| Ensaios de industrialização e compósitos (IPT + USP) | R$ 500.000 |
 | Materiais para P&D (Imperveg, fibras, bambu) | R$ 300.000 |
-| Prototipagem (3 unidades habitacionais) | R$ 500.000 |
+| Prototipagem (concreto vegetal + unidades) | R$ 500.000 |
 | Recursos humanos (equipe técnica) | R$ 1.500.000 |
-| ICTs (IPT + USP) | R$ 500.000 |
+| ICTs (IPT + USP São Carlos) | R$ 500.000 |
 | Consultoria, documentação, gestão | R$ 500.000 |
-| Despesas operacionais | R$ 300.000 |
+| Despesas operacionais (viagens, diárias) | R$ 300.000 |
 | Contrapartida (5%) | R$ 250.000 |
 | Equipamentos | R$ 400.000 |
-| **Total** | **R$ 5.050.000** |
+| **Total** | **R$ 5.250.000** |
 
 ---
 
@@ -157,6 +160,7 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 | Prazo curto (31/08) | Reuniões semanais; divisão desde já |
 | Cadastro FINEP da empresa | Verificar imediatamente |
 | Contrapartida R$ 250 mil | Michel R$ 100k + **buscar R$ 150k** — André prospectando parceiros |
+| Homologações vencidas (DATec, CDHU, Caixa) | ✅ **Gancho estratégico** — a renovação é o objeto central da subvenção FINEP |
 | Inflamabilidade (IPT) | ✅ **Confirmado — IPT faz** ensaios com compósitos |
 
 ---

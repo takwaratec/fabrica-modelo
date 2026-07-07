@@ -22,8 +22,8 @@ licenca: CC BY 4.0
 | **Origem** | Evolução do Sistema Brasitherm (DPB) | Proposta Técnica p.8 |
 | **Titular** | Techsus / Faleiros | Apresentação |
 | **Fundador** | Michel Zeenni — 40+ anos em cálculo estrutural e construção civil | Apresentação p.3 |
-| **Homologações** | ✅ CDHU (Offsite 001/2024), ✅ Caixa Econômica Federal, ✅ SINAT | Apresentação p.11 |
-| **DATec** | Nº 024-B — Documento de Avaliação Técnica IPT (validade out/2020) | Proposta Técnica p.62-63 |
+| **Homologações** | ✅ CDHU (Offsite 001/2024), ✅ Caixa Econômica Federal, ✅ SINAT — ⚠️ **necessitam renovação** | Apresentação p.11 |
+| **DATec** | Nº 024-B — Documento de Avaliação Técnica IPT (validade out/2020 — **expirada**) | Proposta Técnica p.62-63 |
 | **Patentes** | Requeridas/concedidas no Brasil, EUA e China | Apresentação p.10-11 |
 | **TRL** | 7 — Sistema validado em ambiente operacional | Relatório Executivo |
 | **Tipologias** | HHU-TI (casa térrea isolada) + HVM (prédio 4 andares) | Proposta Técnica p.42 |
