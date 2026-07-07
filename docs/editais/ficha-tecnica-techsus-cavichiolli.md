@@ -122,16 +122,6 @@ graph LR
 | **Resistência ao Fogo** | 986.623-203 | — | **60 minutos** com carga vertical de 77 kN/m |
 | **Estanqueidade** | — | — | Teste aprovado |
 
-### 4.2. Sistema Produtivo — Controles de Qualidade
-
-| Etapa | Controle |
-|-------|----------|
-| Concreto | Resistência mínima 8 MPa na desforma |
-| Geometria | Tolerância milimétrica (~1 mm) — encaixe exato |
-| Cura | Aspersão controlada por 48h |
-| Transporte | Carretas especiais com proteção |
-| Montagem | Escoramento metálico, prumo e nível |
-
 ### 4.3. DATec Nº 024-B
 
 | Campo | Dado |
@@ -141,6 +131,40 @@ graph LR
 | **Proponente original** | DPB (Domus Populi Brasitherm) Soluções Tecnológicas para Construção Civil S.A. |
 | **Validade** | Outubro de 2020 (a renovar) |
 | **Edificações** | Habitacionais de até 5 pavimentos |
+
+### 4.4. Sistema Produtivo — Controles de Qualidade
+
+| Etapa | Controle |
+|-------|----------|
+| Concreto | Resistência mínima 8 MPa na desforma |
+| Geometria | Tolerância milimétrica (~1 mm) — encaixe exato |
+| Cura | Aspersão controlada por 48h |
+| Transporte | Carretas especiais com proteção |
+| Montagem | Escoramento metálico, prumo e nível |
+
+### 4.4. Escopo Completo de Testes IPT (Proposta FINEP)
+
+| # | Teste | Material | Norma |
+|---|-------|----------|-------|
+| 1 | **Compressão** | Concreto + fibras/resíduos | NBR 15575 |
+| 2 | **Tração na flexão** | Concreto + fibras/resíduos | NBR 15575 |
+| 3 | **Durabilidade** | Concreto + PU Vegetal | NBR 15575 |
+| 4 | **Adesão** | Concreto × PU Vegetal (Imperveg) | — |
+| 5 | **Inflamabilidade** | Compósitos (concreto + fibras + PU) | ✅ IPT faz |
+| 6 | **Estanqueidade** | Painéis com bambu + PU | — |
+| 7 | **Resistência ao fogo** | Painéis com bambu resinado | NBR 15575 |
+| 8 | **Tração do bambu** | Bambu tratado (termorretificação) + PU | — |
+
+### 4.5. Referências Científicas para os Testes
+
+Os testes com PU vegetal (Imperveg) + fibras/resíduos + bambu em matriz cimentícia se baseiam em:
+
+| Estudo | Autor(es) | Ano | Contribuição | Acesso |
+|--------|-----------|:---:|--------------|--------|
+| **Tratamentos do Bambu como Reforço em Concreto** | Naccache, A.C.A.; Ghavami, K. (PUC-Rio) | 2015 | IC demonstrando que Imperveg UG 132 A reduz absorção de água do bambu a ~1,5%, equivalente ao Sikadur 32. Base para uso de PU vegetal como impermeabilizante em matriz cimentícia | Acervo Científico — `bambu-estrutural` |
+| **Life Cycle Assessment of Artisanal Bamboo Pole Production** | Araújo, L.M.; Gianelli, B.F.; Mancini, S.D.; Medeiros, G.A. (UNESP) | 2025 | DOI: 10.14295/bjs.v4i4.719 — ACV completa da produção de bambu Guadua angustifolia. HCT (toxicidade carcinogênica) = 93% do impacto, associado ao tratamento químico com boro. Justifica a substituição por tratamento termoquímico com PU vegetal | Acervo Científico — `bambu-estrutural` |
+| **LVL panels glued with castor oil-based polyurethane adhesive** | — (CERNE) | 2020 | DOI pendente — Painéis LVL com adesivo PU de mamona. Comprova a resistência estrutural do PU vegetal como adesivo para bambu | — |
+| **Potential Use of Castor Oil-Based PU Matrix Composite with Miriti Fiber** | — (PMC) | 2022 | DOI pendente — Compósito de PU vegetal com fibra de miriti. Base para testes de PU + fibras vegetais/resíduos | — |
 
 ---
 

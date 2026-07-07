@@ -27,7 +27,7 @@
 | **Modalidade** | Subvenção Econômica — Fluxo Contínuo |
 | **Arranjo** | Simples (1 proponente + ICTs) |
 | **Valor mínimo** | **R$ 5.000.000,00** |
-| **Contrapartida** | **5%** (R$ 250.000) — investidor de menor porte (Faleiros fora por faturamento > R$ 10M) |
+| **Contrapartida** | **5%** (R$ 250.000) — Michel entra com R$ 100k. **Buscar +R$ 150k** (André, parceiros) |
 | **ICT** | Mínimo 5% do orçamento (IPT) |
 | **Prazo execução** | 36 meses |
 | **Submissão** | **31/08/2026** ⚠️ |
@@ -107,7 +107,7 @@
 | 1 | Preparar **resumo executivo** (2-3p) | Fabio | 09/07 |
 | 2 | Enviar **modelo de contrato** | André | Imediato |
 | 3 | Levantar **orçamentos IPT** para ensaios | Fabio | Julho |
-| 4 | Confirmar com Michel se IPT faz **inflamabilidade** | Michel (via André) | Julho |
+| 6 | Confirmar com Michel se IPT faz **inflamabilidade** | Michel (via André) | ✅ **Confirmado — IPT faz** |
 | 5 | Obter **contato nominal** USP São Carlos | André | Julho |
 | 6 | Verificar **cadastro FINEP** da empresa | Maurilio | Imediato |
 | 7 | Reunião com Michel para aprovação do escopo | André | 14/07 |
@@ -120,8 +120,8 @@
 |-------|-----------|
 | Prazo curto (31/08) | Reuniões semanais; divisão desde já |
 | Cadastro FINEP da empresa | Verificar imediatamente |
-| Contrapartida R$ 250 mil | Michel sinalizou disponibilidade |
-| Inflamabilidade (IPT pode não fazer) | Confirmar; buscar alternativa |
+| Contrapartida R$ 250 mil | Michel R$ 100k + **buscar R$ 150k** — André prospectando parceiros |
+| Inflamabilidade (IPT) | ✅ **Confirmado — IPT faz** ensaios com compósitos |
 
 ---
 
