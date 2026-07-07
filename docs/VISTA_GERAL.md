@@ -94,11 +94,11 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 
 | Membro | Papel | Elaboração | Pós-êxito |
 |--------|-------|:----------:|:----------:|
-| **André Blanco** | Coord. técnica — sistema construtivo, articulação Faleiros-Techsus, IPT | R$ 40k (total time) | 5% |
-| **Maurilio Chiaretti** | Articulação política, contrapartida, plano de negócio | R$ 40k (total time) | 5% |
-| **Fabio Takwara** | Assessoria técnico-científica, documentação, redação | R$ 40k (total time) | 5% |
+| **André Blanco** | Coord. técnica — sistema construtivo, articulação Faleiros-Techsus, IPT | R$ 40k (total time, **dividido entre os 3**) | 5% |
+| **Maurilio Chiaretti** | Articulação política, contrapartida, plano de negócio | R$ 40k (total time, **dividido entre os 3**) | 5% |
+| **Fabio Takwara** | Assessoria técnico-científica, documentação, redação | R$ 40k (total time, **dividido entre os 3**) | 5% |
 
-**Total elaboração:** R$ 40.000,00 (devido independentemente da aprovação FINEP)
+**Total elaboração:** R$ 40.000,00 (devido independentemente da aprovação FINEP — **dividido entre Fabio, André e Maurilio**)
 **Divisão:** Fabio / André / Maurilio
 **Pagamento:** 50% na aprovação do plano + 50% na aprovação do projeto para submissão  
 **⚠️ Ambos antes da submissão** — não depois.
@@ -130,7 +130,7 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 |---|------|-------------|-------|
 | 1 | Preparar **resumo executivo** (2-3p) | Fabio | 09/07 |
 | 2 | Enviar **modelo de contrato** | André | Imediato |
-| 3 | Levantar **orçamentos IPT** para ensaios | Fabio | Julho |
+| 3 | Levantar **orçamentos IPT** para ensaios | **Michel** | Julho |
 | 6 | Confirmar com Michel se IPT faz **inflamabilidade** | Michel (via André) | ✅ **Confirmado — IPT faz** |
 | 5 | Obter **contato nominal** USP São Carlos | André | Julho |
 | 6 | Verificar **cadastro FINEP** da empresa | Maurilio | Imediato |
