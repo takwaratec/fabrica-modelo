@@ -55,15 +55,27 @@ Se você está num repositório de projeto parceiro (ex: André recebeu acesso):
 
 ## 🔗 Links externos
 
-| O quê | Onde |
-|-------|------|
-| Mentoria master | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
-| Acervo Científico | `github.com/takwaratec/acervo-soberania-tecnologica` |
-| ECOSALA | `github.com/takwaratec/ECOSALA` |
-| Pauta reunião | `docs/pauta-reuniao-fabrica-modelo.md` |
-| Transcrição | `docs/transcricoes/TRANSCRICAO_REUNIAO_3006.md` |
-| Carta Intenção Michel | `docs/carta-intencao-michel.md` |
-| Carta Intenção Imperveg | `docs/carta-intencao-imperveg.md` |
+|| O quê | Onde |
+||-------|------|
+|| Mentoria master | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
+|| Acervo Científico | `github.com/takwaratec/acervo-soberania-tecnologica` |
+|| ECOSALA | `github.com/takwaratec/ECOSALA` |
+|| Pauta reunião | `docs/pauta-reuniao-fabrica-modelo.md` |
+|| Transcrição | `docs/transcricoes/TRANSCRICAO_REUNIAO_3006.md` |
+|| Carta Intenção Michel | `docs/carta-intencao-michel.md` |
+|| Carta Intenção Imperveg | `docs/carta-intencao-imperveg.md` |
+
+## 📝 Regras de Citação para o Formulário FINEP
+
+1. **No texto:** usar apenas formato (Autor, Ano) — NUNCA colocar links de repositório
+2. **Bibliografia ao final:** formato ABNT completo — NUNCA usar metadados internos (TRL, "Ficha xxx", nomes de empresa)
+3. **NUNCA citar Fabio Takwara** na proposta FINEP — usar as fontes publicadas que ele referenciou
+4. **Consultar o Acervo Científico** (`acervo-soberania-tecnologica`) para obter citações já validadas com DOI
+5. **15 eixos temáticos de referência** (agrupados em 3 níveis):
+   - **Eixo Central (Techsus/Faleiros):** sistemas construtivos industrializados, HIS (CDHU/MCMV), certificação IPT, prova social
+   - **Eixo Suplementar:** pegada de carbono na construção, sequestro de carbono biogênico, ISO 14000/ACV/EPD, economia circular e PNRS
+   - **Eixo Complementar (P&D):** bambu amazônico, invasoras, propriedades fís/mec, manejo, tratamento ecológico, PU vegetal, biochar, regeneração de áreas degradadas
+6. **A fundamentação principal da proposta deve vir do Eixo Central (Techsus/Faleiros).** Os eixos complementares (bambu/PU) são P&D, não protagonistas.
 
 ---
 

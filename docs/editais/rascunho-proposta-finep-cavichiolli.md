@@ -34,8 +34,8 @@ status: Em Elaboração
 |-------|------|
 | **Empresa proponente** | Techsus / Faleiros (a definir) |
 | **Coexecutoras** | André Blanco (TEIA), Maurilio Chiaretti (FNA) |
-| **ICTs parceiras** | IPT, USP São Carlos, UFSCar, UNICAMP, UFRJ, UFSC, UFBA, UFAC, IF Goiano, UnB, IFB, CAU/DF |
-| **Fornecedores técnicos** | Imperveg, Purcom, Kehlcoat |
+| **ICTs parceiras (SP)** | IPT, USP São Carlos (Núcleo do Concreto), FUMEP Piracicaba |
+| **Fornecedores técnicos** | Imperveg (Aguaí-SP), Purcom, Kehlcoat |
 
 ---
 
@@ -47,14 +47,16 @@ status: Em Elaboração
 |-----------------------|-----------------------|:----:|
 | **Abrangência** (ineditismo) | Sistema com patentes no Brasil, EUA e China — inovação em nível nacional/mundial | 1 |
 | **Grau de Incerteza Tecnológica** | TRL 7→8 com inserção de fibras vegetais, bambu e PU vegetal — risco tecnológico médio-alto | 1 |
-| **Qualificação da Equipe** | Time com doutores (USP, UnB), mestres, arquitetos, engenheiros — 12 ICTs envolvidas | 1 |
-| **Composição dos Itens de Dispêndio** | 5% ICTs + testes IPT + prototipagem + materiais para P&D | 1 |
-| **Trajetória de Inovação** | Faleiros: 40+ anos. Techsus: patentes, protótipo CDHU, DATec Nº 024-B. IPT histórico. | 1 |
-| **Relevância do Tema** | Habitação de interesse social, déficit de 6M moradias, descarbonização, ESG | 1 |
-| **Externalidades** | Geração de emprego (manejo de bambu, cooperativas), redução de CO₂, crédito de carbono | 1 |
-| **Regionalização** | ICTs em 5 regiões (SP, DF, BA, AC, SC) — projeto com execução no Centro-Oeste e Nordeste | 1 |
-| **Parcerias Sociais** | Assentamento Mário Lago (MST), cooperativas de catadores, Agricultura Familiar | 1 |
-| **Total estimado** | | **17 pts** |
+| **Qualificação da Equipe** | Qualificação da Equipe — engenheiros, arquitetos, técnicos | 1 |
+| **Composição dos Itens de Dispêndio** | Composição dos Itens de Dispêndio | 1 |
+| **Trajetória de Inovação da Empresa** | Trajetória de Inovação da Empresa | 1 |
+| **Relevância do Tema Dentro das Prioridades** | Relevância do Tema | 1 |
+| **Externalidades** | Externalidades | 1 |
+| **Regionalização** | Regionalização | 1 |
+
+Como o projeto será executado em SP (Sudeste), não pontua no critério Regionalização. Compensar com pontuação máxima nos demais critérios.
+
+**Pontuação máxima possível:** 16 pts (eliminando Regionalização)
 
 ---
 
@@ -236,13 +238,14 @@ graph TD
 | Prédio HVM (4 andares) | Limeira/SP | CDHU | Homologação vertical |
 | Unidade autogestão | Assentamento Mário Lago/RP | MST + Coletivo Terra Viva | 570 famílias assentadas |
 
-### 7.3. Parcerias Sociais (pontua no edital)
+### 7.3. Parcerias Sociais (em prospecção)
 
-| Parceiro Social | Tipo | Região |
-|-----------------|------|--------|
-| Assentamento Mário Lago (MST) | Agricultura familiar | Ribeirão Preto/SP |
-| Cooperativas de catadores (PET, recicláveis) | Resíduos sólidos (PNRS) | Limeira/SP |
-| Estação Luz — Espaço Experimental | Ponto de Cultura | Ribeirão Preto/SP |
+A proposta pode pontuar no critério Parcerias Sociais se incluir cooperativas de catadores ou agricultura familiar. Está em avaliação incluir:
+
+- Cooperativa de catadores de materiais recicláveis na região de Limeira (PET para agregados)
+- Assentamento Mário Lago (MST) como possível beneficiário de protótipo em autogestão
+
+*A confirmar viabilidade e documentação dentro do prazo do edital.*
 
 ---
 
@@ -256,7 +259,7 @@ graph TD
 | ATA Reunião 07/07/2026 — FINEP | `docs/pesquisas/pesquisas-ict/` | 3 eixos de P&D, demandas de Michel, encaminhamentos |
 | Regulamento FINEP + Anexos | `EDITAIS/01_FINEP_MAIS_INOVACAO/` | Critérios, pontuação, valores, prazos |
 | Formulário Espelho FINEP | `docs/editais/` | Template para preenchimento na plataforma |
-| Cartas-Convite ICTs (17) | `docs/cartas-convite/` | Manifestação de interesse das ICTs parceiras |
+| Cartas de Interesse (ICTs SP) | `docs/cartas-convite/` | IPT, USP, UNICAMP, Imperveg, Purcom, Kehl |
 | ECOSALA — ATA 07/07 | `ECOSALA/docs/12_REUNIOES/` | Integração com coletivo de agroecologia |
 
 ---

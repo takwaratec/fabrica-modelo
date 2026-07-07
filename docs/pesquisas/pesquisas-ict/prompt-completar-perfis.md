@@ -1,140 +1,132 @@
-# PROMPT PARA PESQUISA ACADÊMICA PROFUNDA — PERFIS DE PESQUISADORES
+# PROMPT PARA PESQUISA ACADÊMICA — PERFIS DE PESQUISADORES
 
 ## Objetivo
-Realizar uma pesquisa exaustiva em bases acadêmicas (Lattes, Google Scholar, ResearchGate, ORCID, repositórios institucionais, periódicos SciELO e Scopus) para COMPLETAR e ENRIQUECER os perfis dos 12 pesquisadores listados abaixo, todos vinculados a um projeto de inovação em construção civil sustentável (FINEP Mais Inovação — Habitação Social).
-
-## Metodologia de Busca (para cada pesquisador)
-
-1. **Lattes:** Buscar na Plataforma Lattes (CNPq) pelo nome completo e variantes. Extrair: formação completa, artigos, orientações, projetos, prêmios.
-2. **Google Scholar:** Buscar perfil e artigos. Extrair: citações, h-index, artigos mais relevantes.
-3. **ORCID:** Verificar se há registro e artigos vinculados.
-4. **ResearchGate / Scopus / Web of Science:** Para os que têm produção internacional.
-5. **Repositórios institucionais:** UnB (repositorio.unb.br), IFSP, Embrapa (infoteca.cnptia.embrapa.br), UFSCar, UNICAMP.
-6. **LinkedIn:** Para dados profissionais e trajetória (quando disponível publicamente).
+Pesquisar em bases acadêmicas (Lattes, Google Scholar, ResearchGate, ORCID, SciELO, Scopus) para COMPLETAR os perfis dos pesquisadores abaixo, vinculados ao projeto FINEP Mais Inovação (Habitação Social) — Fábrica Modelo.
 
 ---
 
-## PESQUISADORES PARA INVESTIGAR
+## GRUPO A — Parceiros Diretos do Projeto (Prioridade Máxima)
 
-### GRUPO A — Parceiros Diretos do Projeto (prioridade máxima)
+### A1. Michel (Texos)
+- **Empresa:** Texos (grafia a confirmar — Texus? Tecsos?)
+- **Perfil:** Industrial — pode não ter Lattes
+- **Tecnologia:** Painéis estruturais com patente, acreditados CDHU e Caixa. Validação IPT em andamento.
+- **Papel:** Proponente principal FINEP
+- **Precisa:** Nome completo, CNPJ, endereço, currículo empresarial
+- **Buscar:** INPI (patentes), Junta Comercial, LinkedIn
 
-#### A1. Michel — Texos (indústria de painéis estruturais)
-- **Empresa:** Texos (grafia a confirmar — pode ser "Texus" ou "Tecsos")
-- **Tecnologia:** Painéis arquitetônicos estruturais com patente registrada, acreditados CDHU e Caixa Econômica Federal, em processo de validação no IPT
-- **Função:** Proponente principal do projeto FINEP
-- **O que buscar:** Nome completo, formação acadêmica, CNPJ da empresa, endereço, currículo, artigos ou patentes relacionados à tecnologia de painéis, histórico empresarial, participação em projetos de inovação anteriores
-- **OBS:** Pode não ter perfil acadêmico — buscar em bases empresariais (INPI para patentes, Junta Comercial, LinkedIn)
+### A2. André Blanco
+- **Instituição:** TEIA / Labiapa / PUC Campinas
+- **Formação:** Arquitetura e Urbanismo (PUC Campinas)
+- **Lattes:** Extraído do Drive (docs/materiais-andre/) — confirmar se existe ID público
+- **E-mail:** [PENDENTE — solicitar a André]
+- **Papel:** Coordenador técnico Fábrica Modelo. Bioarquitetura, geodésicas, habitação social, normalização ABNT 6263.
+- **Precisa:** Confirmar Lattes, e-mail institucional, artigos sobre APAs e bioconstrução. Há currículo .md no Drive para cruzar.
 
-#### A2. Prof. André Blanco
-- **Instituição:** IFSP (Instituto Federal de São Paulo) + TEIA
-- **Áreas:** Arquitetura e urbanismo, gestão de APAs, normalização ABNT 6263, habitação social, bioconstrução
-- **Lattes:** Extraído do Drive (já temos o currículo em .md)
-- **O que buscar:** Confirmar e-mail institucional no IFSP, artigos publicados (especialmente sobre APAs, ABNT 6263, bioconstrução), orientações, projetos de extensão. Verificar se há publicações sobre Labiapa e TEIA.
-- **Links de referência:** Currículo Lattes já extraído do Drive (docs/materiais-andre/)
-- **Buscar também:** perfil no Google Scholar, ResearchGate, LinkedIn
-
-#### A3. Daniela Maciel Pinto
+### A3. Daniela Maciel Pinto
 - **Instituição:** Embrapa Territorial (Campinas/SP)
 - **Lattes:** http://lattes.cnpq.br/9196370833242212
 - **ORCID:** 0000-0003-0539-622X
-- **GitHub:** github.com/danimaciel (20+ repositórios públicos)
-- **Áreas:** Avaliação de impacto de P&D, RRI (Responsible Research & Innovation), RRA (Research Assessment), transferência de tecnologia, inovação agrícola, ferramentas Streamlit/Python (TerImpact Ex-Ante, AgroRadarEval)
-- **O que buscar:** Artigos recentes (2025-2026) não catalogados, e-mail institucional (@embrapa.br), projetos em andamento, orientações de pós-graduação, participação em eventos. Verificar se há publicações sobre avaliação de impacto social aplicada à construção civil ou habitação.
+- **E-mail:** daniela.maciel@embrapa.br
+- **GitHub:** github.com/danimaciel
+- **Áreas:** Avaliação de impacto P&D, RRI, RRA, TerImpact Ex-Ante, AgroRadarEval
+- **Precisa:** Artigos 2025-2026, projetos em andamento, orientações pós-graduação
 
 ---
 
-### GRUPO B — Membros do ECOSALA (parcerias sociais e institucionais)
+## GRUPO B — Membros ECOSALA (Parcerias Sociais e Institucionais)
 
-#### B1. Prof. Dr. Marcos Paron
-- **Instituição:** IFSP (Instituto Federal de São Paulo)
-- **Áreas:** Microbiologia, ecoformação, bioenergia, biochar, compostagem
-- **Função:** Coordenador do ECOSALA, articulação acadêmica
-- **O que buscar:** Lattes completo, e-mail institucional, artigos sobre biochar e bioenergia, orientações, projetos de extensão. Verificar se há publicações sobre bambu, resíduos ou construção sustentável.
+### B1. Marcos Eduardo Paron
+- **Instituição:** IFSP — Sertãozinho/Ribeirão Preto
+- **Formação:** Agronomia (UFLA), Mestrado Solos (UFLA, 1995), Doutorado Microbiologia (UNESP, 2002), Pós-Doc Plantas Medicinais
+- **Lattes:** http://lattes.cnpq.br/0794381559000287
+- **Papel:** Coordenador ECOSALA. Microbiologia biofiltros, ecoformação, biochar, compostagem.
+- **Precisa:** E-mail institucional @ifsp.edu.br, ORCID, artigos recentes
+- **Já temos:** Tese, dissertação, 1 artigo (biogás, 2017)
 
-#### B2. Dra. Gisele Vilela
+### B2. Gisele Vilela
 - **Instituição:** Embrapa Territorial
-- **Áreas:** Produção orgânica, pó de rocha, remineralizadores de solo, fertilizantes naturais, insumos para construção civil
-- **O que buscar:** Lattes completo, e-mail institucional (@embrapa.br), artigos sobre pó de rocha e remineralizadores, projetos em andamento. Verificar conexão entre pó de rocha e materiais de construção (cimento verde, compósitos).
+- **Áreas:** Produção orgânica, pó de rocha, remineralizadores de solo
+- **Precisa:** Lattes, e-mail @embrapa.br, artigos sobre pó de rocha e materiais de construção
 
-#### B3. Joaquim Sando
-- **Instituição:** MST (Movimento dos Trabalhadores Rurais Sem Terra)
-- **Áreas:** Manejo de bambuzais invasores, viveiro educador, reforma agrária, agroecologia
-- **O que buscar:** Formação acadêmica (se houver), relatos de experiência em anais de agroecologia (CBAgroecologia), projetos de extensão com bambu, publicações em parceria com IFB ou Embrapa. Perfil predominantemente militante/extensionista.
-- **OBS:** Pode não ter Lattes — buscar em anais de congressos e relatórios de extensão.
+### B3. Joaquim Sando
+- **Instituição:** MST
+- **Perfil:** Extensionista/militante — pode não ter Lattes
+- **Áreas:** Viveiro educador, manejo bambuzais, reforma agrária
+- **Buscar:** Anais CBAgroecologia, relatórios extensão com IFB/Embrapa
 
-#### B4. Murilo Miguel
+### B4. Murilo Miguel
 - **Instituição:** Coletivo Terra Viva
-- **Áreas:** Operação de campo, viveiro, manejo agroecológico, assentamentos rurais
-- **O que buscar:** Formação, projetos de extensão, relatos de experiência, vínculo com MST ou movimentos sociais. Perfil de campo.
+- **Perfil:** Extensionista/militante — NÃO acadêmico
+- **Áreas:** Viveiro, manejo agroecológico, assentamentos
 
-#### B5. Vicente Borges (confirmar se é o mesmo que Vicente Virgolino)
-- **Instituição:** IFB (Instituto Federal de Brasília)
-- **Áreas:** Educação do campo, bambu, agroecologia
-- **OBS:** Já temos ficha de Vicente Virgolino (IFB Planaltina). Verificar se é a mesma pessoa ou homônimo. Se for o mesmo, consolidar dados.
-
----
-
-### GRUPO C — Demais Membros ECOSALA (complementar)
-
-#### C1. Raphaela Palma
-- **Áreas:** Saúde pública, saneamento ecológico
-- **Buscar:** Lattes, formação, publicações
-
-#### C2. Luci Okino
-- **Áreas:** Gestão comunitária, associativismo
-
-#### C3. Henrique Bueno
-- **Áreas:** Gestão administrativa
-
-#### C4. Luis Felipe
-- **Áreas:** Arquitetura e urbanismo
-
-#### C5. Murillo Miguel (verificar se é o mesmo que Murilo)
-- **Áreas:** SAFs, mobilização social, assentamentos
+### B5. Vicente de Paulo Borges Virgolino da Silva
+- **Instituição:** IFB — Campus Planaltina (desde 1995)
+- **Formação:** Agronomia (UFLA), Doutorado Educação do Campo
+- **Áreas:** Bambu, agroecologia, forno MPTDF
+- **Já temos:** 3 publicações (2022, 2024, 2015), 3 projetos (PROGRUPOS, MPTDF, Usina Bambu)
+- **Precisa:** ID Lattes numérico, e-mail @ifb.edu.br, ORCID
 
 ---
 
-## FORMATO DE RESPOSTA
+## GRUPO C — Demais ECOSALA (Complementar)
+
+- **C1. Raphaela Palma** — Saúde pública, saneamento ecológico
+- **C2. Luci Okino** — Gestão comunitária, associativismo
+- **C3. Henrique Bueno** — Gestão administrativa
+- **C4. Luis Felipe** — Arquitetura e urbanismo
+- **C5. Murillo Miguel** — SAFs, mobilização — confirmar se = Murilo (B4)
+
+---
+
+## PERFIS JÁ COMPLETOS (referência)
+
+- **Profa. Dra. Tânia Cristina da Silva Cruz** — UnB/FUP/LaPCiS
+  Lattes: http://lattes.cnpq.br/3940059129469560 | taniacruz@unb.br
+
+- **Dra. Ludmila de Araújo Correia** — CAU/DF
+  Lattes: http://lattes.cnpq.br/3699896854109315
+
+- **Prof. Dr. Antonio Bliska Jr.** — UNICAMP/NIPE
+  E-mail: bliskajr@unicamp.br
+
+---
+
+## EMPRESAS PARCEIRAS (não vão para pesquisa acadêmica)
+
+- **Techsus** — Sistema construtivo offsite (painéis). Patente. CDHU. Techsus + Faleiros venceram chamamento CDHU Offsite 001/2024.
+- **Faleiros Construtora** — Construtora habitação social. Parceira André. Musculatura financeira para contrapartida.
+- **Texos (Michel)** — Indústria painéis estruturais. Patente em validação IPT. Potencial proponente FINEP.
+
+---
+
+## FORMATO DE RESPOSTA (para cada acadêmico)
 
 ```
 ### [Nome Completo]
 **Instituição:** ...
-**E-mail:** ... (se público)
-**Lattes:** http://lattes.cnpq.br/XXXXXXXXXXXXXX
-**ORCID:** ... (se houver)
-**Status da informação:** [Completo / Parcial / Não encontrado]
+**E-mail:** ...
+**Lattes:** http://lattes.cnpq.br/...
+**ORCID:** ...
+**Status:** [Completo / Parcial / Não encontrado]
 
-**Formação Acadêmica:**
+**Formação:**
 | Nível | Curso | Instituição | Ano |
-|-------|-------|-------------|-----|
 
-**Artigos Publicados (completos, indexados):**
-| # | Título | Ano | Periódico | DOI/Link |
-|---|--------|-----|-----------|----------|
+**Artigos:**
+| # | Título | Ano | Periódico | DOI |
 
-**Trabalhos em Anais / Extensão / Relatos de Experiência:**
-| # | Título | Ano | Evento | Link |
-|---|--------|-----|--------|------|
+**Projetos:**
+| # | Projeto | Período | Fomento |
 
-**Projetos Relevantes:**
-| # | Projeto | Período | Fomento | Instituição |
-|---|---------|---------|---------|-------------|
-
-**Orientações (se houver):**
-| # | Tipo | Título | Ano | Orientando |
-|---|------|--------|-----|------------|
-
-**Observações para o Projeto Fábrica Modelo:**
-- Papel potencial: ...
-- Estado da informação: ...
-- Conexões com outros pesquisadores da lista: ...
+**Obs p/ FINEP:** Papel potencial
 ```
 
-## INFORMAÇÕES ADICIONAIS SOBRE O PROJETO
+---
+
+## CONTEXTO DO PROJETO
 
 - **Edital:** FINEP Mais Inovação — Economia Circular, Linha 4: Moradia Sustentável
-- **Valor:** R$ 5-10 milhões
-- **Prazo:** 31/08/2026
-- **Escopo:** Industrialização da construção civil com redução de impacto ambiental — painéis estruturais patenteados + P&D em bambu tratado, PU Vegetal (mamona), biocompósitos com resíduos
-- **Necessidades:** ICT parceira (obrigatória), empresa proponente com contrapartida financeira, parcerias sociais (cooperativas, assentamentos)
-- **Critérios de pontuação:** Parceria com ICTs, Parcerias Sociais, Qualificação da Equipe, Impacto socioeconômico, Externalidades ambientais
+- **Valor:** R$ 5-10M | **Prazo:** 31/08/2026
+- **Escopo:** Industrialização construção civil + P&D bambu, PU vegetal, biocompósitos
+- **Necessidades:** ICT parceira (obrigatória), empresa proponente, parcerias sociais
