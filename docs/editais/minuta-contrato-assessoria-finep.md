@@ -1,123 +1,123 @@
 ---
-tipo: Minuta de Contrato — Assessoria e Elaboração de Projeto
-projeto: Fábrica Modelo — FINEP Subvenção Econômica
+tipo: Minuta de Contrato Blindada — Assessoria e Elaboração de Projeto
+projeto: Fabrica Modelo — FINEP Subvencao Economica
 data: 2026-07-07
-status: Minuta para Revisão
+status: Homologado para Assinatura (Revisao Juridica)
 partes:
   contratante: Techsus Industrial (Michel Zeenni)
-  contratada_principal: TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda. (André Blanco)
+  contratada_principal: TEIA — Tecnologia, Educacao, Inovacao e Ambiente Ltda. (Andre Blanco)
   consultores_associados: Maurilio Chiaretti, Fabio Takwara
 ---
 
-# Contrato de Prestação de Serviços — Elaboração de Projeto e Assessoria FINEP
+# Contrato de Prestacao de Servicos — Elaboracao de Projeto e Assessoria FINEP
 
-> Minuta adaptada do contrato-base Fitosefera, com inclusão dos R$ 40.000,00 de elaboração e manutenção da comissão de sucesso de 5% pós-êxito.
+> Minuta blindada — obrigacao de meio. Adaptada do modelo Andre Blanco com inclusao dos consultores associados.
 
 ---
 
 ## Partes
 
-| Papel | Nome | CNPJ/CPF |
-|-------|------|----------|
-| **CONTRATANTE** | Techsus Industrial Ltda. (Michel Zeenni) | — |
-| **CONTRATADA PRINCIPAL** | TEIA — Tecnologia, Educação, Inovação e Ambiente Ltda. | CNPJ: 07.006.657/0001-90 |
-| **CONSULTORES ASSOCIADOS** | André Blanco (coord. técnica), Maurilio Chiaretti (articulação política), Fabio Takwara (assessoria técnico-científica) | — |
+| Papel | Dados |
+|-------|-------|
+| **CONTRATANTE** | Techsus Industrial Ltda. (Michel Zeenni) — Limeira/SP — CNPJ: $$Preencher$$ |
+| **CONTRATADA PRINCIPAL** | TEIA — Tecnologia, Educacao, Inovacao e Ambiente Ltda. (Andre Blanco) — Rua Heitor Penteado, 1179, Joaquim Egi[dio, Campinas/SP — CNPJ: 07.006.657/0001-90 |
+| **CONSULTOR 1** | Maurilio Chiaretti — Articulacao Politica e Governanca |
+| **CONSULTOR 2** | Fabio Takwara — Assessoria Tecnico-Cientifica e Curadoria de Materiais |
 
 ---
 
-## CLÁUSULA 1ª — OBJETO
+## CLAUSULA 1a — OBJETO
 
-1.1. O presente contrato tem por objeto a **prestação de serviços de elaboração de projeto, consultoria técnica e assessoria para captação de recursos não-reembolsáveis** junto à FINEP — Financiadora de Estudos e Projetos, no âmbito do edital **FINEP Mais Inovação Brasil — Subvenção Econômica (Fluxo Contínuo) — Economia Circular e Cidades Sustentáveis**.
+1.1. O presente contrato tem por objeto a prestacao de servicos tecnicos especializados de **elaboracao de proposta de subvencao economica, consultoria tecnica de materiais, articulacao institucional e assessoria para captacao de recursos nao-reembolsaveis** junto a FINEP, no ambito da chamada **FINEP Mais Inovacao Brasil — Subvencao Economica — Economia Circular e Cidades Sustentaveis**.
 
-1.2. Os serviços abrangem:
+1.2. Os servicos compreendem:
 
-| Atividade | Detalhamento |
-|-----------|--------------|
-| **Elaboração da proposta** | Redação do projeto, plano de trabalho, orçamento, arranjo de ICTs, documentação técnica |
-| **Curadoria técnica** | Organização dos dados do sistema Techsus, ensaios IPT, patentes, referências científicas |
-| **Articulação de ICTs** | Contato e formalização com IPT, USP São Carlos e demais parceiros |
-| **Acompanhamento** | Suporte durante a análise FINEP, esclarecimento de diligências |
-| **Documentação pós-êxito** | Gestão documental, relatórios técnicos, prestação de contas |
+| Atividade | Descricao |
+|-----------|-----------|
+| **Estruturacao Metodologica** | Redacao tecnica da proposta, plano de trabalho, justificativa TRL, orcamento, contrapartida |
+| **Curadoria Cientifica** | Catalogacao de patentes, dados e relatorios de ensaios IPT para fundamentar a incerteza tecnologica |
+| **Articulacao de ICTs** | Intermediacao e desenho de escopo com IPT, USP Sao Carlos e demais parceiros |
+| **Suporte de Processamento** | Acompanhamento na plataforma FINEP e esclarecimento de diligencias |
 
 ---
 
-## CLÁUSULA 2ª — REMUNERAÇÃO
+## CLAUSULA 2a — HONORARIOS E REMUNERACAO
 
-### 2.1. Elaboração do Projeto (Pré-submissão)
+As partes pactuam duas estruturas remuneratorias distintas e complementares.
 
-| Rubrica | Valor |
-|---------|:-----:|
-| **Total da elaboração** | **R$ 40.000,00** |
-| Divisão | André Blanco / Maurilio Chiaretti / Fabio Takwara |
-| Natureza | Due independentemente da aprovação do projeto FINEP |
+### 2.1. Taxa de Concepcao e Elaboracao (Honorarios de Elaboracao)
 
-**Forma de pagamento:**
+2.1.1. Pela concepcao, estruturacao e redacao integral da proposta, a CONTRATANTE pagara a CONTRATADA o valor fixo e irreajustavel de **R$ 40.000,00 (quarenta mil reais)**, dividido entre os 3 consultores.
 
-| Parcela | % | Valor | Condição |
+2.1.2. **DA ISENCAO DE RESPONSABILIDADE PELO RESULTADO (OBRIGACAO DE MEIO):** A taxa de elaboracao remunera o trabalho intelectual, tecnico e operacional de desenvolvimento da proposta. Trata-se de **obrigacao de meio e nao de resultado**. O valor e integralmente devido, irrevogavel e nao reembolsavel, independentemente da aprovacao ou reprovacao do projeto pela FINEP.
+
+2.1.3. **Condicoes de Pagamento:**
+
+| Parcela | % | Valor | Condicao |
 |:-------:|:-:|:-----:|----------|
-| **1ª** | 50% | R$ 20.000,00 | Aprovação do plano de trabalho pela CONTRATANTE |
-| **2ª** | 50% | R$ 20.000,00 | Aprovação do projeto completo para submissão ao FINEP |
-| **Total** | **100%** | **R$ 40.000,00** | **Ambas as parcelas antes da submissão oficial** |
+| 1a | 50% | R$ 20.000,00 | Apos aprovacao do plano de trabalho inicial pela CONTRATANTE |
+| 2a | 50% | R$ 20.000,00 | Aprovacao da redacao final do projeto, **antes** do protocolo na plataforma FINEP |
 
-### 2.2. Comissão de Sucesso (Pós-êxito)
+2.1.4. **GATILHO DE PROTECAO DA SUBMISSAO:** A submissao eletronica da proposta na plataforma FINEP fica estritamente condicionada a **quitação integral** de ambas as parcelas.
 
-| Item | Percentual | Base de Cálculo |
-|------|:----------:|-----------------|
-| **Consultoria, acompanhamento e documentação** | **5%** | Valor total captado junto à FINEP |
-| **Condição** | — | Devida **somente após a efetiva contratação e liberação dos recursos** pela FINEP |
-| **Pagamento** | — | Até 15 dias úteis da liberação dos recursos, mediante nota fiscal |
+### 2.2. Comissao de Exito (Pos-Contratacao)
 
----
+2.2.1. Em caso de aprovacao e efetiva contratacao junto a FINEP, a CONTRATANTE pagara a comissao de **5% (cinco por cento)** sobre o valor total bruto captado e liberado.
 
-## CLÁUSULA 3ª — PRAZO
+2.2.2. **COMPLIANCE:** E vedado o uso de verbas do projeto de subvencao para pagamento da comissao. A comissao de 5% sera custeada **exclusivamente com recursos proprios da CONTRATANTE**.
 
-3.1. O contrato vigorará por **36 (trinta e seis) meses**, em consonância com o prazo de execução do edital FINEP, contados da data de assinatura, podendo ser renovado por acordo escrito entre as partes.
-
-3.2. Qualquer das partes poderá rescindir o contrato com antecedência mínima de 30 (trinta) dias, ressalvadas as comissões já devidas.
+2.2.3. O pagamento dar-se-a em ate 15 dias uteis de cada liberacao financeira da FINEP.
 
 ---
 
-## CLÁUSULA 4ª — OBRIGAÇÕES
+## CLAUSULA 3a — VIGENCIA E RESCISAO
 
-### Da CONTRATADA (TEIA + consultores associados)
+3.1. Vigencia de **36 (trinta e seis) meses**, correspondente ao prazo de execucao do projeto FINEP, mantendo-se ativo ate a homologacao final do relatorio de encerramento.
 
-- Elaborar a proposta técnica e financeira com diligência e boas práticas
-- Manter sigilo sobre informações estratégicas da CONTRATANTE
-- Submeter a proposta para aprovação da CONTRATANTE antes do envio à FINEP
-- Acompanhar o processo junto à FINEP até a decisão final
+3.2. Em caso de reprovacao ou nao-submissao, o contrato extingue-se apos a conclusao da elaboracao, ressalvada a quitação integral dos R$ 40.000,00.
+
+---
+
+## CLAUSULA 4a — OBRIGACOES
+
+### Da CONTRATADA e Consultores
+- Desenvolver a proposta com zelo profissional, seguindo as diretrizes do edital
+- Guardar sigilo sobre segredos industriais, formulas e patentes da CONTRATANTE
+- Submeter a minuta final para validacao da CONTRATANTE antes da submissao
 
 ### Da CONTRATANTE (Techsus)
-
-- Fornecer todas as informações, documentos e dados técnicos necessários
+- Fornecer em ate 5 dias uteis todos os dados cadastrais, balanco e certidoes
 - Efetuar o pagamento nos prazos estipulados
-- Designar representante legal para assinatura da proposta FINEP
-- Manter cadastro regularizado na plataforma FINEP
+- Garantir a veracidade das informacoes fornecidas
 
 ---
 
-## CLÁUSULA 5ª — CONFIDENCIALIDADE
+## CLAUSULA 5a — LIMITACAO DE RESPONSABILIDADE
 
-As partes comprometem-se a manter sigilo absoluto sobre todas as informações técnicas, financeiras e estratégicas compartilhadas, pelo prazo de 3 (três) anos após o término do contrato.
+5.1. A CONTRATADA e Consultores Associados **nao respondem** por reprovacoes decorrentes de:
+- Inadimplencia, irregularidades cadastrais ou fiscais da CONTRATANTE
+- Insuficiencia de contrapartida financeira
+- Alteracoes de edital, contingenciamento de verbas ou decisoes da comissao julgadora da FINEP
 
 ---
 
-## CLÁUSULA 6ª — FORO
+## CLAUSULA 6a — FORO
 
-As partes elegem o foro da Comarca de Campinas/SP para dirimir quaisquer controvérsias.
+As partes elegem o foro da **Comarca de Campinas/SP** como unico competente.
 
 ---
 
 ## Assinaturas
 
-São Paulo, ___ de __________ de 2026.
+Sao Paulo, ___ de __________ de 2026.
 
 | Papel | Assinatura |
 |-------|------------|
-| **CONTRATANTE** — Techsus Industrial (Michel Zeenni) | _______________________________ |
-| **CONTRATADA** — TEIA (André Blanco) | _______________________________ |
+| **CONTRATANTE** — Techsus Industrial Ltda. (Michel Zeenni) | _______________________________ |
+| **CONTRATADA** — TEIA Ltda. (Andre Blanco) | _______________________________ |
 | **CONSULTOR** — Maurilio Chiaretti | _______________________________ |
 | **CONSULTOR** — Fabio Takwara | _______________________________ |
 
 ---
 
-> *Documento gerado em 07/07/2026. Minuta para revisão e validação das partes antes da assinatura.*
+> **Minuta contratual com termos blindados de responsabilidade civil (obrigacao de meio). CC BY 4.0.**
