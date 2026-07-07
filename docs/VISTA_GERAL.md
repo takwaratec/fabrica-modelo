@@ -86,6 +86,8 @@ Fichas Cavichiolli que embasam as opções de P&D com PU vegetal:
 
 > **Portugal (TecnoVeg):** A Imperveg atua na UE via TecnoVeg (Portugal), com certificação **EN 1504-2** e acesso a fundos PRR/Portugal 2030. Dos 7 ensaios em laboratório europeu já realizados, a espuma expansiva (MAMONEX) é a única pendente — oportunidade de P&D no escopo do projeto.
 
+> **Referência sísmica:** Estudo de Puma Alvarez (Universidad Federico Villarreal, Peru, 2014) comprova o **desempenho dinâmico de estruturas mistas de bambu e concreto armado sob cargas sísmicas** em mesa vibratória UCIST. A Colômbia já validou edificações de bambu de até **6 andares** em plataforma de ensaio sísmico (Universidad Tecnológica de Pereira). Essas referências embasam o Eixo 3 (bambu + PU) como tecnologia de construção resiliente. [Ficha no Acervo →](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/bambu-estrutural/ficha-desempenho-sismico-bambu-concreto-puma-2014/)
+
 ---
 
 ## 4. Responsáveis e Remuneração
