@@ -8,7 +8,11 @@
 
 ## 📋 Sobre o Projeto
 
-Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** para submeter ao edital **FINEP Mais Inovação** um projeto de P&amp;D que tem o **sistema construtivo Techsus** (patenteado, CDHU/Caixa) como tecnologia central, com linhas de aprimoramento em descarbonização, materiais complementares e certificação ambiental.
+Este repositório reúne a articulação do **Grupo Executor Fábrica Modelo** (André Blanco, Maurilio Chiaretti, Fabio Takwara) para submeter ao edital **FINEP Mais Inovação — Subvenção Econômica (Fluxo Contínuo)** um projeto de P&D com o **sistema construtivo Techsus** (DATec Nº 024-B, validado IPT/CDHU) como tecnologia central.
+
+**📄 Índice completo do projeto:** [`docs/VISTA_GERAL.md`](docs/VISTA_GERAL.md) — edital, pontuação, tetos, ICTs, estratégia, prazos e valores.
+**📋 Última reunião:** [07/07/2026 — Alinhamento FINEP Fábrica Modelo](docs/pesquisas/pesquisas-ict/2026-07-07_REUNIAO_FABRICA_MODELO_FINEP.md)
+**🌐 Site:** https://takwaratec.github.io/fabrica-modelo/
 
 > ⚠️ **Correção de atribuição:** O método de curadoria documental (8 seções) é de autoria da **Dra. Nathalia Cavitioli**. Todas as referências a "Cavichioli" foram corrigidas para "Cavitioli" em 236 arquivos do Acervo Científico. Incluir disclaimer de compliance ao final de fichas: `scripts/atribuicao_cavitioli.py`
 
